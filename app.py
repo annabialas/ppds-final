@@ -7,13 +7,15 @@ app.config.update(
     TEMPLATES_AUTO_RELOAD=True
 )
 
+data = ['anna', 'maria', 'bialas']
+
 @app.route('/')
 def index():
-    return render_template('index.html')
+    return render_template('index.html', title = 'index', items = data)
 
 @app.route('/about')
 def about():
-    return render_template('about.html')
+    return render_template('about.html', title = 'about')
 
 if __name__ == "__main__":
     app.run()

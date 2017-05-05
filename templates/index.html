@@ -4,14 +4,20 @@
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Index</title>
+    <title>{{ title }}</title>
     <!-- CSS -->
 	<link rel="stylesheet" href="/static/css/foundation.min.css" />
   </head>
   <body>
     <div class="row align-center">
   		<div class="column small-4">Aligned to</div>
-  		<div class="column small-4">the middle</div>
+  		<div class="column small-4">
+        <ul>
+          {% for item in items %}
+          <li>{{ item }}</li>
+          {% endfor %}
+        </ul>
+      </div>
 	</div>
     <!-- jQuery -->
     <script src="/static/js/jquery.js"></script>
