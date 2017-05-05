@@ -1,13 +1,20 @@
 from flask import Flask, render_template
+import yaml
+from jinja2 import Environment, FileSystemLoader, Template
 
 app = Flask(__name__)
+
+ENV = Environment(loader=FileSystemLoader('./'))
+
+with open('data.yaml') as data:
+    data =  yaml.load(data)
 
 app.config.update(
     DEBUG=True,
     TEMPLATES_AUTO_RELOAD=True
 )
 
-data = ['anna', 'maria', 'bialas']
+# data = ['anna', 'maria', 'bialas']
 
 @app.route('/')
 def index():
