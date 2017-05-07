@@ -1,13 +1,17 @@
 from flask import Flask, render_template
 import yaml
 from jinja2 import Environment, FileSystemLoader, Template
+from slugify import slugify
 
 app = Flask(__name__)
 
-ENV = Environment(loader=FileSystemLoader('./'))
+env = Environment(loader=FileSystemLoader('./'))
 
 with open('data.yaml') as data:
     data =  yaml.load(data)
+
+def slugify_string(text):
+    return slugify(text)
 
 app.config.update(
     DEBUG=True,
@@ -23,4 +27,5 @@ def about():
     return render_template('about.html', title = 'about')
 
 if __name__ == "__main__":
-    app.run()
+	app.jinja_env.filters['slugify'] = slugify_string
+	app.run()

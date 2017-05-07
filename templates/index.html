@@ -7,26 +7,114 @@
     <title>{{ title }}</title>
     <!-- CSS -->
 	<link rel="stylesheet" href="/static/css/foundation.min.css" />
+<!--   <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}"> -->
   </head>
-  <style> p { display: none; } </style>
-  <body>
+  <style> 
+
+  body {
+    font-size: 16px;
+    font-family: "Roboto", sans-serif;
+    line-height: 1.62;
+    font-weight: 400;
+    color: #333;
+    padding: 0;
+    margin: 0;
+    -webkit-font-smoothing: antialiased; 
+    background-color: #E5E5E5;
+  }
+
+  .top-nav {
+    height: 40px;
+    margin: 0px;
+    background-color: #004F6F;
+  }
+
+  .top-nav__item {
+    line-height: 40px;
+    vertical-align: middle;
+    text-align: right;
+    font-size: 14px;
+  }
+
+  .top-nav__item a { color: #FFF;  }
+
+  .footer {
+    bottom: 0;
+    position:absolute;
+    width: 100%;
+    height:40px;
+    background-color: #004F6F;
+    color: #fff;
+  }
+
+  .footer__content { 
+    margin: 0; 
+    line-height: 40px; 
+    font-size: 10px;
+    text-align: right;  
+  }
+
+  .top-section { 
+    height: 140px;
+    margin: 0px 0px 40px 0px;
+    background-color: #004F6F;
+    text-align:center;
+  }
+
+  .title { 
+    color: #fff; 
+    padding: 40px 0px 40px 0px; 
+    font-weight: 200;
+    font-family: "Roboto", sans-serif;
+  }
+
+  select:hover { cursor: pointer; }
+
+  .result { display: none; } 
+
+  </style>
+  <body>    
+    <nav class="top-nav">
+      <div class="row expanded align-right">
+        <div class="small-6 medium-4 large-4 columns">
+          <!-- <h5 class="top-nav__item"><a href="./about">about</a></h5> -->
+        </div>
+      </div>
+    </nav>
+    <div class="top-section">
+      <div class="row expanded align-center">
+        <div class="small-6 medium-8 large-8 columns">
+          <h2 class="title">Our Project</h2>
+        </div>
+      </div>
+    </div>
+
     <div class="row align-center">
-  		<div class="column small-4">
+  		<div class="column small-8">
         <div class="select">
           <select name="" id="select">
-<!--               <option value="default" disabled>Choose company</option> -->
+              <option value="default" disabled selected="selected">Choose a company</option>
               {% for item in items %}
-              <option value="{{ item.company }}">{{ item.company }}</option>
+              <option value="{{ item.Company | slugify }}">{{ item.Company }}</option>
               {% endfor %}
           </select>
         </div>  
       </div>
-  		<div class="column small-4">
+    </div>
+    <div class="row align-center">
+  		<div class="column small-8">
           {% for item in items %}
-              <p id="{{ item.company }}">{{ item.company }}</p>
+              <p class="result" id="{{ item.Company | slugify }}">{{ item.Company }}</p>
           {% endfor %}
       </div>
-	</div>
+    </div>
+  <footer class="footer">
+    <div class="row expanded align-right">
+      <div class="small-12 medium-6 columns">
+          <p class="footer__content">© 2017 Anna Bialas, Xinhui Yong, Jeremy Lu for PPDS'17</p>
+      </div>
+    </div>
+  </footer>
     <!-- jQuery -->
     <script src="/static/js/jquery.js"></script>
     <!-- Foundation -->
@@ -39,8 +127,8 @@
   $(document).foundation();
 
     $('select').on('change', function (e) {
-      var company = $( "#select option:selected" ).text();
-      $('p').hide();
+      var company = $( "#select option:selected" ).val();
+      $('.result').hide();
       $("#"+company).show();
     });
 

@@ -1,14 +1,221 @@
-- company: CITIGROUP-INC
-  ranking: 29
 
-- company: AETNA-INC
-  ranking: 46
-
-- company: ALPHABET-INC
-  ranking: 36
-
-- company: APPLE-INC
-  ranking: 3
-
-- company: FORD-MOTOR-COMPANY
-  ranking: 9
+-
+    Company: 2020 Companies
+    Industry: Advertising & Marketing
+    CEO: STEVE PETERS
+    overallRating: 2.9
+    ceoApprovalRating: 2.9
+    careerOpportunitiesRating: 2.7
+    compensationAndBenefitsRating: 2.8
+    cultureAndValuesRating: 2.9
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 3.1
+-
+    Company: 24 Hour Fitness
+    Industry: Sports & Recreation
+    CEO: FRANK NAPOLITANO
+    overallRating: 3.0
+    ceoApprovalRating: 5.0
+    careerOpportunitiesRating: 3.0
+    compensationAndBenefitsRating: 2.4
+    cultureAndValuesRating: 3.1
+    seniorLeadershipRating: 2.8
+    workLifeBalanceRating: 3.1
+-
+    Company: 24-7 Intouch
+    Industry: Staffing & Outsourcing
+    CEO: GREG FETTES
+    overallRating: 3.1
+    ceoApprovalRating: 2.65
+    careerOpportunitiesRating: 3.2
+    compensationAndBenefitsRating: 2.8
+    cultureAndValuesRating: 3.2
+    seniorLeadershipRating: 2.8
+    workLifeBalanceRating: 2.9
+-
+    Company: 3M
+    Industry: Chemical Manufacturing
+    CEO: INGE G. THULIN
+    overallRating: 3.7
+    ceoApprovalRating: 4.3
+    careerOpportunitiesRating: 3.4
+    compensationAndBenefitsRating: 3.7
+    cultureAndValuesRating: 3.8
+    seniorLeadershipRating: 3.2
+    workLifeBalanceRating: 3.6
+-
+    Company: 51Talk
+    Industry: Education Training Services
+    CEO: JACK JIAJIA HUANG
+    overallRating: 3.1
+    ceoApprovalRating: 2.05
+    careerOpportunitiesRating: 3.3
+    compensationAndBenefitsRating: 3.2
+    cultureAndValuesRating: 3.1
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 3.7
+-
+    Company: 7-Eleven
+    Industry: Other Retail Stores
+    CEO: JOE DEPINTO
+    overallRating: 2.9
+    ceoApprovalRating: 2.7
+    careerOpportunitiesRating: 2.5
+    compensationAndBenefitsRating: 2.5
+    cultureAndValuesRating: 2.6
+    seniorLeadershipRating: 2.4
+    workLifeBalanceRating: 2.5
+-
+    Company: A Wireless
+    Industry: Cable, Internet & Telephone Providers
+    CEO: GEORGE SHERMAN
+    overallRating: 2.6
+    ceoApprovalRating: 3.15
+    careerOpportunitiesRating: 2.9
+    compensationAndBenefitsRating: 3.0
+    cultureAndValuesRating: 2.6
+    seniorLeadershipRating: 2.4
+    workLifeBalanceRating: 2.3
+-
+    Company: A.T. Kearney
+    Industry: Consulting
+    CEO: JOHAN AURIK
+    overallRating: 4.2
+    ceoApprovalRating: 4.4
+    careerOpportunitiesRating: 4.3
+    compensationAndBenefitsRating: 4.2
+    cultureAndValuesRating: 4.2
+    seniorLeadershipRating: 3.8
+    workLifeBalanceRating: 3.4
+-
+    Company: 'Aaron''s'
+    Industry: Home Furniture & Housewares Stores
+    CEO: JOHN ROBINSON
+    overallRating: 2.8
+    ceoApprovalRating: 3.15
+    careerOpportunitiesRating: 2.9
+    compensationAndBenefitsRating: 3.1
+    cultureAndValuesRating: 2.9
+    seniorLeadershipRating: 2.5
+    workLifeBalanceRating: 2.0
+-
+    Company: AARP
+    Industry: Membership Organizations
+    CEO: JO ANN JENKINS
+    overallRating: 3.7
+    ceoApprovalRating: 3.85
+    careerOpportunitiesRating: 3.1
+    compensationAndBenefitsRating: 3.9
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 3.0
+    workLifeBalanceRating: 4.0
+-
+    Company: ABB
+    Industry: Electrical & Electronic Manufacturing
+    CEO: ULRICH SPIESSHOFER
+    overallRating: 3.6
+    ceoApprovalRating: 4.25
+    careerOpportunitiesRating: 3.3
+    compensationAndBenefitsRating: 3.2
+    cultureAndValuesRating: 3.7
+    seniorLeadershipRating: 3.0
+    workLifeBalanceRating: 3.6
+-
+    Company: Abbott Labs
+    Industry: Biotech & Pharmaceuticals
+    CEO: MILES D. WHITE
+    overallRating: 3.7
+    ceoApprovalRating: 4.1
+    careerOpportunitiesRating: 3.3
+    compensationAndBenefitsRating: 3.9
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 3.1
+    workLifeBalanceRating: 3.4
+-
+    Company: AbbVie
+    Industry: Biotech & Pharmaceuticals
+    CEO: RICHARD A. GONZALEZ
+    overallRating: 3.6
+    ceoApprovalRating: 4.35
+    careerOpportunitiesRating: 3.2
+    compensationAndBenefitsRating: 3.8
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 3.2
+    workLifeBalanceRating: 3.5
+-
+    Company: ABC
+    Industry: TV Broadcast & Cable Networks
+    CEO: BOB IGER
+    overallRating: 3.5
+    ceoApprovalRating: 4.2
+    careerOpportunitiesRating: 3.3
+    compensationAndBenefitsRating: 3.2
+    cultureAndValuesRating: 3.2
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 3.1
+-
+    Company: Abercrombie & Fitch
+    Industry: Department, Clothing, & Shoe Stores
+    CEO: ARTHUR MARTINEZ
+    overallRating: 3.1
+    ceoApprovalRating: 3.1
+    careerOpportunitiesRating: 2.8
+    compensationAndBenefitsRating: 2.6
+    cultureAndValuesRating: 3.2
+    seniorLeadershipRating: 2.8
+    workLifeBalanceRating: 3.0
+-
+    Company: ABM Industries
+    Industry: Building & Personnel Services
+    CEO: SCOTT SALMIRS
+    overallRating: 2.9
+    ceoApprovalRating: 3.9
+    careerOpportunitiesRating: 2.7
+    compensationAndBenefitsRating: 2.7
+    cultureAndValuesRating: 2.6
+    seniorLeadershipRating: 2.5
+    workLifeBalanceRating: 2.9
+-
+    Company: Academy of Art University
+    Industry: Colleges & Universities
+    CEO: ELISA STEPHENS
+    overallRating: 2.7
+    ceoApprovalRating: 0.95
+    careerOpportunitiesRating: 2.4
+    compensationAndBenefitsRating: 2.3
+    cultureAndValuesRating: 2.5
+    seniorLeadershipRating: 2.3
+    workLifeBalanceRating: 3.2
+-
+    Company: Academy Sports & Outdoors
+    Industry: Sporting Goods Stores
+    CEO: JK SYMANCYK
+    overallRating: 3.4
+    ceoApprovalRating: 4.1
+    careerOpportunitiesRating: 3.1
+    compensationAndBenefitsRating: 3.0
+    cultureAndValuesRating: 3.4
+    seniorLeadershipRating: 3.0
+    workLifeBalanceRating: 3.2
+-
+    Company: Accenture
+    Industry: 
+    CEO: PIERRE NANTERME
+    overallRating: 3.7
+    ceoApprovalRating: 4.7
+    careerOpportunitiesRating: 3.7
+    compensationAndBenefitsRating: 3.4
+    cultureAndValuesRating: 3.8
+    seniorLeadershipRating: 3.2
+    workLifeBalanceRating: 3.2
+-
+    Company: Accountemps
+    Industry: Staffing & Outsourcing
+    CEO: MAX MESSMER JR.
+    overallRating: 3.5
+    ceoApprovalRating: 4.5
+    careerOpportunitiesRating: 3.4
+    compensationAndBenefitsRating: 2.8
+    cultureAndValuesRating: 3.2
+    seniorLeadershipRating: 3.0
+    workLifeBalanceRating: 3.5
