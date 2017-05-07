@@ -14,8 +14,6 @@ app.config.update(
     TEMPLATES_AUTO_RELOAD=True
 )
 
-# data = ['anna', 'maria', 'bialas']
-
 @app.route('/')
 def index():
     return render_template('index.html', title = 'index', items = data)

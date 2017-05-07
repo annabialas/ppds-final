@@ -10,13 +10,19 @@
   </head>
   <body>
     <div class="row align-center">
-  		<div class="column small-4">Aligned to</div>
   		<div class="column small-4">
-        <ul>
-          {% for item in items %}
-          <li>{{ item.item }}</li>
-          {% endfor %}
-        </ul>
+        <div class="select">
+          <select name="" id="select">
+<!--               <option value="default" disabled>Choose company</option> -->
+              {% for item in items %}
+              <option value="{{ item.company }}">{{ item.company }}</option>
+              {% endfor %}
+          </select>
+        </div>  
+      </div>
+  		<div class="column small-4">
+          <h1 id="company"></h1>
+          <p id="ranking"></p>
       </div>
 	</div>
     <!-- jQuery -->
@@ -24,9 +30,17 @@
     <!-- Foundation -->
 	<script src="/static/js/what-input.js"></script>
 	<script src="/static/js/foundation.min.js"></script>
-    <script>
-      $(document).foundation();
-    </script>
+  <script src="/static/js/scripts.js"></script>
+  <script>
+  $(document).ready(function() {
 
+  $(document).foundation();
+
+    var company = $( "#select option:selected" ).text();
+    $("#company").load('about #'+company);
+
+  });
+
+  </script>
   </body>
 </html>

@@ -1,5 +1,14 @@
-- item: anna
+- company: AETNA-INC
+  ranking: 46
 
-- item: maria
+- company: ALPHABET-INC
+  ranking: 36
 
-- item: bialas
+- company: APPLE-INC
+  ranking: 3
+
+- company: CITIGROUP-INC
+  ranking: 29
+
+- company: FORD-MOTOR-COMPANY
+  ranking: 9
