@@ -8,6 +8,7 @@
     <!-- CSS -->
 	<link rel="stylesheet" href="/static/css/foundation.min.css" />
   </head>
+  <style> p { display: none; } </style>
   <body>
     <div class="row align-center">
   		<div class="column small-4">
@@ -21,8 +22,9 @@
         </div>  
       </div>
   		<div class="column small-4">
-          <h1 id="company"></h1>
-          <p id="ranking"></p>
+          {% for item in items %}
+              <p id="{{ item.company }}">{{ item.company }}</p>
+          {% endfor %}
       </div>
 	</div>
     <!-- jQuery -->
@@ -36,8 +38,11 @@
 
   $(document).foundation();
 
-    var company = $( "#select option:selected" ).text();
-    $("#company").load('about #'+company);
+    $('select').on('change', function (e) {
+      var company = $( "#select option:selected" ).text();
+      $('p').hide();
+      $("#"+company).show();
+    });
 
   });
 

@@ -1,3 +1,6 @@
+- company: CITIGROUP-INC
+  ranking: 29
+
 - company: AETNA-INC
   ranking: 46
 
@@ -6,9 +9,6 @@
 
 - company: APPLE-INC
   ranking: 3
-
-- company: CITIGROUP-INC
-  ranking: 29
 
 - company: FORD-MOTOR-COMPANY
   ranking: 9
