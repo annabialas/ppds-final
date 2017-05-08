@@ -13,4 +13,7 @@ cd into the project folder<br>
 ##### To run the app:
 
 `source venv/bin/activate`<br>
-`python3 app.py`
+`python3 app.py`<br>
+
+The app runs on port 5000
+
