@@ -2,6 +2,7 @@ from flask import Flask, render_template
 import yaml
 from jinja2 import Environment, FileSystemLoader, Template
 from slugify import slugify
+import os
 
 app = Flask(__name__)
 
@@ -24,4 +25,7 @@ def index():
 
 if __name__ == "__main__":
 	app.jinja_env.filters['slugify'] = slugify_string
-	app.run()
+	if os.environ.get('APP_LOCATION') == 'heroku':
+		app.run(host="0.0.0.0", port=int(os.environ.get("PORT",8080)))
+	else:
+		app.run(host='localhost', port=5000, debug=True)
