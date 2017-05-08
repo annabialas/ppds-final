@@ -1,10 +1,160 @@
 ---
 -
-    ceo: A. J. Teague
-    company: Enterprise Products
-    industry: Consumer Products Manufacturing
+    ceo: James R. Murdoch
+    company: 21st Century Fox
+    industry: Motion Picture Production & Distribution
     Gender: 0
-    ranking: 104
+    ranking: 96
+    careerOpportunitiesRating: 3.6
+    ceoApprovalRating: 2.4
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 3.3
+    seniorLeadershipRating: 3.3
+    workLifeBalanceRating: 3.5
+    overallRating: 3.8
+    ungendered: 3.559862505
+    predicted: 3.559847884
+-
+    ceo: Inge G. Thulin
+    company: 3M
+    industry: Chemical Manufacturing
+    Gender: 0
+    ranking: 93
+    careerOpportunitiesRating: 3.4
+    ceoApprovalRating: 4.3
+    compensationAndBenefitsRating: 3.7
+    cultureAndValuesRating: 3.8
+    seniorLeadershipRating: 3.2
+    workLifeBalanceRating: 3.6
+    overallRating: 3.7
+    ungendered: 3.663973844
+    predicted: 3.663956376
+-
+    ceo: Gregory N. Roberts
+    company: A-Mark Precious Metals
+    industry: Brokerage Services
+    Gender: 0
+    ranking: 426
+    careerOpportunitiesRating: 4.5
+    ceoApprovalRating: 5
+    compensationAndBenefitsRating: 4.5
+    cultureAndValuesRating: 4
+    seniorLeadershipRating: 4
+    workLifeBalanceRating: 5
+    overallRating: 4.4
+    ungendered: 4.448330557
+    predicted: 4.44833715
+-
+    ceo: Miles D. White
+    company: Abbott Labs
+    industry: Biotech & Pharmaceuticals
+    Gender: 0
+    ranking: 138
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 3.8
+    cultureAndValuesRating: 0
+    seniorLeadershipRating: 1.5
+    workLifeBalanceRating: 2.8
+    overallRating: 3.3
+    ungendered: 1.937943188
+    predicted: 1.937956789
+-
+    ceo: Richard A. Gonzalez
+    company: AbbVie
+    industry: Biotech & Pharmaceuticals
+    Gender: 0
+    ranking: 123
+    careerOpportunitiesRating: 3.2
+    ceoApprovalRating: 4.35
+    compensationAndBenefitsRating: 3.8
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 3.2
+    workLifeBalanceRating: 3.5
+    overallRating: 3.6
+    ungendered: 3.537556813
+    predicted: 3.537537838
+-
+    ceo: Scott B. Salmirs
+    company: ABM Industries
+    industry: Building & Personnel Services
+    Gender: 0
+    ranking: 485
+    careerOpportunitiesRating: 2.7
+    ceoApprovalRating: 3.9
+    compensationAndBenefitsRating: 2.7
+    cultureAndValuesRating: 2.6
+    seniorLeadershipRating: 2.5
+    workLifeBalanceRating: 2.9
+    overallRating: 2.9
+    ungendered: 2.818027722
+    predicted: 2.818005107
+-
+    ceo: Juan R. Luciano
+    company: ADM
+    industry: Food Production
+    Gender: 0
+    ranking: 41
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 4.55
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 3.2
+    seniorLeadershipRating: 3
+    workLifeBalanceRating: 3
+    overallRating: 3.3
+    ungendered: 3.329035284
+    predicted: 3.329017268
+-
+    ceo: Carlos A. Rodriguez
+    company: ADP
+    industry: 
+    Gender: 0
+    ranking: 248
+    careerOpportunitiesRating: 3.1
+    ceoApprovalRating: 4.3
+    compensationAndBenefitsRating: 3.1
+    cultureAndValuesRating: 3
+    seniorLeadershipRating: 2.8
+    workLifeBalanceRating: 3.1
+    overallRating: 3.3
+    ungendered: 3.157292877
+    predicted: 3.157274289
+-
+    ceo: Thomas Greco
+    company: Advance Auto Parts
+    industry: Automotive Parts & Accessories Stores
+    Gender: 0
+    ranking: 293
+    careerOpportunitiesRating: 2.9
+    ceoApprovalRating: 3.8
+    compensationAndBenefitsRating: 2.6
+    cultureAndValuesRating: 2.9
+    seniorLeadershipRating: 2.5
+    workLifeBalanceRating: 2.8
+    overallRating: 3
+    ungendered: 2.915811648
+    predicted: 2.915788784
+-
+    ceo: Michael S. Burke
+    company: AECOM
+    industry: Architectural & Engineering Services
+    Gender: 0
+    ranking: 156
+    careerOpportunitiesRating: 3.2
+    ceoApprovalRating: 3.5
+    compensationAndBenefitsRating: 3.1
+    cultureAndValuesRating: 3.2
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 3.3
+    overallRating: 3.2
+    ungendered: 3.281795411
+    predicted: 3.281776878
+-
+    ceo: Nicholas K. Akins
+    company: AEP
+    industry: Utilities
+    Gender: 0
+    ranking: 165
     careerOpportunitiesRating: 0
     ceoApprovalRating: 0
     compensationAndBenefitsRating: 0
@@ -15,20 +165,485 @@
     ungendered: 0.18353529
     predicted: 0.183475634
 -
-    ceo: Alain Monie
-    company: Ingram Micro
-    industry: Computer Hardware & Software
+    ceo: Mark T. Bertolini
+    company: Aetna
+    industry: Building & Personnel Services
     Gender: 0
-    ranking: 64
+    ranking: 46
+    careerOpportunitiesRating: 1.9
+    ceoApprovalRating: 4.1
+    compensationAndBenefitsRating: 2.6
+    cultureAndValuesRating: 2.6
+    seniorLeadershipRating: 2.2
+    workLifeBalanceRating: 3.3
+    overallRating: 2.6
+    ungendered: 2.611840721
+    predicted: 2.611811015
+-
+    ceo: Daniel P. Amos
+    company: Aflac
+    industry: Banks & Credit Unions
+    Gender: 0
+    ranking: 135
+    careerOpportunitiesRating: 3.4
+    ceoApprovalRating: 4.55
+    compensationAndBenefitsRating: 3.8
+    cultureAndValuesRating: 4.6
+    seniorLeadershipRating: 4
+    workLifeBalanceRating: 4.4
+    overallRating: 3.6
+    ungendered: 4.234379487
+    predicted: 4.234354461
+-
+    ceo: Martin H. Richenhagen
+    company: AGCO
+    industry: Federal Agencies
+    Gender: 0
+    ranking: 360
+    careerOpportunitiesRating: 2.8
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 3.7
+    cultureAndValuesRating: 3.1
+    seniorLeadershipRating: 2.5
+    workLifeBalanceRating: 3.6
+    overallRating: 3.1
+    ungendered: 3.11032095
+    predicted: 3.110302602
+-
+    ceo: Peter D. Hancock
+    company: AIG
+    industry: Insurance Agencies & Brokerages
+    Gender: 0
+    ranking: 49
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 4.45
+    compensationAndBenefitsRating: 3.8
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 3.3
+    workLifeBalanceRating: 3.7
+    overallRating: 3.4
+    ungendered: 3.554662456
+    predicted: 3.554640774
+-
+    ceo: Seifi Ghasemi
+    company: Air Products
+    industry: Chemical Manufacturing
+    Gender: 0
+    ranking: 288
     careerOpportunitiesRating: 3.1
-    ceoApprovalRating: 3.75
-    compensationAndBenefitsRating: 3
+    ceoApprovalRating: 2.2
+    compensationAndBenefitsRating: 3.6
     cultureAndValuesRating: 3.2
     seniorLeadershipRating: 2.8
+    workLifeBalanceRating: 3.6
+    overallRating: 3.4
+    ungendered: 3.299812994
+    predicted: 3.299797226
+-
+    ceo: Michael L. Molinini
+    company: Airgas
+    industry: Oil & Gas Services
+    Gender: 0
+    ranking: 484
+    careerOpportunitiesRating: 2.4
+    ceoApprovalRating: 2.3
+    compensationAndBenefitsRating: 3
+    cultureAndValuesRating: 2.4
+    seniorLeadershipRating: 2.1
+    workLifeBalanceRating: 2.8
+    overallRating: 2.6
+    ungendered: 2.578463317
+    predicted: 2.578440453
+-
+    ceo: Roger K. Newport
+    company: AK Steel Holding Corporation
+    industry: Metal & Mineral Manufacturing
+    Gender: 0
+    ranking: 383
+    careerOpportunitiesRating: 2.8
+    ceoApprovalRating: 3.85
+    compensationAndBenefitsRating: 3.6
+    cultureAndValuesRating: 2.3
+    seniorLeadershipRating: 2.3
+    workLifeBalanceRating: 2.3
+    overallRating: 2.9
+    ungendered: 2.683113033
+    predicted: 2.683094971
+-
+    ceo: Bradley D. Tilden
+    company: Alaska Air Group, Inc.
+    industry: Airlines
+    Gender: 0
+    ranking: 459
+    careerOpportunitiesRating: 3.6
+    ceoApprovalRating: 4.6
+    compensationAndBenefitsRating: 3.4
+    cultureAndValuesRating: 3.9
+    seniorLeadershipRating: 3.4
+    workLifeBalanceRating: 3.4
+    overallRating: 3.7
+    ungendered: 3.74350024
+    predicted: 3.743480581
+-
+    ceo: Edward J. Heffernan
+    company: Alliance Data
+    industry: Advertising & Marketing
+    Gender: 0
+    ranking: 404
+    careerOpportunitiesRating: 3.7
+    ceoApprovalRating: 4.85
+    compensationAndBenefitsRating: 4.1
+    cultureAndValuesRating: 3.8
+    seniorLeadershipRating: 3.3
+    workLifeBalanceRating: 3.6
+    overallRating: 3.6
+    ungendered: 3.791123405
+    predicted: 3.791111984
+-
+    ceo: Thomas J. Wilson
+    company: Allstate
+    industry: Health Care Services & Hospitals
+    Gender: 0
+    ranking: 81
+    careerOpportunitiesRating: 1
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 1
+    cultureAndValuesRating: 1
+    seniorLeadershipRating: 1
+    workLifeBalanceRating: 1
+    overallRating: 2.2
+    ungendered: 1.168443343
+    predicted: 1.168394388
+-
+    ceo: Jeffrey J. Brown
+    company: Ally Financial
+    industry: Lending
+    Gender: 0
+    ranking: 298
+    careerOpportunitiesRating: 0
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 0
+    cultureAndValuesRating: 0
+    seniorLeadershipRating: 0
+    workLifeBalanceRating: 0
+    overallRating: 0
+    ungendered: 0.18353529
+    predicted: 0.183475634
+-
+    ceo: Larry Page
+    company: Alphabet
+    industry: 
+    Gender: 0
+    ranking: 36
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 3.85
+    compensationAndBenefitsRating: 4
+    cultureAndValuesRating: 4
+    seniorLeadershipRating: 4
+    workLifeBalanceRating: 3
+    overallRating: 4
+    ungendered: 3.805530861
+    predicted: 3.80549184
+-
+    ceo: Martin J. Barrington
+    company: Altria
+    industry: Consumer Products Manufacturing
+    Gender: 0
+    ranking: 149
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 4.6
+    compensationAndBenefitsRating: 4.4
+    cultureAndValuesRating: 3.8
+    seniorLeadershipRating: 3.5
+    workLifeBalanceRating: 3.8
+    overallRating: 3.7
+    ungendered: 3.815783979
+    predicted: 3.8157662
+-
+    ceo: Jeffrey P. Bezos
+    company: Amazon
+    industry: Biotech & Pharmaceuticals
+    Gender: 0
+    ranking: 18
+    careerOpportunitiesRating: 4
+    ceoApprovalRating: 5
+    compensationAndBenefitsRating: 4
+    cultureAndValuesRating: 5
+    seniorLeadershipRating: 3
+    workLifeBalanceRating: 3
+    overallRating: 2.8
+    ungendered: 3.987041458
+    predicted: 3.987023787
+-
+    ceo: Warner L. Baxter
+    company: Ameren
+    industry: Utilities
+    Gender: 0
+    ranking: 425
+    careerOpportunitiesRating: 3.6
+    ceoApprovalRating: 4.45
+    compensationAndBenefitsRating: 4.3
+    cultureAndValuesRating: 3.8
+    seniorLeadershipRating: 3.5
+    workLifeBalanceRating: 4.1
+    overallRating: 3.8
+    ungendered: 3.912063956
+    predicted: 3.912053329
+-
+    ceo: Kenneth I. Chenault
+    company: American Express
+    industry: Travel Agencies
+    Gender: 0
+    ranking: 85
+    careerOpportunitiesRating: 3.7
+    ceoApprovalRating: 3.4
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 4
+    seniorLeadershipRating: 3.7
+    workLifeBalanceRating: 3.7
+    overallRating: 4
+    ungendered: 3.919802917
+    predicted: 3.919782769
+-
+    ceo: Jack C. Salzwedel
+    company: American Family Insurance
+    industry: Insurance Carriers
+    Gender: 0
+    ranking: 332
+    careerOpportunitiesRating: 3.4
+    ceoApprovalRating: 4.55
+    compensationAndBenefitsRating: 3.1
+    cultureAndValuesRating: 3.8
+    seniorLeadershipRating: 3.4
+    workLifeBalanceRating: 3.8
+    overallRating: 3.4
+    ungendered: 3.709101649
+    predicted: 3.709081571
+-
+    ceo: Carl H. Lindner lll, S. Craig Lindner
+    company: American Financial
+    industry: Investment Banking & Asset Management
+    Gender: 0
+    ranking: 421
+    careerOpportunitiesRating: 3.5
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 3.6
+    cultureAndValuesRating: 2.6
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 3
+    overallRating: 3.3
+    ungendered: 3.153285251
+    predicted: 3.153272739
+-
+    ceo: Mary T. Barra
+    company: AmeriCredit
+    industry: Lending
+    Gender: 1
+    ranking: 8
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 4.35
+    compensationAndBenefitsRating: 3.3
+    cultureAndValuesRating: 3.6
+    seniorLeadershipRating: 3.2
+    workLifeBalanceRating: 3.3
+    overallRating: 3.2
+    ungendered: 3.456248226
+    predicted: 3.456657528
+-
+    ceo: James M. Cracchiolo
+    company: Ameriprise
+    industry: Investment Banking & Asset Management
+    Gender: 0
+    ranking: 232
+    careerOpportunitiesRating: 3.2
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 3.6
+    cultureAndValuesRating: 3.3
+    seniorLeadershipRating: 3.1
+    workLifeBalanceRating: 3.1
+    overallRating: 3.3
+    ungendered: 3.347352707
+    predicted: 3.347328326
+-
+    ceo: Steven H. Collis
+    company: AmerisourceBergen
+    industry: Biotech & Pharmaceuticals
+    Gender: 0
+    ranking: 12
+    careerOpportunitiesRating: 3.1
+    ceoApprovalRating: 3.85
+    compensationAndBenefitsRating: 3.6
+    cultureAndValuesRating: 3.2
+    seniorLeadershipRating: 2.8
+    workLifeBalanceRating: 3.1
+    overallRating: 3.3
+    ungendered: 3.243196807
+    predicted: 3.243178221
+-
+    ceo: Robert A. Bradway
+    company: Amgen
+    industry: Biotech & Pharmaceuticals
+    Gender: 0
+    ranking: 130
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 3.6
+    compensationAndBenefitsRating: 4.1
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 3.1
+    workLifeBalanceRating: 3.5
+    overallRating: 3.7
+    ungendered: 3.544732925
+    predicted: 3.54471726
+-
+    ceo: R. Adam Norwitt
+    company: Amphenol
+    industry: Electrical & Electronic Manufacturing
+    Gender: 0
+    ranking: 462
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 4.1
+    compensationAndBenefitsRating: 2.9
+    cultureAndValuesRating: 2.8
+    seniorLeadershipRating: 2.9
     workLifeBalanceRating: 3.2
     overallRating: 3.2
-    ungendered: 3.211549093
-    predicted: 3.211528938
+    ungendered: 3.111424251
+    predicted: 3.111404303
+-
+    ceo: R. A. Walker
+    company: Anadarko Petroleum
+    industry: Oil & Gas Exploration & Production
+    Gender: 0
+    ranking: 324
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 3.65
+    compensationAndBenefitsRating: 4.5
+    cultureAndValuesRating: 3.6
+    seniorLeadershipRating: 3.3
+    workLifeBalanceRating: 4.2
+    overallRating: 3.9
+    ungendered: 3.759690122
+    predicted: 3.75967907
+-
+    ceo: Robert J. Eck
+    company: Anixter International
+    industry: Insurance Agencies & Brokerages
+    Gender: 0
+    ranking: 391
+    careerOpportunitiesRating: 5
+    ceoApprovalRating: 2.95
+    compensationAndBenefitsRating: 4.5
+    cultureAndValuesRating: 4.5
+    seniorLeadershipRating: 4.5
+    workLifeBalanceRating: 5
+    overallRating: 5
+    ungendered: 4.815545231
+    predicted: 4.815549131
+-
+    ceo: John J. Christmann IV
+    company: Apache
+    industry: K-12 Education
+    Gender: 0
+    ranking: 388
+    careerOpportunitiesRating: 2.7
+    ceoApprovalRating: 3.45
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 2.7
+    seniorLeadershipRating: 2.7
+    workLifeBalanceRating: 2.7
+    overallRating: 3.3
+    ungendered: 2.931757372
+    predicted: 2.931732779
+-
+    ceo: Timothy D. Cook
+    company: Apple
+    industry: Computer Hardware & Software
+    Gender: 0
+    ranking: 3
+    careerOpportunitiesRating: 3.4
+    ceoApprovalRating: 4.7
+    compensationAndBenefitsRating: 4.1
+    cultureAndValuesRating: 4.1
+    seniorLeadershipRating: 3.4
+    workLifeBalanceRating: 3.3
+    overallRating: 3.9
+    ungendered: 3.793097679
+    predicted: 3.793075028
+-
+    ceo: Gary E. Dickerson
+    company: Applied Materials, Inc.
+    industry: Electrical & Electronic Manufacturing
+    Gender: 0
+    ranking: 295
+    careerOpportunitiesRating: 3.1
+    ceoApprovalRating: 4
+    compensationAndBenefitsRating: 3.4
+    cultureAndValuesRating: 3.4
+    seniorLeadershipRating: 3
+    workLifeBalanceRating: 3.3
+    overallRating: 3.4
+    ungendered: 3.369694651
+    predicted: 3.369673377
+-
+    ceo: Eric J. Foss
+    company: Aramark
+    industry: Building & Personnel Services
+    Gender: 0
+    ranking: 199
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 3.7
+    compensationAndBenefitsRating: 2.9
+    cultureAndValuesRating: 2.9
+    seniorLeadershipRating: 2.6
+    workLifeBalanceRating: 3
+    overallRating: 3
+    ungendered: 3.016398597
+    predicted: 3.016379122
+-
+    ceo: Michael J. Long
+    company: Arrow Electronics
+    industry: Wholesale
+    Gender: 0
+    ranking: 119
+    careerOpportunitiesRating: 3.1
+    ceoApprovalRating: 2.85
+    compensationAndBenefitsRating: 3
+    cultureAndValuesRating: 3
+    seniorLeadershipRating: 2.8
+    workLifeBalanceRating: 3.1
+    overallRating: 3.1
+    ungendered: 3.137581614
+    predicted: 3.137561352
+-
+    ceo: J. Patrick Gallagher Jr.
+    company: Arthur J. Gallagher & Co.
+    industry: Insurance Agencies & Brokerages
+    Gender: 0
+    ranking: 471
+    careerOpportunitiesRating: 3.1
+    ceoApprovalRating: 4
+    compensationAndBenefitsRating: 3
+    cultureAndValuesRating: 3.4
+    seniorLeadershipRating: 3.1
+    workLifeBalanceRating: 3.1
+    overallRating: 3.1
+    ungendered: 3.341402256
+    predicted: 3.341376608
+-
+    ceo: Craig T. Monaghan
+    company: Asbury Automotive
+    industry: Vehicle Dealers
+    Gender: 0
+    ranking: 393
+    careerOpportunitiesRating: 2.9
+    ceoApprovalRating: 3.65
+    compensationAndBenefitsRating: 2.7
+    cultureAndValuesRating: 2.9
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 2.4
+    overallRating: 2.9
+    ungendered: 2.985046109
+    predicted: 2.98501566
 -
     ceo: Alan B. Colberg
     company: Assurant
@@ -45,65 +660,2570 @@
     ungendered: 3.257065114
     predicted: 3.257044177
 -
-    ceo: Alan B. Miller
-    company: Universal Health Services
-    industry: Health Care Services & Hospitals
+    ceo: Randall L. Stephenson
+    company: AT&T
+    industry: Cable, Internet & Telephone Providers
     Gender: 0
-    ranking: 290
+    ranking: 10
+    careerOpportunitiesRating: 3.2
+    ceoApprovalRating: 3.55
+    compensationAndBenefitsRating: 3.8
+    cultureAndValuesRating: 3.2
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 3
+    overallRating: 3.4
+    ungendered: 3.292295068
+    predicted: 3.292276736
+-
+    ceo: Michael J. Jackson
+    company: AutoNation
+    industry: Vehicle Dealers
+    Gender: 0
+    ranking: 136
     careerOpportunitiesRating: 2.5
-    ceoApprovalRating: 1.85
-    compensationAndBenefitsRating: 2.8
-    cultureAndValuesRating: 2.8
-    seniorLeadershipRating: 2
+    ceoApprovalRating: 2.3
+    compensationAndBenefitsRating: 2.5
+    cultureAndValuesRating: 2.5
+    seniorLeadershipRating: 2.4
+    workLifeBalanceRating: 2.1
+    overallRating: 2.6
+    ungendered: 2.578916404
+    predicted: 2.578883218
+-
+    ceo: William C. Rhodes III
+    company: AutoZone
+    industry: 
+    Gender: 0
+    ranking: 280
+    careerOpportunitiesRating: 2.5
+    ceoApprovalRating: 3.45
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 3
+    seniorLeadershipRating: 3.6
     workLifeBalanceRating: 2.5
-    overallRating: 2.5
-    ungendered: 2.612972564
-    predicted: 2.612945669
+    overallRating: 3.7
+    ungendered: 3.208880796
+    predicted: 3.208838831
 -
-    ceo: Alan D. Schnitzer
-    company: The Travelers Companies, Inc.
-    industry: Advertising & Marketing
+    ceo: Mitchell R. Butier
+    company: Avery Dennison
+    industry: Chemical Manufacturing
     Gender: 0
-    ranking: 105
-    careerOpportunitiesRating: 3.4
-    ceoApprovalRating: 5
-    compensationAndBenefitsRating: 3.7
-    cultureAndValuesRating: 4.4
-    seniorLeadershipRating: 3.9
-    workLifeBalanceRating: 4.6
-    overallRating: 3.9
-    ungendered: 4.176767952
-    predicted: 4.176747298
+    ranking: 435
+    careerOpportunitiesRating: 3.1
+    ceoApprovalRating: 4.75
+    compensationAndBenefitsRating: 3.4
+    cultureAndValuesRating: 3.3
+    seniorLeadershipRating: 2.7
+    workLifeBalanceRating: 3.1
+    overallRating: 3.4
+    ungendered: 3.232092613
+    predicted: 3.232074377
 -
-    ceo: Aldo C. Zucaro
-    company: Old Republic
-    industry: Insurance Carriers
+    ceo: Larry D. De Shon
+    company: Avis Budget Group
+    industry: Commercial Equipment Rental
     Gender: 0
-    ranking: 442
-    careerOpportunitiesRating: 2.1
-    ceoApprovalRating: 1.8
-    compensationAndBenefitsRating: 2.4
-    cultureAndValuesRating: 1.9
-    seniorLeadershipRating: 2
+    ranking: 330
+    careerOpportunitiesRating: 2.9
+    ceoApprovalRating: 3.2
+    compensationAndBenefitsRating: 3.2
+    cultureAndValuesRating: 3.1
+    seniorLeadershipRating: 2.8
+    workLifeBalanceRating: 2.9
+    overallRating: 3.1
+    ungendered: 3.111619512
+    predicted: 3.11159445
+-
+    ceo: William J. Amelio
+    company: Avnet
+    industry: Electrical & Electronic Manufacturing
+    Gender: 0
+    ranking: 102
+    careerOpportunitiesRating: 2.9
+    ceoApprovalRating: 2.35
+    compensationAndBenefitsRating: 3
+    cultureAndValuesRating: 3.3
+    seniorLeadershipRating: 2.6
+    workLifeBalanceRating: 3.3
+    overallRating: 3.2
+    ungendered: 3.138459777
+    predicted: 3.138437269
+-
+    ceo: Sherilyn S. McCoy
+    company: Avon Products
+    industry: Consumer Products Manufacturing
+    Gender: 1
+    ranking: 370
+    careerOpportunitiesRating: 2.9
+    ceoApprovalRating: 2.25
+    compensationAndBenefitsRating: 3.2
+    cultureAndValuesRating: 3.2
+    seniorLeadershipRating: 2.5
     workLifeBalanceRating: 3.2
-    overallRating: 2.2
-    ungendered: 2.362505683
-    predicted: 2.362483327
+    overallRating: 3.1
+    ungendered: 3.082485105
+    predicted: 3.082900421
 -
-    ceo: Alex A. Molinaroli
-    company: Johnson Controls, Inc.
+    ceo: Martin S. Craighead
+    company: Baker Hughes
+    industry: Oil & Gas Services
+    Gender: 0
+    ranking: 178
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 3.15
+    compensationAndBenefitsRating: 3.8
+    cultureAndValuesRating: 3.4
+    seniorLeadershipRating: 2.8
+    workLifeBalanceRating: 3.2
+    overallRating: 3.5
+    ungendered: 3.360451743
+    predicted: 3.360436029
+-
+    ceo: Brian T. Moynihan
+    company: Bank of America
+    industry: IT Services
+    Gender: 0
+    ranking: 26
+    careerOpportunitiesRating: 3.2
+    ceoApprovalRating: 4.75
+    compensationAndBenefitsRating: 3.4
+    cultureAndValuesRating: 3.6
+    seniorLeadershipRating: 3.1
+    workLifeBalanceRating: 4.1
+    overallRating: 3.6
+    ungendered: 3.591901122
+    predicted: 3.591886411
+-
+    ceo: Ronald D. Boire
+    company: Barnes & Noble
+    industry: Media & Entertainment Retail Stores
+    Gender: 0
+    ranking: 427
+    careerOpportunitiesRating: 2.8
+    ceoApprovalRating: 3.65
+    compensationAndBenefitsRating: 2.6
+    cultureAndValuesRating: 3.6
+    seniorLeadershipRating: 3.2
+    workLifeBalanceRating: 3.9
+    overallRating: 3.5
+    ungendered: 3.440776759
+    predicted: 3.440748336
+-
+    ceo: Ludwig N. Hantson
+    company: Baxalta
+    industry: Biotech & Pharmaceuticals
+    Gender: 0
+    ranking: 420
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 3.55
+    compensationAndBenefitsRating: 3.4
+    cultureAndValuesRating: 3.1
+    seniorLeadershipRating: 2.7
+    workLifeBalanceRating: 3.3
+    overallRating: 3.2
+    ungendered: 3.177008659
+    predicted: 3.176990916
+-
+    ceo: Jose E. Almeida
+    company: Baxter
+    industry: Biotech & Pharmaceuticals
+    Gender: 0
+    ranking: 286
+    careerOpportunitiesRating: 3.1
+    ceoApprovalRating: 4
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 3.3
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 3.3
+    overallRating: 3.4
+    ungendered: 3.321183875
+    predicted: 3.321164867
+-
+    ceo: Kelly S. King
+    company: BB&T Corporation
+    industry: 
+    Gender: 0
+    ranking: 273
+    careerOpportunitiesRating: 2.7
+    ceoApprovalRating: 5
+    compensationAndBenefitsRating: 3
+    cultureAndValuesRating: 4.4
+    seniorLeadershipRating: 3.7
+    workLifeBalanceRating: 4.7
+    overallRating: 3.7
+    ungendered: 3.932430512
+    predicted: 3.932398283
+-
+    ceo: Vincent A. Forlenza
+    company: Becton, Dickinson and Company
+    industry: Health Care Products Manufacturing
+    Gender: 0
+    ranking: 278
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 4.1
+    compensationAndBenefitsRating: 3.4
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 3.3
+    overallRating: 3.3
+    ungendered: 3.345910873
+    predicted: 3.345888317
+-
+    ceo: Steven H. Temares
+    company: Bed Bath & Beyond
+    industry: Home Furniture & Housewares Stores
+    Gender: 0
+    ranking: 238
+    careerOpportunitiesRating: 2.6
+    ceoApprovalRating: 2.6
+    compensationAndBenefitsRating: 2.7
+    cultureAndValuesRating: 3
+    seniorLeadershipRating: 2.6
+    workLifeBalanceRating: 2.8
+    overallRating: 3
+    ungendered: 2.906461731
+    predicted: 2.90643121
+-
+    ceo: Warren E. Buffett
+    company: Berkshire Hathaway
+    industry: 
+    Gender: 0
+    ranking: 4
+    careerOpportunitiesRating: 4
+    ceoApprovalRating: 5
+    compensationAndBenefitsRating: 4.3
+    cultureAndValuesRating: 4.3
+    seniorLeadershipRating: 4
+    workLifeBalanceRating: 4.2
+    overallRating: 4.2
+    ungendered: 4.294403076
+    predicted: 4.294391214
+-
+    ceo: Hubert B. Joly
+    company: Best Buy
+    industry: Department, Clothing, & Shoe Stores
+    Gender: 0
+    ranking: 71
+    careerOpportunitiesRating: 2.7
+    ceoApprovalRating: 4.15
+    compensationAndBenefitsRating: 2.6
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 2.3
+    workLifeBalanceRating: 3.2
+    overallRating: 2.8
+    ungendered: 3.03047797
+    predicted: 3.030453007
+-
+    ceo: David J. Campisi
+    company: Big Lots
+    industry: General Merchandise & Superstores
+    Gender: 0
+    ranking: 495
+    careerOpportunitiesRating: 2.4
+    ceoApprovalRating: 2.6
+    compensationAndBenefitsRating: 2.7
+    cultureAndValuesRating: 2.6
+    seniorLeadershipRating: 2.5
+    workLifeBalanceRating: 2.6
+    overallRating: 2.8
+    ungendered: 2.702036481
+    predicted: 2.702005041
+-
+    ceo: Michel Vounatsos
+    company: Biogen
+    industry: 
+    Gender: 0
+    ranking: 263
+    careerOpportunitiesRating: 0
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 0
+    cultureAndValuesRating: 0
+    seniorLeadershipRating: 0
+    workLifeBalanceRating: 0
+    overallRating: 0
+    ungendered: 0.18353529
+    predicted: 0.183475634
+-
+    ceo: Laurence D. Fink
+    company: BlackRock
+    industry: Investment Banking & Asset Management
+    Gender: 0
+    ranking: 250
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 5
+    compensationAndBenefitsRating: 5
+    cultureAndValuesRating: 3
+    seniorLeadershipRating: 4
+    workLifeBalanceRating: 1
+    overallRating: 5
+    ungendered: 3.346597687
+    predicted: 3.346554189
+-
+    ceo: Gerald L. Hassell
+    company: BNY Mellon
+    industry: Investment Banking & Asset Management
+    Gender: 0
+    ranking: 179
+    careerOpportunitiesRating: 2.8
+    ceoApprovalRating: 3.35
+    compensationAndBenefitsRating: 2.9
+    cultureAndValuesRating: 3.1
+    seniorLeadershipRating: 2.7
+    workLifeBalanceRating: 3.5
+    overallRating: 3
+    ungendered: 3.124300201
+    predicted: 3.124278642
+-
+    ceo: Dennis A. Muilenburg
+    company: Boeing
+    industry: Aerospace & Defense
+    Gender: 0
+    ranking: 24
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 4
+    compensationAndBenefitsRating: 3.8
+    cultureAndValuesRating: 3.1
+    seniorLeadershipRating: 2.7
+    workLifeBalanceRating: 3.7
+    overallRating: 3.5
+    ungendered: 3.329878752
+    predicted: 3.329871494
+-
+    ceo: James R. Verrier
+    company: BorgWarner
+    industry: Transportation Equipment Manufacturing
+    Gender: 0
+    ranking: 339
+    careerOpportunitiesRating: 1
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 1
+    cultureAndValuesRating: 1
+    seniorLeadershipRating: 1
+    workLifeBalanceRating: 1
+    overallRating: 1
+    ungendered: 1.168443343
+    predicted: 1.168394388
+-
+    ceo: Michael F. Mahoney
+    company: Boston Scientific
+    industry: Health Care Products Manufacturing
+    Gender: 0
+    ranking: 359
+    careerOpportunitiesRating: 3.6
+    ceoApprovalRating: 4.9
+    compensationAndBenefitsRating: 3.9
+    cultureAndValuesRating: 4
+    seniorLeadershipRating: 3.7
+    workLifeBalanceRating: 3.7
+    overallRating: 3.9
+    ungendered: 3.941486735
+    predicted: 3.941467771
+-
+    ceo: Giovanni Caforio
+    company: Bristol-Myers Squibb Company
+    industry: Biotech & Pharmaceuticals
+    Gender: 0
+    ranking: 168
+    careerOpportunitiesRating: 3.4
+    ceoApprovalRating: 3.25
+    compensationAndBenefitsRating: 4
+    cultureAndValuesRating: 3.7
+    seniorLeadershipRating: 3.2
+    workLifeBalanceRating: 3.8
+    overallRating: 3.8
+    ungendered: 3.67965051
+    predicted: 3.679635766
+-
+    ceo: Thomas A. Kingsbury
+    company: Burlington Stores, Inc.
+    industry: Department, Clothing, & Shoe Stores
+    Gender: 0
+    ranking: 500
+    careerOpportunitiesRating: 2.9
+    ceoApprovalRating: 3.75
+    compensationAndBenefitsRating: 2.7
+    cultureAndValuesRating: 3.2
+    seniorLeadershipRating: 2.8
+    workLifeBalanceRating: 3
+    overallRating: 3.1
+    ungendered: 3.119074082
+    predicted: 3.119047643
+-
+    ceo: John P. Wiehoff
+    company: C.H. Robinson
+    industry: Logistics & Supply Chain
+    Gender: 0
+    ranking: 208
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 4.2
+    compensationAndBenefitsRating: 3.2
+    cultureAndValuesRating: 3.3
+    seniorLeadershipRating: 3
+    workLifeBalanceRating: 3
+    overallRating: 3.2
+    ungendered: 3.267052967
+    predicted: 3.267027594
+-
+    ceo: Dexter Goei
+    company: Cablevision Systems
+    industry: Telecommunications Services
+    Gender: 0
+    ranking: 399
+    careerOpportunitiesRating: 2.6
+    ceoApprovalRating: 1.4
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 2.6
+    seniorLeadershipRating: 2.3
+    workLifeBalanceRating: 2.8
+    overallRating: 2.6
+    ungendered: 2.762099872
+    predicted: 2.762077807
+-
+    ceo: John B. Hill
+    company: Calpine
+    industry: Energy
+    Gender: 0
+    ranking: 402
+    careerOpportunitiesRating: 2.3
+    ceoApprovalRating: 1.9
+    compensationAndBenefitsRating: 3.4
+    cultureAndValuesRating: 2.5
+    seniorLeadershipRating: 2.2
+    workLifeBalanceRating: 2.6
+    overallRating: 2.6
+    ungendered: 2.611910888
+    predicted: 2.611883936
+-
+    ceo: R. Scott Rowe
+    company: Cameron International Corporation
+    industry: Industrial Manufacturing
+    Gender: 0
+    ranking: 319
+    careerOpportunitiesRating: 3.5
+    ceoApprovalRating: 5
+    compensationAndBenefitsRating: 3.4
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 3.3
+    workLifeBalanceRating: 3.6
+    overallRating: 3.8
+    ungendered: 3.619774941
+    predicted: 3.619759843
+-
+    ceo: Denise M. Morrison
+    company: Campbell Soup Company
+    industry: Food & Beverage Manufacturing
+    Gender: 1
+    ranking: 337
+    careerOpportunitiesRating: 3.5
+    ceoApprovalRating: 3.8
+    compensationAndBenefitsRating: 4
+    cultureAndValuesRating: 3.6
+    seniorLeadershipRating: 3.2
+    workLifeBalanceRating: 3.6
+    overallRating: 3.6
+    ungendered: 3.65084419
+    predicted: 3.651266808
+-
+    ceo: Richard D. Fairbank
+    company: Capital One
+    industry: Department, Clothing, & Shoe Stores
+    Gender: 0
+    ranking: 112
+    careerOpportunitiesRating: 0
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 0
+    cultureAndValuesRating: 0
+    seniorLeadershipRating: 0
+    workLifeBalanceRating: 0
+    overallRating: 0
+    ungendered: 0.18353529
+    predicted: 0.183475634
+-
+    ceo: George S. Barrett
+    company: Cardinal Health
+    industry: Wholesale
+    Gender: 0
+    ranking: 21
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 4.6
+    compensationAndBenefitsRating: 3.4
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 3.1
+    workLifeBalanceRating: 3.3
+    overallRating: 3.4
+    ungendered: 3.472557957
+    predicted: 3.472538741
+-
+    ceo: William D. Nash
+    company: CarMax
+    industry: Vehicle Dealers
+    Gender: 0
+    ranking: 191
+    careerOpportunitiesRating: 3.6
+    ceoApprovalRating: 4.4
+    compensationAndBenefitsRating: 3.3
+    cultureAndValuesRating: 3.9
+    seniorLeadershipRating: 3.3
+    workLifeBalanceRating: 3.1
+    overallRating: 3.5
+    ungendered: 3.662152248
+    predicted: 3.662130558
+-
+    ceo: Terry W. Handley
+    company: 'Casey''s General Stores'
+    industry: Gas Stations
+    Gender: 0
+    ranking: 374
+    careerOpportunitiesRating: 2.9
+    ceoApprovalRating: 3.8
+    compensationAndBenefitsRating: 2.8
+    cultureAndValuesRating: 3
+    seniorLeadershipRating: 2.6
+    workLifeBalanceRating: 2.7
+    overallRating: 3
+    ungendered: 2.97267181
+    predicted: 2.972646991
+-
+    ceo: D. James Umpleby III
+    company: Caterpillar
+    industry: Industrial Manufacturing
+    Gender: 0
+    ranking: 59
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 2.65
+    compensationAndBenefitsRating: 3.7
+    cultureAndValuesRating: 3.2
+    seniorLeadershipRating: 2.6
+    workLifeBalanceRating: 3.4
+    overallRating: 3.2
+    ungendered: 3.202258085
+    predicted: 3.202241899
+-
+    ceo: Robert E. Sulentic
+    company: CBRE
     industry: Real Estate
     Gender: 0
-    ranking: 70
-    careerOpportunitiesRating: 3
-    ceoApprovalRating: 3.25
+    ranking: 259
+    careerOpportunitiesRating: 3.5
+    ceoApprovalRating: 4.6
     compensationAndBenefitsRating: 3.3
+    cultureAndValuesRating: 3.7
+    seniorLeadershipRating: 3.4
+    workLifeBalanceRating: 3.5
+    overallRating: 3.7
+    ungendered: 3.676943731
+    predicted: 3.676924383
+-
+    ceo: Leslie Moonves
+    company: CBS Corp
+    industry: TV Broadcast & Cable Networks
+    Gender: 0
+    ranking: 203
+    careerOpportunitiesRating: 2.9
+    ceoApprovalRating: 3.35
+    compensationAndBenefitsRating: 3.2
+    cultureAndValuesRating: 3.2
+    seniorLeadershipRating: 3.6
+    workLifeBalanceRating: 3.9
+    overallRating: 3.4
+    ungendered: 3.518952801
+    predicted: 3.518926825
+-
+    ceo: Thomas E. Richards
+    company: CDW
+    industry: Computer Hardware & Software
+    Gender: 0
+    ranking: 220
+    careerOpportunitiesRating: 3.8
+    ceoApprovalRating: 4.7
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 4.2
+    seniorLeadershipRating: 3.7
+    workLifeBalanceRating: 3.7
+    overallRating: 3.9
+    ungendered: 4.00394157
+    predicted: 4.003922729
+-
+    ceo: Mark C. Rohr
+    company: Celanese
+    industry: Chemical Manufacturing
+    Gender: 0
+    ranking: 453
+    careerOpportunitiesRating: 4
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 5
+    cultureAndValuesRating: 0
+    seniorLeadershipRating: 4
+    workLifeBalanceRating: 4
+    overallRating: 4
+    ungendered: 3.152557222
+    predicted: 3.152575181
+-
+    ceo: Mark J. Alles
+    company: Celgene
+    industry: Biotech & Pharmaceuticals
+    Gender: 0
+    ranking: 305
+    careerOpportunitiesRating: 3.1
+    ceoApprovalRating: 4.55
+    compensationAndBenefitsRating: 4.1
+    cultureAndValuesRating: 3.4
+    seniorLeadershipRating: 3
+    workLifeBalanceRating: 3.3
+    overallRating: 3.4
+    ungendered: 3.42672751
+    predicted: 3.426709449
+-
+    ceo: Scott M. Prochazka
+    company: CenterPoint Energy, Inc.
+    industry: Energy
+    Gender: 0
+    ranking: 363
+    careerOpportunitiesRating: 3.5
+    ceoApprovalRating: 4.8
+    compensationAndBenefitsRating: 3.8
+    cultureAndValuesRating: 3.9
+    seniorLeadershipRating: 3.3
+    workLifeBalanceRating: 3.9
+    overallRating: 3.8
+    ungendered: 3.794892096
+    predicted: 3.794877854
+-
+    ceo: Glen F. Post III
+    company: CenturyLink
+    industry: IT Services
+    Gender: 0
+    ranking: 159
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 3.3
+    compensationAndBenefitsRating: 3.2
+    cultureAndValuesRating: 3.3
+    seniorLeadershipRating: 2.8
+    workLifeBalanceRating: 3.4
+    overallRating: 3.3
+    ungendered: 3.256168694
+    predicted: 3.256148157
+-
+    ceo: Jacqueline C. Hinman
+    company: CH2M
+    industry: Construction
+    Gender: 1
+    ranking: 478
+    careerOpportunitiesRating: 1.9
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 2.9
+    cultureAndValuesRating: 1
+    seniorLeadershipRating: 1.5
+    workLifeBalanceRating: 2.9
+    overallRating: 1.6
+    ungendered: 1.91610273
+    predicted: 1.916523345
+-
+    ceo: Thomas M. Rutledge
+    company: Charter Communications, Inc.
+    industry: Cable, Internet & Telephone Providers
+    Gender: 0
+    ranking: 292
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 2.75
+    compensationAndBenefitsRating: 3.6
     cultureAndValuesRating: 3
+    seniorLeadershipRating: 2.8
+    workLifeBalanceRating: 3.1
+    overallRating: 3.2
+    ungendered: 3.223457069
+    predicted: 3.223442458
+-
+    ceo: John S. Watson
+    company: Chevron
+    industry: Mining
+    Gender: 0
+    ranking: 14
+    careerOpportunitiesRating: 4.3
+    ceoApprovalRating: 5
+    compensationAndBenefitsRating: 4.3
+    cultureAndValuesRating: 4.5
+    seniorLeadershipRating: 4.3
+    workLifeBalanceRating: 4
+    overallRating: 4.6
+    ungendered: 4.470755055
+    predicted: 4.470741728
+-
+    ceo: Carl M. Casale
+    company: CHS Inc
+    industry: Farm Support Services
+    Gender: 0
+    ranking: 84
+    careerOpportunitiesRating: 3.1
+    ceoApprovalRating: 4.05
+    compensationAndBenefitsRating: 3.9
+    cultureAndValuesRating: 3.6
+    seniorLeadershipRating: 3
+    workLifeBalanceRating: 3.7
+    overallRating: 3.5
+    ungendered: 3.516237539
+    predicted: 3.516220134
+-
+    ceo: David M. Cordani
+    company: Cigna
+    industry: Insurance Carriers
+    Gender: 0
+    ranking: 79
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 4.4
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 3.1
+    workLifeBalanceRating: 3.5
+    overallRating: 3.4
+    ungendered: 3.506568141
+    predicted: 3.506550849
+-
+    ceo: Steven J. Johnston
+    company: Cincinnati Financial Corporation
+    industry: Insurance Carriers
+    Gender: 0
+    ranking: 499
+    careerOpportunitiesRating: 3.2
+    ceoApprovalRating: 4
+    compensationAndBenefitsRating: 2.8
+    cultureAndValuesRating: 3.4
+    seniorLeadershipRating: 3.2
+    workLifeBalanceRating: 3.7
+    overallRating: 3.3
+    ungendered: 3.461830179
+    predicted: 3.461809486
+-
+    ceo: Charles H. Robbins
+    company: Cisco Systems
+    industry: Consulting
+    Gender: 0
+    ranking: 54
+    careerOpportunitiesRating: 3.5
+    ceoApprovalRating: 4.45
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 3.7
+    seniorLeadershipRating: 3.5
+    workLifeBalanceRating: 4.1
+    overallRating: 4
+    ungendered: 3.805142882
+    predicted: 3.805128211
+-
+    ceo: Michael L. Corbat
+    company: Citi
+    industry: Financial Transaction Processing
+    Gender: 0
+    ranking: 29
+    careerOpportunitiesRating: 3.8
+    ceoApprovalRating: 5
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 3.7
+    seniorLeadershipRating: 3.8
+    workLifeBalanceRating: 4.2
+    overallRating: 4.2
+    ungendered: 3.97617662
+    predicted: 3.976165085
+-
+    ceo: Patricia Kessler Poppe
+    company: CMS Energy
+    industry: Energy
+    Gender: 0
+    ranking: 403
+    careerOpportunitiesRating: 3.1
+    ceoApprovalRating: 3
+    compensationAndBenefitsRating: 3.6
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 3
+    workLifeBalanceRating: 3.6
+    overallRating: 3.2
+    ungendered: 3.444686657
+    predicted: 3.444667071
+-
+    ceo: Muhtar Kent
+    company: Coca-Cola Company
+    industry: Food & Beverage Manufacturing
+    Gender: 0
+    ranking: 62
+    careerOpportunitiesRating: 3.2
+    ceoApprovalRating: -5
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 3.3
     seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 3.2
+    overallRating: 3.4
+    ungendered: 3.252095443
+    predicted: 3.252069306
+-
+    ceo: John F. Brock
+    company: Coca-Cola European Partners
+    industry: 
+    Gender: 0
+    ranking: 397
+    careerOpportunitiesRating: 1
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 3
+    cultureAndValuesRating: 1
+    seniorLeadershipRating: 1
+    workLifeBalanceRating: 3
+    overallRating: 4
+    ungendered: 1.600259394
+    predicted: 1.600235346
+-
+    ceo: 'Francisco D''Souza'
+    company: Cognizant Technology Solutions
+    industry: IT Services
+    Gender: 0
+    ranking: 230
+    careerOpportunitiesRating: 3.5
+    ceoApprovalRating: 4.7
+    compensationAndBenefitsRating: 3.2
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 3
+    workLifeBalanceRating: 3.4
+    overallRating: 3.6
+    ungendered: 3.484485861
+    predicted: 3.484471319
+-
+    ceo: Ian M. Cook
+    company: Colgate-Palmolive
+    industry: Consumer Products Manufacturing
+    Gender: 0
+    ranking: 174
+    careerOpportunitiesRating: 3.5
+    ceoApprovalRating: 4.6
+    compensationAndBenefitsRating: 3.9
+    cultureAndValuesRating: 4
+    seniorLeadershipRating: 3.5
+    workLifeBalanceRating: 3.8
+    overallRating: 3.8
+    ungendered: 3.872440141
+    predicted: 3.872422273
+-
+    ceo: Brian L. Roberts
+    company: Comcast
+    industry: Cable, Internet & Telephone Providers
+    Gender: 0
+    ranking: 37
+    careerOpportunitiesRating: 3.4
+    ceoApprovalRating: 3.95
+    compensationAndBenefitsRating: 3.8
+    cultureAndValuesRating: 3.4
+    seniorLeadershipRating: 3.1
+    workLifeBalanceRating: 3.3
+    overallRating: 3.4
+    ungendered: 3.491785089
+    predicted: 3.491769329
+-
+    ceo: Joseph Alvarado
+    company: Commercial Metals
+    industry: Industrial Manufacturing
+    Gender: 0
+    ranking: 417
+    careerOpportunitiesRating: 0
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 0
+    cultureAndValuesRating: 0
+    seniorLeadershipRating: 0
+    workLifeBalanceRating: 0
+    overallRating: 0
+    ungendered: 0.18353529
+    predicted: 0.183475634
+-
+    ceo: Wayne T. Smith
+    company: Community Health Systems
+    industry: Health Care Services & Hospitals
+    Gender: 0
+    ranking: 125
+    careerOpportunitiesRating: 2.7
+    ceoApprovalRating: 2.55
+    compensationAndBenefitsRating: 2.8
+    cultureAndValuesRating: 2.7
+    seniorLeadershipRating: 2.4
+    workLifeBalanceRating: 3
+    overallRating: 2.8
+    ungendered: 2.824512711
+    predicted: 2.824490476
+-
+    ceo: John McAvoy
+    company: Con Edison
+    industry: Utilities
+    Gender: 0
+    ranking: 229
+    careerOpportunitiesRating: 2.9
+    ceoApprovalRating: 2.6
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 3.4
+    seniorLeadershipRating: 3.1
+    workLifeBalanceRating: 4
+    overallRating: 3.3
+    ungendered: 3.452166309
+    predicted: 3.452145668
+-
+    ceo: Sean M. Connolly
+    company: ConAgra Foods Ingredients
+    industry: Food & Beverage Manufacturing
+    Gender: 0
+    ranking: 176
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 5
+    compensationAndBenefitsRating: 3.9
+    cultureAndValuesRating: 3
+    seniorLeadershipRating: 3.1
+    workLifeBalanceRating: 3.2
+    overallRating: 3.1
+    ungendered: 3.305855053
+    predicted: 3.305836041
+-
+    ceo: Ryan M. Lance
+    company: ConocoPhillips
+    industry: Oil & Gas Exploration & Production
+    Gender: 0
+    ranking: 90
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 3.4
+    compensationAndBenefitsRating: 4.2
+    cultureAndValuesRating: 3.7
+    seniorLeadershipRating: 3.1
+    workLifeBalanceRating: 3.9
+    overallRating: 3.7
+    ungendered: 3.659227657
+    predicted: 3.659214082
+-
+    ceo: Robert S. Sands
+    company: Constellation Brands, Inc.
+    industry: Food & Beverage Manufacturing
+    Gender: 0
+    ranking: 429
+    careerOpportunitiesRating: 2.9
+    ceoApprovalRating: 3.95
+    compensationAndBenefitsRating: 3.7
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 3.3
+    workLifeBalanceRating: 3.2
+    overallRating: 3.5
+    ungendered: 3.451528515
+    predicted: 3.451500019
+-
+    ceo: Oscar Munoz
+    company: Continental Airlines
+    industry: Airlines
+    Gender: 0
+    ranking: 80
+    careerOpportunitiesRating: 3.6
+    ceoApprovalRating: 4.8
+    compensationAndBenefitsRating: 3.8
+    cultureAndValuesRating: 3.6
+    seniorLeadershipRating: 3.3
+    workLifeBalanceRating: 3.7
+    overallRating: 3.8
+    ungendered: 3.709175209
+    predicted: 3.709163275
+-
+    ceo: Thomas B. Perkins
+    company: Core-Mark
+    industry: Wholesale
+    Gender: 0
+    ranking: 317
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 3.4
+    compensationAndBenefitsRating: 3.3
+    cultureAndValuesRating: 2.8
+    seniorLeadershipRating: 2.6
+    workLifeBalanceRating: 2.5
+    overallRating: 3
+    ungendered: 2.947143927
+    predicted: 2.947122236
+-
+    ceo: Wendell P. Weeks
+    company: Corning
+    industry: Investment Banking & Asset Management
+    Gender: 0
+    ranking: 313
+    careerOpportunitiesRating: 3.9
+    ceoApprovalRating: 5
+    compensationAndBenefitsRating: 3.8
+    cultureAndValuesRating: 4
+    seniorLeadershipRating: 3.8
+    workLifeBalanceRating: 4.1
+    overallRating: 4
+    ungendered: 4.083839741
+    predicted: 4.083827902
+-
+    ceo: W. Craig Jelinek
+    company: Costco Wholesale Corporation
+    industry: General Merchandise & Superstores
+    Gender: 0
+    ranking: 15
+    careerOpportunitiesRating: 3.6
+    ceoApprovalRating: 4.55
+    compensationAndBenefitsRating: 4.2
+    cultureAndValuesRating: 3.9
+    seniorLeadershipRating: 3.3
+    workLifeBalanceRating: 3.5
+    overallRating: 3.9
+    ungendered: 3.787205474
+    predicted: 3.787190846
+-
+    ceo: Timothy J. Donahue
+    company: Crown Holdings
+    industry: Moving Services
+    Gender: 0
+    ranking: 321
+    careerOpportunitiesRating: 2.3
+    ceoApprovalRating: 4.45
+    compensationAndBenefitsRating: 2.7
+    cultureAndValuesRating: 3.1
+    seniorLeadershipRating: 2.6
+    workLifeBalanceRating: 2.9
+    overallRating: 2.7
+    ungendered: 2.899590431
+    predicted: 2.899556527
+-
+    ceo: J. Michael Lawrie
+    company: CSC
+    industry: IT Services
+    Gender: 0
+    ranking: 233
+    careerOpportunitiesRating: 2.5
+    ceoApprovalRating: 2.05
+    compensationAndBenefitsRating: 2.6
+    cultureAndValuesRating: 2.6
+    seniorLeadershipRating: 2.2
+    workLifeBalanceRating: 3.1
+    overallRating: 2.7
+    ungendered: 2.691768949
+    predicted: 2.691745926
+-
+    ceo: Kimberly S. Lubel
+    company: CST Brands
+    industry: Gas Stations
+    Gender: 1
+    ranking: 299
+    careerOpportunitiesRating: 3.1
+    ceoApprovalRating: 2.85
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 3.1
+    workLifeBalanceRating: 3.2
+    overallRating: 3.3
+    ungendered: 3.409373112
+    predicted: 3.409784587
+-
+    ceo: Larry J. Merlo
+    company: CVS Health Corporation
+    industry: Health Care Services & Hospitals
+    Gender: 0
+    ranking: 7
+    careerOpportunitiesRating: 2.8
+    ceoApprovalRating: 1.95
+    compensationAndBenefitsRating: 2.7
+    cultureAndValuesRating: 2.7
+    seniorLeadershipRating: 2.4
+    workLifeBalanceRating: 2.6
+    overallRating: 2.7
+    ungendered: 2.776449697
+    predicted: 2.77642482
+-
+    ceo: James K. Kamsickas
+    company: Dana Corporation
+    industry: Transportation Equipment Manufacturing
+    Gender: 0
+    ranking: 428
+    careerOpportunitiesRating: 2.9
+    ceoApprovalRating: 4.7
+    compensationAndBenefitsRating: 3.4
+    cultureAndValuesRating: 3.3
+    seniorLeadershipRating: 3.3
+    workLifeBalanceRating: 3.6
+    overallRating: 3.2
+    ungendered: 3.439547263
+    predicted: 3.439523234
+-
+    ceo: Eugene I. Lee Jr.
+    company: Darden
+    industry: Casual Restaurants
+    Gender: 0
+    ranking: 371
+    careerOpportunitiesRating: 3.4
+    ceoApprovalRating: 4.15
+    compensationAndBenefitsRating: 3.4
+    cultureAndValuesRating: 3.6
+    seniorLeadershipRating: 3.2
+    workLifeBalanceRating: 3.4
+    overallRating: 3.7
+    ungendered: 3.559769373
+    predicted: 3.559750439
+-
+    ceo: Kent J. Thiry
+    company: DaVita Clinical Research
+    industry: Research & Development
+    Gender: 0
+    ranking: 200
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 2.3
+    compensationAndBenefitsRating: 2.9
+    cultureAndValuesRating: 2.8
+    seniorLeadershipRating: 2.4
+    workLifeBalanceRating: 3
+    overallRating: 2.7
+    ungendered: 2.918738847
+    predicted: 2.918721113
+-
+    ceo: Edward H. Bastian
+    company: Delta Air Lines
+    industry: IT Services
+    Gender: 0
+    ranking: 68
+    careerOpportunitiesRating: 2.9
+    ceoApprovalRating: 3.85
+    compensationAndBenefitsRating: 3.1
+    cultureAndValuesRating: 3.6
+    seniorLeadershipRating: 3.2
+    workLifeBalanceRating: 4.1
+    overallRating: 3.3
+    ungendered: 3.52900406
+    predicted: 3.528981174
+-
+    ceo: David A. Hager
+    company: Devon Energy
+    industry: Oil & Gas Exploration & Production
+    Gender: 0
+    ranking: 216
+    careerOpportunitiesRating: 3.5
+    ceoApprovalRating: 4.3
+    compensationAndBenefitsRating: 4.5
+    cultureAndValuesRating: 3.9
+    seniorLeadershipRating: 3.4
+    workLifeBalanceRating: 4.2
+    overallRating: 3.8
+    ungendered: 3.91524806
+    predicted: 3.915237564
+-
+    ceo: Edward W. Stack
+    company: 'DICK''S Sporting Goods'
+    industry: Sporting Goods Stores
+    Gender: 0
+    ranking: 365
+    careerOpportunitiesRating: 2.9
+    ceoApprovalRating: 3.5
+    compensationAndBenefitsRating: 2.7
+    cultureAndValuesRating: 3.2
+    seniorLeadershipRating: 2.8
+    workLifeBalanceRating: 3.1
+    overallRating: 3.3
+    ungendered: 3.131071869
+    predicted: 3.131046064
+-
+    ceo: William T. Dillard II
+    company: 'Dillard''s'
+    industry: Department, Clothing, & Shoe Stores
+    Gender: 0
+    ranking: 380
+    careerOpportunitiesRating: 2.6
+    ceoApprovalRating: 1.9
+    compensationAndBenefitsRating: 2.9
+    cultureAndValuesRating: 2.3
+    seniorLeadershipRating: 2.2
+    workLifeBalanceRating: 2.4
+    overallRating: 2.6
+    ungendered: 2.556713644
+    predicted: 2.556689685
+-
+    ceo: David W. Nelms
+    company: Discover
+    industry: 
+    Gender: 0
+    ranking: 283
+    careerOpportunitiesRating: 5
+    ceoApprovalRating: 4.6
+    compensationAndBenefitsRating: 5
+    cultureAndValuesRating: 5
+    seniorLeadershipRating: 5
+    workLifeBalanceRating: 4
+    overallRating: 5
+    ungendered: 5.005804617
+    predicted: 5.00579398
+-
+    ceo: David M. Zaslav
+    company: Discovery Communications
+    industry: TV Broadcast & Cable Networks
+    Gender: 0
+    ranking: 406
+    careerOpportunitiesRating: 3.2
+    ceoApprovalRating: 2.8
+    compensationAndBenefitsRating: 3.7
+    cultureAndValuesRating: 3.7
+    seniorLeadershipRating: 3
+    workLifeBalanceRating: 3.6
+    overallRating: 3.5
+    ungendered: 3.523662547
+    predicted: 3.523643329
+-
+    ceo: Charles W. Ergen
+    company: DISH
+    industry: TV Broadcast & Cable Networks
+    Gender: 0
+    ranking: 187
+    careerOpportunitiesRating: 3.4
+    ceoApprovalRating: 4.3
+    compensationAndBenefitsRating: 3.1
+    cultureAndValuesRating: 2.9
+    seniorLeadershipRating: 3.3
     workLifeBalanceRating: 2.9
     overallRating: 3
-    ungendered: 3.144153118
-    predicted: 3.14412986
+    ungendered: 3.314953908
+    predicted: 3.314933965
+-
+    ceo: Todd J. Vasos
+    company: Dollar General
+    industry: Other Retail Stores
+    Gender: 0
+    ranking: 139
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 2.5
+    compensationAndBenefitsRating: 2.5
+    cultureAndValuesRating: 2.6
+    seniorLeadershipRating: 2.4
+    workLifeBalanceRating: 2.3
+    overallRating: 2.7
+    ungendered: 2.739471708
+    predicted: 2.739448147
+-
+    ceo: Bob Sasser
+    company: Dollar Tree
+    industry: 
+    Gender: 0
+    ranking: 180
+    careerOpportunitiesRating: 2.7
+    ceoApprovalRating: 2.2
+    compensationAndBenefitsRating: 2.1
+    cultureAndValuesRating: 2.5
+    seniorLeadershipRating: 2.4
+    workLifeBalanceRating: 2.6
+    overallRating: 2.7
+    ungendered: 2.660470166
+    predicted: 2.660443018
+-
+    ceo: Thomas F. Farrell II
+    company: Dominion Resources
+    industry: Investment Banking & Asset Management
+    Gender: 0
+    ranking: 243
+    careerOpportunitiesRating: 0
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 0
+    cultureAndValuesRating: 0
+    seniorLeadershipRating: 0
+    workLifeBalanceRating: 0
+    overallRating: 0
+    ungendered: 0.18353529
+    predicted: 0.183475634
+-
+    ceo: John D. Williams
+    company: Domtar
+    industry: Industrial Manufacturing
+    Gender: 0
+    ranking: 489
+    careerOpportunitiesRating: 2.8
+    ceoApprovalRating: 4.7
+    compensationAndBenefitsRating: 3.7
+    cultureAndValuesRating: 3.3
+    seniorLeadershipRating: 2.5
+    workLifeBalanceRating: 3.1
+    overallRating: 3.2
+    ungendered: 3.131695013
+    predicted: 3.131675003
+-
+    ceo: Andrew N. Liveris
+    company: Dow Chemical
+    industry: Chemical Manufacturing
+    Gender: 0
+    ranking: 56
+    careerOpportunitiesRating: 3.6
+    ceoApprovalRating: 2.95
+    compensationAndBenefitsRating: 3.8
+    cultureAndValuesRating: 3.6
+    seniorLeadershipRating: 3.2
+    workLifeBalanceRating: 3.7
+    overallRating: 3.6
+    ungendered: 3.66371694
+    predicted: 3.663704471
+-
+    ceo: Larry D. Young
+    company: Dr Pepper Snapple Group
+    industry: Food & Beverage Manufacturing
+    Gender: 0
+    ranking: 413
+    careerOpportunitiesRating: 2.9
+    ceoApprovalRating: 3.9
+    compensationAndBenefitsRating: 3.3
+    cultureAndValuesRating: 2.9
+    seniorLeadershipRating: 2.4
+    workLifeBalanceRating: 2.4
+    overallRating: 3.1
+    ungendered: 2.882767838
+    predicted: 2.882745468
+-
+    ceo: Lynn J. Good
+    company: Duke Energy
+    industry: Energy
+    Gender: 1
+    ranking: 115
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 4.15
+    compensationAndBenefitsRating: 3.8
+    cultureAndValuesRating: 3.4
+    seniorLeadershipRating: 3.1
+    workLifeBalanceRating: 3.5
+    overallRating: 3.5
+    ungendered: 3.500778795
+    predicted: 3.501199335
+-
+    ceo: Edward D. Breen
+    company: DuPont
+    industry: Chemical Manufacturing
+    Gender: 0
+    ranking: 101
+    careerOpportunitiesRating: 2.9
+    ceoApprovalRating: 1.3
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 2.5
+    workLifeBalanceRating: 3.6
+    overallRating: 3.3
+    ungendered: 3.231762546
+    predicted: 3.23174318
+-
+    ceo: Mark J. Costa
+    company: Eastman
+    industry: Chemical Manufacturing
+    Gender: 0
+    ranking: 296
+    careerOpportunitiesRating: 3.8
+    ceoApprovalRating: 4
+    compensationAndBenefitsRating: 3.7
+    cultureAndValuesRating: 4
+    seniorLeadershipRating: 3.5
+    workLifeBalanceRating: 3.9
+    overallRating: 3.9
+    ungendered: 3.929229218
+    predicted: 3.929216001
+-
+    ceo: Devin N. Wenig
+    company: eBay
+    industry: Advertising & Marketing
+    Gender: 0
+    ranking: 300
+    careerOpportunitiesRating: 2.5
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 3.2
+    cultureAndValuesRating: 2.3
+    seniorLeadershipRating: 2.4
+    workLifeBalanceRating: 3.3
+    overallRating: 2.6
+    ungendered: 2.728914454
+    predicted: 2.728893774
+-
+    ceo: Douglas M. Baker Jr.
+    company: Ecolab
+    industry: Oil & Gas Services
+    Gender: 0
+    ranking: 206
+    careerOpportunitiesRating: 3.1
+    ceoApprovalRating: 3.85
+    compensationAndBenefitsRating: 3.1
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 3.2
+    overallRating: 3.5
+    ungendered: 3.328146188
+    predicted: 3.328123088
+-
+    ceo: Joseph M. Tucci
+    company: EMC
+    industry: IT Services
+    Gender: 0
+    ranking: 113
+    careerOpportunitiesRating: 3.4
+    ceoApprovalRating: 4.15
+    compensationAndBenefitsRating: 3.7
+    cultureAndValuesRating: 3.7
+    seniorLeadershipRating: 3.2
+    workLifeBalanceRating: 3.7
+    overallRating: 3.7
+    ungendered: 3.650678299
+    predicted: 3.650662328
+-
+    ceo: Anthony J. Guzzi
+    company: EMCOR (Connecticut)
+    industry: Construction
+    Gender: 0
+    ranking: 381
+    careerOpportunitiesRating: 2.7
+    ceoApprovalRating: 3.85
+    compensationAndBenefitsRating: 2.9
+    cultureAndValuesRating: 3
+    seniorLeadershipRating: 2.5
+    workLifeBalanceRating: 2.9
+    overallRating: 3
+    ungendered: 2.937122298
+    predicted: 2.937097325
+-
+    ceo: David N. Farr
+    company: Emerson
+    industry: Electrical & Electronic Manufacturing
+    Gender: 0
+    ranking: 128
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 4
+    compensationAndBenefitsRating: 3.2
+    cultureAndValuesRating: 3.6
+    seniorLeadershipRating: 3.1
+    workLifeBalanceRating: 3.6
+    overallRating: 3.5
+    ungendered: 3.520982525
+    predicted: 3.520963793
+-
+    ceo: Paul M. Keglevic
+    company: Energy Future Holdings
+    industry: Utilities
+    Gender: 0
+    ranking: 475
+    careerOpportunitiesRating: 1
+    ceoApprovalRating: 4.2
+    compensationAndBenefitsRating: 3.9
+    cultureAndValuesRating: 1
+    seniorLeadershipRating: 1
+    workLifeBalanceRating: 1
+    overallRating: 1.5
+    ungendered: 1.420923573
+    predicted: 1.420889631
+-
+    ceo: John W. McReynolds
+    company: Energy Transfer Equity
+    industry: Oil & Gas Services
+    Gender: 0
+    ranking: 65
+    careerOpportunitiesRating: 0
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 0
+    cultureAndValuesRating: 0
+    seniorLeadershipRating: 0
+    workLifeBalanceRating: 0
+    overallRating: 0
+    ungendered: 0.18353529
+    predicted: 0.183475634
+-
+    ceo: Leo P. Denault
+    company: Entergy
+    industry: Energy
+    Gender: 0
+    ranking: 247
+    careerOpportunitiesRating: 3.5
+    ceoApprovalRating: 3.95
+    compensationAndBenefitsRating: 3.9
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 3
+    workLifeBalanceRating: 3.4
+    overallRating: 3.5
+    ungendered: 3.530557286
+    predicted: 3.530544805
+-
+    ceo: A. J. Teague
+    company: Enterprise Products
+    industry: Consumer Products Manufacturing
+    Gender: 0
+    ranking: 104
+    careerOpportunitiesRating: 0
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 0
+    cultureAndValuesRating: 0
+    seniorLeadershipRating: 0
+    workLifeBalanceRating: 0
+    overallRating: 0
+    ungendered: 0.18353529
+    predicted: 0.183475634
+-
+    ceo: William A. Sanger
+    company: Envision Healthcare Holdings, Inc.
+    industry: Health Care Services & Hospitals
+    Gender: 0
+    ranking: 469
+    careerOpportunitiesRating: 2.7
+    ceoApprovalRating: 2.65
+    compensationAndBenefitsRating: 3.1
+    cultureAndValuesRating: 2.5
+    seniorLeadershipRating: 2.5
+    workLifeBalanceRating: 2.9
+    overallRating: 2.8
+    ungendered: 2.81129155
+    predicted: 2.811270158
+-
+    ceo: William R. Thomas
+    company: EOG
+    industry: Oil & Gas Exploration & Production
+    Gender: 0
+    ranking: 322
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 4.15
+    compensationAndBenefitsRating: 4
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 3.5
+    workLifeBalanceRating: 3.7
+    overallRating: 3.3
+    ungendered: 3.689534136
+    predicted: 3.689515864
+-
+    ceo: Terrence W. Cavanaugh
+    company: Erie Insurance Group
+    industry: 
+    Gender: 0
+    ranking: 411
+    careerOpportunitiesRating: 0
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 0
+    cultureAndValuesRating: 0
+    seniorLeadershipRating: 0
+    workLifeBalanceRating: 0
+    overallRating: 0
+    ungendered: 0.18353529
+    predicted: 0.183475634
+-
+    ceo: Robert B. Aiken Jr.
+    company: Essendant
+    industry: Logistics & Supply Chain
+    Gender: 0
+    ranking: 477
+    careerOpportunitiesRating: 2.7
+    ceoApprovalRating: 3.05
+    compensationAndBenefitsRating: 3.1
+    cultureAndValuesRating: 2.9
+    seniorLeadershipRating: 2.7
+    workLifeBalanceRating: 3.4
+    overallRating: 2.9
+    ungendered: 3.049457761
+    predicted: 3.049435702
+-
+    ceo: Fabrizio Freda
+    company: Estթe Lauder Companies
+    industry: Consumer Products Manufacturing
+    Gender: 0
+    ranking: 261
+    careerOpportunitiesRating: 3.2
+    ceoApprovalRating: 4.65
+    compensationAndBenefitsRating: 3.4
+    cultureAndValuesRating: 3.7
+    seniorLeadershipRating: 3.2
+    workLifeBalanceRating: 3.3
+    overallRating: 3.6
+    ungendered: 3.534207713
+    predicted: 3.534184189
+-
+    ceo: James J. Judge
+    company: Eversource Energy
+    industry: Utilities
+    Gender: 0
+    ranking: 343
+    careerOpportunitiesRating: 3.2
+    ceoApprovalRating: 3.85
+    compensationAndBenefitsRating: 3.8
+    cultureAndValuesRating: 3.2
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 3.3
+    overallRating: 3.4
+    ungendered: 3.337141896
+    predicted: 3.337126398
+-
+    ceo: Christopher M. Crane
+    company: Exelon
+    industry: Utilities
+    Gender: 0
+    ranking: 95
+    careerOpportunitiesRating: 3.4
+    ceoApprovalRating: 3.25
+    compensationAndBenefitsRating: 3.9
+    cultureAndValuesRating: 3.4
+    seniorLeadershipRating: 2.8
+    workLifeBalanceRating: 3.3
+    overallRating: 3.5
+    ungendered: 3.403789912
+    predicted: 3.403777234
+-
+    ceo: Dara Khosrowshahi
+    company: Expedia
+    industry: Internet
+    Gender: 0
+    ranking: 385
+    careerOpportunitiesRating: 3.5
+    ceoApprovalRating: 4.7
+    compensationAndBenefitsRating: 3.8
+    cultureAndValuesRating: 3.9
+    seniorLeadershipRating: 3.5
+    workLifeBalanceRating: 4
+    overallRating: 3.8
+    ungendered: 3.867873273
+    predicted: 3.86785759
+-
+    ceo: Jeffrey S. Musser
+    company: Expeditors
+    industry: Logistics & Supply Chain
+    Gender: 0
+    ranking: 390
+    careerOpportunitiesRating: 3.2
+    ceoApprovalRating: 4.35
+    compensationAndBenefitsRating: 3.4
+    cultureAndValuesRating: 4.3
+    seniorLeadershipRating: 2.7
+    workLifeBalanceRating: 3.1
+    overallRating: 3.5
+    ungendered: 3.510989232
+    predicted: 3.510964613
+-
+    ceo: Timothy C. Wentworth
+    company: Express Scripts
+    industry: Health Care Services & Hospitals
+    Gender: 0
+    ranking: 22
+    careerOpportunitiesRating: 2.8
+    ceoApprovalRating: 3.7
+    compensationAndBenefitsRating: 3.3
+    cultureAndValuesRating: 2.7
+    seniorLeadershipRating: 2.6
+    workLifeBalanceRating: 2.7
+    overallRating: 2.8
+    ungendered: 2.909940121
+    predicted: 2.909917778
+-
+    ceo: Darren W. Woods
+    company: ExxonMobil
+    industry: Advertising & Marketing
+    Gender: 0
+    ranking: 2
+    careerOpportunitiesRating: 2.7
+    ceoApprovalRating: 3.9
+    compensationAndBenefitsRating: 2.5
+    cultureAndValuesRating: 2.9
+    seniorLeadershipRating: 2.7
+    workLifeBalanceRating: 2.9
+    overallRating: 2.7
+    ungendered: 2.941185793
+    predicted: 2.941157872
+-
+    ceo: Timothy J. Mayopoulos
+    company: Fannie Mae
+    industry: Investment Banking & Asset Management
+    Gender: 0
+    ranking: 16
+    careerOpportunitiesRating: 3.2
+    ceoApprovalRating: 4.5
+    compensationAndBenefitsRating: 4
+    cultureAndValuesRating: 3.3
+    seniorLeadershipRating: 3
+    workLifeBalanceRating: 3.9
+    overallRating: 3.5
+    ungendered: 3.498223064
+    predicted: 3.498212179
+-
+    ceo: Jeffrey J. Dailey
+    company: Farmers Insurance Group
+    industry: Insurance Carriers
+    Gender: 0
+    ranking: 227
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 4.1
+    compensationAndBenefitsRating: 3.3
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 3.1
+    workLifeBalanceRating: 3.4
+    overallRating: 3.4
+    ungendered: 3.474962729
+    predicted: 3.474943537
+-
+    ceo: Frederick W. Smith
+    company: FedEx
+    industry: Express Delivery Services
+    Gender: 0
+    ranking: 58
+    careerOpportunitiesRating: 3.5
+    ceoApprovalRating: 4.45
+    compensationAndBenefitsRating: 3.7
+    cultureAndValuesRating: 3.7
+    seniorLeadershipRating: 3.3
+    workLifeBalanceRating: 3.6
+    overallRating: 3.8
+    ungendered: 3.68986559
+    predicted: 3.689849626
+-
+    ceo: Raymond R. Quirk
+    company: Fidelity National Financial
+    industry: Insurance Carriers
+    Gender: 0
+    ranking: 311
+    careerOpportunitiesRating: 2.5
+    ceoApprovalRating: 3.3
+    compensationAndBenefitsRating: 3
+    cultureAndValuesRating: 2.8
+    seniorLeadershipRating: 2.4
+    workLifeBalanceRating: 3.2
+    overallRating: 3
+    ungendered: 2.85834638
+    predicted: 2.858323123
+-
+    ceo: Greg D. Carmichael
+    company: Fifth Third
+    industry: Investment Banking & Asset Management
+    Gender: 0
+    ranking: 376
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 3.75
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 3.6
+    overallRating: 3.4
+    ungendered: 3.45547457
+    predicted: 3.455459767
+-
+    ceo: Dennis J. Gilmore
+    company: First American Financial Corporation
+    industry: Investment Banking & Asset Management
+    Gender: 0
+    ranking: 497
+    careerOpportunitiesRating: 3.1
+    ceoApprovalRating: 5
+    compensationAndBenefitsRating: 2
+    cultureAndValuesRating: 1
+    seniorLeadershipRating: 3.4
+    workLifeBalanceRating: 4.4
+    overallRating: 1.6
+    ungendered: 2.920659943
+    predicted: 2.920657654
+-
+    ceo: Charles E. Jones
+    company: FirstEnergy Corp.
+    industry: Utilities
+    Gender: 0
+    ranking: 188
+    careerOpportunitiesRating: 4
+    ceoApprovalRating: 5
+    compensationAndBenefitsRating: 4
+    cultureAndValuesRating: 0
+    seniorLeadershipRating: 5
+    workLifeBalanceRating: 4.5
+    overallRating: 4
+    ungendered: 3.488987937
+    predicted: 3.488999671
+-
+    ceo: Gary A. Norcross
+    company: FIS
+    industry: Enterprise Software & Network Solutions
+    Gender: 0
+    ranking: 392
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 3.9
+    compensationAndBenefitsRating: 3.1
+    cultureAndValuesRating: 3
+    seniorLeadershipRating: 2.7
+    workLifeBalanceRating: 3.2
+    overallRating: 3.1
+    ungendered: 3.1172624
+    predicted: 3.117243715
+-
+    ceo: Jeffery W. Yabuki
+    company: Fiserv
+    industry: Computer Hardware & Software
+    Gender: 0
+    ranking: 492
+    careerOpportunitiesRating: 2.5
+    ceoApprovalRating: 4.35
+    compensationAndBenefitsRating: 3.3
+    cultureAndValuesRating: 3.1
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 3.5
+    overallRating: 3.2
+    ungendered: 3.159678331
+    predicted: 3.159651902
+-
+    ceo: David T. Seaton
+    company: Fluor Corporation
+    industry: Chemical Manufacturing
+    Gender: 0
+    ranking: 155
+    careerOpportunitiesRating: 0
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 0
+    cultureAndValuesRating: 0
+    seniorLeadershipRating: 0
+    workLifeBalanceRating: 0
+    overallRating: 3
+    ungendered: 0.18353529
+    predicted: 0.183475634
+-
+    ceo: Douglas J. Pferdehirt
+    company: FMC Technologies
+    industry: Industrial Manufacturing
+    Gender: 0
+    ranking: 410
+    careerOpportunitiesRating: 2.9
+    ceoApprovalRating: 4
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 3.3
+    seniorLeadershipRating: 2.6
+    workLifeBalanceRating: 3.3
+    overallRating: 3.2
+    ungendered: 3.189797603
+    predicted: 3.189778504
+-
+    ceo: Richard A. Johnson
+    company: Foot Locker
+    industry: Department, Clothing, & Shoe Stores
+    Gender: 0
+    ranking: 361
+    careerOpportunitiesRating: 3.2
+    ceoApprovalRating: 3.9
+    compensationAndBenefitsRating: 2.8
+    cultureAndValuesRating: 3.4
+    seniorLeadershipRating: 3.1
+    workLifeBalanceRating: 3.1
+    overallRating: 3.3
+    ungendered: 3.346493155
+    predicted: 3.346468341
+-
+    ceo: Mark Fields
+    company: Ford Motor Company
+    industry: 
+    Gender: 0
+    ranking: 9
+    careerOpportunitiesRating: 0
+    ceoApprovalRating: 5
+    compensationAndBenefitsRating: 0
+    cultureAndValuesRating: 0
+    seniorLeadershipRating: 0
+    workLifeBalanceRating: 0
+    overallRating: 0
+    ungendered: 0.225694654
+    predicted: 0.225639429
+-
+    ceo: Gregory E. Johnson
+    company: Franklin Templeton Investments
+    industry: Investment Banking & Asset Management
+    Gender: 0
+    ranking: 344
+    careerOpportunitiesRating: 3.1
+    ceoApprovalRating: 4.75
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 3.9
+    seniorLeadershipRating: 3.3
+    workLifeBalanceRating: 4
+    overallRating: 3.6
+    ungendered: 3.702504398
+    predicted: 3.702482992
+-
+    ceo: Richard C. Adkerson
+    company: Freeport-McMoRan Copper & Gold
+    industry: Mining
+    Gender: 0
+    ranking: 175
+    careerOpportunitiesRating: 3.7
+    ceoApprovalRating: 4.2
+    compensationAndBenefitsRating: 4.2
+    cultureAndValuesRating: 3.7
+    seniorLeadershipRating: 3.4
+    workLifeBalanceRating: 3.4
+    overallRating: 3.9
+    ungendered: 3.768639009
+    predicted: 3.768625359
+-
+    ceo: Daniel J. McCarthy
+    company: Frontier Communications
+    industry: Cable, Internet & Telephone Providers
+    Gender: 0
+    ranking: 461
+    careerOpportunitiesRating: 2.6
+    ceoApprovalRating: 1.95
+    compensationAndBenefitsRating: 3.2
+    cultureAndValuesRating: 2.6
+    seniorLeadershipRating: 2.4
+    workLifeBalanceRating: 2.8
+    overallRating: 2.7
+    ungendered: 2.774141565
+    predicted: 2.774117715
+-
+    ceo: J. Paul Raines
+    company: GameStop
+    industry: Toy & Hobby Stores
+    Gender: 0
+    ranking: 302
+    careerOpportunitiesRating: 2.7
+    ceoApprovalRating: 2.85
+    compensationAndBenefitsRating: 2.5
+    cultureAndValuesRating: 2.9
+    seniorLeadershipRating: 2.7
+    workLifeBalanceRating: 2.9
+    overallRating: 2.9
+    ungendered: 2.932332326
+    predicted: 2.932303475
+-
+    ceo: Arthur L. Peck
+    company: Gap
+    industry: Computer Hardware & Software
+    Gender: 0
+    ranking: 177
+    careerOpportunitiesRating: 4
+    ceoApprovalRating: 3.4
+    compensationAndBenefitsRating: 3.7
+    cultureAndValuesRating: 4.7
+    seniorLeadershipRating: 4
+    workLifeBalanceRating: 4.4
+    overallRating: 4.2
+    ungendered: 4.368759384
+    predicted: 4.368742388
+-
+    ceo: Jeffrey R. Immelt
+    company: GE
+    industry: Enterprise Software & Network Solutions
+    Gender: 0
+    ranking: 11
+    careerOpportunitiesRating: 3.7
+    ceoApprovalRating: 4.2
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 3.8
+    seniorLeadershipRating: 3.3
+    workLifeBalanceRating: 3.5
+    overallRating: 3.7
+    ungendered: 3.72662665
+    predicted: 3.726611461
+-
+    ceo: Phebe N. Novakovic
+    company: General Dynamics
+    industry: Aerospace & Defense
+    Gender: 1
+    ranking: 88
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 4
+    compensationAndBenefitsRating: 3.9
+    cultureAndValuesRating: 3.2
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 3.3
+    overallRating: 3.5
+    ungendered: 3.366795904
+    predicted: 3.367218742
+-
+    ceo: George V. Hager Jr.
+    company: Genesis Healthcare, Inc.
+    industry: Health Care Services & Hospitals
+    Gender: 0
+    ranking: 457
+    careerOpportunitiesRating: 3.7
+    ceoApprovalRating: 5
+    compensationAndBenefitsRating: 2.7
+    cultureAndValuesRating: 3.7
+    seniorLeadershipRating: 3.7
+    workLifeBalanceRating: 3.7
+    overallRating: 3.9
+    ungendered: 3.795003982
+    predicted: 3.794984455
+-
+    ceo: Thomas J. McInerney
+    company: Genworth
+    industry: Insurance Agencies & Brokerages
+    Gender: 0
+    ranking: 306
+    careerOpportunitiesRating: 0
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 0
+    cultureAndValuesRating: 0
+    seniorLeadershipRating: 0
+    workLifeBalanceRating: 0
+    overallRating: 0
+    ungendered: 0.18353529
+    predicted: 0.183475634
+-
+    ceo: John F. Milligan
+    company: Gilead Sciences
+    industry: Biotech & Pharmaceuticals
+    Gender: 0
+    ranking: 86
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 4.05
+    compensationAndBenefitsRating: 3.7
+    cultureAndValuesRating: 3.1
+    seniorLeadershipRating: 2.8
+    workLifeBalanceRating: 2.5
+    overallRating: 3.2
+    ungendered: 3.120692997
+    predicted: 3.120668913
+-
+    ceo: Eric Slifka
+    company: Global Partners
+    industry: Oil & Gas Services
+    Gender: 0
+    ranking: 276
+    careerOpportunitiesRating: 3.1
+    ceoApprovalRating: 4.1
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 3.1
+    seniorLeadershipRating: 3.2
+    workLifeBalanceRating: 3.1
+    overallRating: 3.2
+    ungendered: 3.331120427
+    predicted: 3.331098029
+-
+    ceo: Richard J. Kramer
+    company: Goodyear
+    industry: Industrial Manufacturing
+    Gender: 0
+    ranking: 169
+    careerOpportunitiesRating: 2.6
+    ceoApprovalRating: 3.8
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 2.3
+    seniorLeadershipRating: 2.3
+    workLifeBalanceRating: 2.4
+    overallRating: 2.7
+    ungendered: 2.647503789
+    predicted: 2.647482745
+-
+    ceo: Kathleen M. Mazzarella
+    company: Graybar Electric
+    industry: Wholesale
+    Gender: 1
+    ranking: 423
+    careerOpportunitiesRating: 3.5
+    ceoApprovalRating: 4.1
+    compensationAndBenefitsRating: 3.7
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 3.1
+    workLifeBalanceRating: 3.6
+    overallRating: 3.4
+    ungendered: 3.574922788
+    predicted: 3.575346381
+-
+    ceo: Earl J. Hesterberg
+    company: Group 1 Automotive
+    industry: Vehicle Dealers
+    Gender: 0
+    ranking: 267
+    careerOpportunitiesRating: 2.7
+    ceoApprovalRating: 3.3
+    compensationAndBenefitsRating: 2.8
+    cultureAndValuesRating: 2.8
+    seniorLeadershipRating: 2.6
+    workLifeBalanceRating: 2.4
+    overallRating: 2.8
+    ungendered: 2.832057209
+    predicted: 2.832027522
+-
+    ceo: Deanna M. Mulligan
+    company: Guardian Life
+    industry: Insurance Carriers
+    Gender: 1
+    ranking: 226
+    careerOpportunitiesRating: 3.6
+    ceoApprovalRating: 3.3
+    compensationAndBenefitsRating: 3.8
+    cultureAndValuesRating: 3.4
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 3.1
+    overallRating: 3.4
+    ungendered: 3.440182612
+    predicted: 3.440606288
+-
+    ceo: Gerald W. Evans Jr.
+    company: Hanesbrands
+    industry: Consumer Products Manufacturing
+    Gender: 0
+    ranking: 448
+    careerOpportunitiesRating: 2.6
+    ceoApprovalRating: 3
+    compensationAndBenefitsRating: 3.1
+    cultureAndValuesRating: 3
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 3
+    overallRating: 3.2
+    ungendered: 3.057564092
+    predicted: 3.057533882
+-
+    ceo: Dinesh C. Paliwal
+    company: HARMAN
+    industry: Consumer Products Manufacturing
+    Gender: 0
+    ranking: 419
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 4.05
+    compensationAndBenefitsRating: 3.2
+    cultureAndValuesRating: 3.2
+    seniorLeadershipRating: 3
+    workLifeBalanceRating: 3.3
+    overallRating: 3.4
+    ungendered: 3.344681473
+    predicted: 3.344664414
+-
+    ceo: R. Milton Johnson
+    company: HCA Holdings, Inc.
+    industry: Health Care Services & Hospitals
+    Gender: 0
+    ranking: 63
+    careerOpportunitiesRating: 2.9
+    ceoApprovalRating: 2.75
+    compensationAndBenefitsRating: 3
+    cultureAndValuesRating: 2.9
+    seniorLeadershipRating: 2.6
+    workLifeBalanceRating: 3
+    overallRating: 3.2
+    ungendered: 2.994969185
+    predicted: 2.994947555
+-
+    ceo: Michael F. Neidorff
+    company: Health Net, Inc.
+    industry: Insurance Carriers
+    Gender: 0
+    ranking: 172
+    careerOpportunitiesRating: 2.8
+    ceoApprovalRating: 3.35
+    compensationAndBenefitsRating: 3.3
+    cultureAndValuesRating: 2.9
+    seniorLeadershipRating: 2.6
+    workLifeBalanceRating: 3.1
+    overallRating: 2.9
+    ungendered: 3.015685025
+    predicted: 3.01566425
+-
+    ceo: Stanley M. Bergman
+    company: Henry Schein
+    industry: Wholesale
+    Gender: 0
+    ranking: 268
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 4
+    compensationAndBenefitsRating: 3.4
+    cultureAndValuesRating: 3.8
+    seniorLeadershipRating: 3.2
+    workLifeBalanceRating: 3.7
+    overallRating: 3.4
+    ungendered: 3.569478177
+    predicted: 3.569453324
+-
+    ceo: Kathryn V. Marinello
+    company: Hertz
+    industry: Car Rental
+    Gender: 1
+    ranking: 269
+    careerOpportunitiesRating: 2.8
+    ceoApprovalRating: 2.25
+    compensationAndBenefitsRating: 2.8
+    cultureAndValuesRating: 2.5
+    seniorLeadershipRating: 2.3
+    workLifeBalanceRating: 2.4
+    overallRating: 2.6
+    ungendered: 2.676120453
+    predicted: 2.676533281
+-
+    ceo: John B. Hess
+    company: Hess Corporation
+    industry: Energy
+    Gender: 0
+    ranking: 394
+    careerOpportunitiesRating: 2.4
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 2.8
+    cultureAndValuesRating: 2.1
+    seniorLeadershipRating: 2.8
+    workLifeBalanceRating: 3.4
+    overallRating: 2.6
+    ungendered: 2.759340022
+    predicted: 2.759314067
+-
+    ceo: Christopher J. Nassetta
+    company: Hilton
+    industry: Hotels, Motels, & Resorts
+    Gender: 0
+    ranking: 254
+    careerOpportunitiesRating: 3.9
+    ceoApprovalRating: 4.65
+    compensationAndBenefitsRating: 3.8
+    cultureAndValuesRating: 4.1
+    seniorLeadershipRating: 3.7
+    workLifeBalanceRating: 3.7
+    overallRating: 4
+    ungendered: 4.020742778
+    predicted: 4.020727536
+-
+    ceo: George J. Damiris
+    company: HollyFrontier Corporation
+    industry: Oil & Gas Exploration & Production
+    Gender: 0
+    ranking: 214
+    careerOpportunitiesRating: 3.4
+    ceoApprovalRating: 5
+    compensationAndBenefitsRating: 3.8
+    cultureAndValuesRating: 3.1
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 3.6
+    overallRating: 3.4
+    ungendered: 3.404827657
+    predicted: 3.404819923
+-
+    ceo: David M. Cote
+    company: Honeywell
+    industry: Computer Hardware & Software
+    Gender: 0
+    ranking: 75
+    careerOpportunitiesRating: 2.9
+    ceoApprovalRating: 2.65
+    compensationAndBenefitsRating: 2.8
+    cultureAndValuesRating: 2.8
+    seniorLeadershipRating: 2.5
+    workLifeBalanceRating: 2.9
+    overallRating: 2.9
+    ungendered: 2.909054325
+    predicted: 2.909032849
+-
+    ceo: James P. Snee
+    company: Hormel
+    industry: Food & Beverage Manufacturing
+    Gender: 0
+    ranking: 304
+    careerOpportunitiesRating: 3.9
+    ceoApprovalRating: 4.75
+    compensationAndBenefitsRating: 4.1
+    cultureAndValuesRating: 3.6
+    seniorLeadershipRating: 3.6
+    workLifeBalanceRating: 2.8
+    overallRating: 3.7
+    ungendered: 3.756547409
+    predicted: 3.756530688
+-
+    ceo: James F. Risoleo
+    company: Host Hotels & Resorts
+    industry: Real Estate
+    Gender: 0
+    ranking: 472
+    careerOpportunitiesRating: 2.2
+    ceoApprovalRating: 5
+    compensationAndBenefitsRating: 4.4
+    cultureAndValuesRating: 3.3
+    seniorLeadershipRating: 3.2
+    workLifeBalanceRating: 3.6
+    overallRating: 3.3
+    ungendered: 3.340738733
+    predicted: 3.340708054
+-
+    ceo: Omar Asali
+    company: HRG Group
+    industry: Investment Banking & Asset Management
+    Gender: 0
+    ranking: 441
+    careerOpportunitiesRating: 3.2
+    ceoApprovalRating: 5
+    compensationAndBenefitsRating: 3.9
+    cultureAndValuesRating: 4.3
+    seniorLeadershipRating: 4.3
+    workLifeBalanceRating: 3.3
+    overallRating: 4.2
+    ungendered: 4.059855563
+    predicted: 4.059817512
+-
+    ceo: Bruce D. Broussard
+    company: Humana Inc.
+    industry: Insurance Carriers
+    Gender: 0
+    ranking: 52
+    careerOpportunitiesRating: 3.1
+    ceoApprovalRating: 3.5
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 2.8
+    workLifeBalanceRating: 3.4
+    overallRating: 3.3
+    ungendered: 3.353487427
+    predicted: 3.353468391
+-
+    ceo: C. Michael Petters
+    company: Huntington Ingalls Industries
+    industry: Aerospace & Defense
+    Gender: 0
+    ranking: 378
+    careerOpportunitiesRating: 3.4
+    ceoApprovalRating: 3.85
+    compensationAndBenefitsRating: 3.6
+    cultureAndValuesRating: 3
+    seniorLeadershipRating: 2.5
+    workLifeBalanceRating: 3.4
+    overallRating: 3.2
+    ungendered: 3.206375663
+    predicted: 3.206369609
+-
+    ceo: Keith Cozza
+    company: Icahn Enterprises
+    industry: Investment Banking & Asset Management
+    Gender: 0
+    ranking: 184
+    careerOpportunitiesRating: 0
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 0
+    cultureAndValuesRating: 0
+    seniorLeadershipRating: 0
+    workLifeBalanceRating: 0
+    overallRating: 0
+    ungendered: 0.18353529
+    predicted: 0.183475634
+-
+    ceo: Robert W. Pittman
+    company: iHeartMedia, Inc.
+    industry: Radio
+    Gender: 0
+    ranking: 414
+    careerOpportunitiesRating: 2.7
+    ceoApprovalRating: 3.25
+    compensationAndBenefitsRating: 2.5
+    cultureAndValuesRating: 3
+    seniorLeadershipRating: 2.7
+    workLifeBalanceRating: 3.2
+    overallRating: 3.1
+    ungendered: 3.004158861
+    predicted: 3.004132158
+-
+    ceo: E. Scott Santi
+    company: Illinois Tool Works
+    industry: Industrial Manufacturing
+    Gender: 0
+    ranking: 211
+    careerOpportunitiesRating: 1
+    ceoApprovalRating: 3.7
+    compensationAndBenefitsRating: 1
+    cultureAndValuesRating: 1
+    seniorLeadershipRating: 1
+    workLifeBalanceRating: 1
+    overallRating: 1
+    ungendered: 1.199641273
+    predicted: 1.199595596
+-
+    ceo: Alain Monie
+    company: Ingram Micro
+    industry: Computer Hardware & Software
+    Gender: 0
+    ranking: 64
+    careerOpportunitiesRating: 3.1
+    ceoApprovalRating: 3.75
+    compensationAndBenefitsRating: 3
+    cultureAndValuesRating: 3.2
+    seniorLeadershipRating: 2.8
+    workLifeBalanceRating: 3.2
+    overallRating: 3.2
+    ungendered: 3.211549093
+    predicted: 3.211528938
+-
+    ceo: Ilene S. Gordon
+    company: Ingredion
+    industry: Food & Beverage Manufacturing
+    Gender: 1
+    ranking: 456
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 3.35
+    compensationAndBenefitsRating: 3.3
+    cultureAndValuesRating: 3.2
+    seniorLeadershipRating: 3
+    workLifeBalanceRating: 3.1
+    overallRating: 3.3
+    ungendered: 3.255340158
+    predicted: 3.255752163
+-
+    ceo: Kenneth T. Lamneck
+    company: Insight
+    industry: Consumer Products Manufacturing
+    Gender: 0
+    ranking: 474
+    careerOpportunitiesRating: 2.7
+    ceoApprovalRating: 3.1
+    compensationAndBenefitsRating: 2.9
+    cultureAndValuesRating: 2.4
+    seniorLeadershipRating: 2.3
+    workLifeBalanceRating: 2.8
+    overallRating: 2.7
+    ungendered: 2.700154916
+    predicted: 2.700135269
+-
+    ceo: Brian M. Krzanich
+    company: Intel Corporation
+    industry: IT Services
+    Gender: 0
+    ranking: 51
+    careerOpportunitiesRating: 3.7
+    ceoApprovalRating: 5
+    compensationAndBenefitsRating: 3.4
+    cultureAndValuesRating: 3.7
+    seniorLeadershipRating: 3.9
+    workLifeBalanceRating: 4
+    overallRating: 4.5
+    ungendered: 3.949435186
+    predicted: 3.949418744
+-
+    ceo: Virginia M. Rometty
+    company: International Business Machines Corporation
+    industry: Wholesale
+    Gender: 1
+    ranking: 31
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 5
+    compensationAndBenefitsRating: 2.7
+    cultureAndValuesRating: 4
+    seniorLeadershipRating: 3.8
+    workLifeBalanceRating: 3.8
+    overallRating: 3.8
+    ungendered: 3.833761879
+    predicted: 3.834169089
+-
+    ceo: Mark S. Sutton
+    company: International Paper
+    industry: Industrial Manufacturing
+    Gender: 0
+    ranking: 127
+    careerOpportunitiesRating: 3.5
+    ceoApprovalRating: 4.55
+    compensationAndBenefitsRating: 3.8
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 3.3
+    workLifeBalanceRating: 2.9
+    overallRating: 3.5
+    ungendered: 3.547180498
+    predicted: 3.547160566
+-
+    ceo: Michael I. Roth
+    company: Interpublic Group
+    industry: Advertising & Marketing
+    Gender: 0
+    ranking: 355
+    careerOpportunitiesRating: 2.8
+    ceoApprovalRating: 4.9
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 3.9
+    seniorLeadershipRating: 3.1
+    workLifeBalanceRating: 3.7
+    overallRating: 3.6
+    ungendered: 3.539020765
+    predicted: 3.538994026
+-
+    ceo: 'Sean M. O''Connor'
+    company: INTL FCStone
+    industry: Brokerage Services
+    Gender: 0
+    ranking: 83
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 4.85
+    compensationAndBenefitsRating: 3.9
+    cultureAndValuesRating: 3.4
+    seniorLeadershipRating: 3.6
+    workLifeBalanceRating: 3.7
+    overallRating: 3.8
+    ungendered: 3.691674185
+    predicted: 3.691655813
+-
+    ceo: John N. Roberts III
+    company: J.B. Hunt
+    industry: Logistics & Supply Chain
+    Gender: 0
+    ranking: 416
+    careerOpportunitiesRating: 3.4
+    ceoApprovalRating: 4.15
+    compensationAndBenefitsRating: 3
+    cultureAndValuesRating: 3.3
+    seniorLeadershipRating: 3
+    workLifeBalanceRating: 2.8
+    overallRating: 3.2
+    ungendered: 3.307066487
+    predicted: 3.307045387
+-
+    ceo: James Dimon
+    company: J.P. Morgan
+    industry: Investment Banking & Asset Management
+    Gender: 0
+    ranking: 23
+    careerOpportunitiesRating: 3.5
+    ceoApprovalRating: 4.55
+    compensationAndBenefitsRating: 3.6
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 3.2
+    workLifeBalanceRating: 3.3
+    overallRating: 3.6
+    ungendered: 3.558774122
+    predicted: 3.558757939
+-
+    ceo: Mark T. Mondello
+    company: Jabil
+    industry: Electrical & Electronic Manufacturing
+    Gender: 0
+    ranking: 158
+    careerOpportunitiesRating: 3.2
+    ceoApprovalRating: 4.3
+    compensationAndBenefitsRating: 3.4
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 3
+    workLifeBalanceRating: 3.1
+    overallRating: 3.4
+    ungendered: 3.3910534
+    predicted: 3.391031609
+-
+    ceo: Steven J. Demetriou
+    company: Jacobs
+    industry: Construction
+    Gender: 0
+    ranking: 235
+    careerOpportunitiesRating: 3.1
+    ceoApprovalRating: 3.75
+    compensationAndBenefitsRating: 3.2
+    cultureAndValuesRating: 3.3
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 3.5
+    overallRating: 3.3
+    ungendered: 3.324832277
+    predicted: 3.324813591
+-
+    ceo: Robin Hayes
+    company: JetBlue
+    industry: Transportation Management
+    Gender: 0
+    ranking: 405
+    careerOpportunitiesRating: 3.7
+    ceoApprovalRating: 4.35
+    compensationAndBenefitsRating: 3.6
+    cultureAndValuesRating: 4.2
+    seniorLeadershipRating: 3.5
+    workLifeBalanceRating: 3.7
+    overallRating: 3.9
+    ungendered: 3.927852673
+    predicted: 3.927834418
+-
+    ceo: Christian Ulbrich
+    company: JLL
+    industry: Sporting Goods Stores
+    Gender: 0
+    ranking: 436
+    careerOpportunitiesRating: 0
+    ceoApprovalRating: 5
+    compensationAndBenefitsRating: 0
+    cultureAndValuesRating: 0
+    seniorLeadershipRating: 0
+    workLifeBalanceRating: 0
+    overallRating: 0
+    ungendered: 0.225694654
+    predicted: 0.225639429
+-
+    ceo: Samuel R. Allen
+    company: John Deere
+    industry: Wholesale
+    Gender: 0
+    ranking: 97
+    careerOpportunitiesRating: 3.4
+    ceoApprovalRating: 3.3
+    compensationAndBenefitsRating: 3.4
+    cultureAndValuesRating: 3.2
+    seniorLeadershipRating: 3.2
+    workLifeBalanceRating: 3.4
+    overallRating: 3.3
+    ungendered: 3.448056206
+    predicted: 3.44803961
 -
     ceo: Alex Gorsky
     company: Johnson & Johnson
@@ -120,20 +3240,1385 @@
     ungendered: 3.33924044
     predicted: 3.339214643
 -
-    ceo: Allen L. Leverett
-    company: WEC Energy Group
-    industry: 
+    ceo: Alex A. Molinaroli
+    company: Johnson Controls, Inc.
+    industry: Real Estate
     Gender: 0
-    ranking: 437
-    careerOpportunitiesRating: 2.2
-    ceoApprovalRating: 0
+    ranking: 70
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 3.25
+    compensationAndBenefitsRating: 3.3
+    cultureAndValuesRating: 3
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 2.9
+    overallRating: 3
+    ungendered: 3.144153118
+    predicted: 3.14412986
+-
+    ceo: John A. Bryant
+    company: Kellogg Company
+    industry: Grantmaking Foundations
+    Gender: 0
+    ranking: 207
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 5
+    compensationAndBenefitsRating: 3.9
+    cultureAndValuesRating: 3.4
+    seniorLeadershipRating: 2.8
+    workLifeBalanceRating: 3.2
+    overallRating: 3.3
+    ungendered: 3.320823215
+    predicted: 3.320804424
+-
+    ceo: Carl T. Camden
+    company: Kelly Services
+    industry: Staffing & Outsourcing
+    Gender: 0
+    ranking: 467
+    careerOpportunitiesRating: 3.1
+    ceoApprovalRating: 3.75
+    compensationAndBenefitsRating: 2.8
+    cultureAndValuesRating: 3
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 3.3
+    overallRating: 3.3
+    ungendered: 3.188271021
+    predicted: 3.188251385
+-
+    ceo: Bruce E. Grewcock
+    company: Kiewit Corporation
+    industry: Construction
+    Gender: 0
+    ranking: 314
+    careerOpportunitiesRating: 3.4
+    ceoApprovalRating: 4.15
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 3.4
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 2.6
+    overallRating: 3.3
+    ungendered: 3.312557425
+    predicted: 3.312536891
+-
+    ceo: Thomas J. Falk
+    company: Kimberly-Clark
+    industry: Health Care Services & Hospitals
+    Gender: 0
+    ranking: 151
+    careerOpportunitiesRating: 2.9
+    ceoApprovalRating: 3.95
+    compensationAndBenefitsRating: 3.7
+    cultureAndValuesRating: 3.7
+    seniorLeadershipRating: 3.3
+    workLifeBalanceRating: 3.3
+    overallRating: 3.4
+    ungendered: 3.517907308
+    predicted: 3.517878122
+-
+    ceo: Steven J. Kean
+    company: Kinder Morgan
+    industry: Oil & Gas Services
+    Gender: 0
+    ranking: 198
+    careerOpportunitiesRating: 3.2
+    ceoApprovalRating: 3.7
+    compensationAndBenefitsRating: 3.6
+    cultureAndValuesRating: 3.2
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 3
+    overallRating: 3.4
+    ungendered: 3.278589755
+    predicted: 3.278570777
+-
+    ceo: Benjamin A. Breier
+    company: Kindred Healthcare
+    industry: Health Care Services & Hospitals
+    Gender: 0
+    ranking: 372
+    careerOpportunitiesRating: 2.9
+    ceoApprovalRating: 2.55
+    compensationAndBenefitsRating: 2.7
+    cultureAndValuesRating: 2.8
+    seniorLeadershipRating: 2.5
+    workLifeBalanceRating: 2.9
+    overallRating: 2.8
+    ungendered: 2.900726091
+    predicted: 2.900704137
+-
+    ceo: Henry R. Kravis, George R. Roberts
+    company: KKR
+    industry: Investment Banking & Asset Management
+    Gender: 0
+    ranking: 347
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 5
+    compensationAndBenefitsRating: 4
+    cultureAndValuesRating: 4
+    seniorLeadershipRating: 3
+    workLifeBalanceRating: 3
+    overallRating: 3
+    ungendered: 3.516634472
+    predicted: 3.516607513
+-
+    ceo: Kevin Mansell
+    company: 'Kohl''s'
+    industry: Wholesale
+    Gender: 0
+    ranking: 145
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 5
+    compensationAndBenefitsRating: 2.6
+    cultureAndValuesRating: 4.1
+    seniorLeadershipRating: 3.8
+    workLifeBalanceRating: 3.6
+    overallRating: 3.6
+    ungendered: 3.824201839
+    predicted: 3.824170063
+-
+    ceo: Bernardo Hees
+    company: Kraft Heinz Company
+    industry: Food & Beverage Manufacturing
+    Gender: 0
+    ranking: 153
+    careerOpportunitiesRating: 2.7
+    ceoApprovalRating: 1.1
     compensationAndBenefitsRating: 2.9
-    cultureAndValuesRating: 1.7
+    cultureAndValuesRating: 2.1
+    seniorLeadershipRating: 2.1
+    workLifeBalanceRating: 2
+    overallRating: 2.4
+    ungendered: 2.432316961
+    predicted: 2.432293221
+-
+    ceo: W. Rodney McMullen
+    company: Kroger
+    industry: Grocery Stores & Supermarkets
+    Gender: 0
+    ranking: 17
+    careerOpportunitiesRating: 3.1
+    ceoApprovalRating: 3.05
+    compensationAndBenefitsRating: 2.8
+    cultureAndValuesRating: 3.2
+    seniorLeadershipRating: 2.7
+    workLifeBalanceRating: 2.7
+    overallRating: 3
+    ungendered: 3.090288606
+    predicted: 3.090263876
+-
+    ceo: Leslie H. Wexner
+    company: L Brands
+    industry: Department, Clothing, & Shoe Stores
+    Gender: 0
+    ranking: 234
+    careerOpportunitiesRating: 3.5
+    ceoApprovalRating: 4.55
+    compensationAndBenefitsRating: 3.8
+    cultureAndValuesRating: 3.7
+    seniorLeadershipRating: 3.3
+    workLifeBalanceRating: 3.3
+    overallRating: 3.6
+    ungendered: 3.655876557
+    predicted: 3.655858504
+-
+    ceo: Jeffrey K. Storey
+    company: L-3 Communications
+    industry: Aerospace & Defense
+    Gender: 0
+    ranking: 333
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 3.8
+    compensationAndBenefitsRating: 3.6
+    cultureAndValuesRating: 3
+    seniorLeadershipRating: 2.7
+    workLifeBalanceRating: 3.2
+    overallRating: 3.3
+    ungendered: 3.153844447
+    predicted: 3.153827621
+-
+    ceo: Michael T. Strianese
+    company: L-3 Communications
+    industry: Aerospace & Defense
+    Gender: 0
+    ranking: 245
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 3.8
+    compensationAndBenefitsRating: 3.6
+    cultureAndValuesRating: 3
+    seniorLeadershipRating: 2.7
+    workLifeBalanceRating: 3.2
+    overallRating: 3.3
+    ungendered: 3.153844447
+    predicted: 3.153827621
+-
+    ceo: David P. King
+    company: LabCorp
+    industry: Research & Development
+    Gender: 0
+    ranking: 325
+    careerOpportunitiesRating: 2.6
+    ceoApprovalRating: 2.6
+    compensationAndBenefitsRating: 3
+    cultureAndValuesRating: 2.5
+    seniorLeadershipRating: 2.3
+    workLifeBalanceRating: 2.8
+    overallRating: 2.9
+    ungendered: 2.708656366
+    predicted: 2.70863419
+-
+    ceo: Martin B. Anstice
+    company: Lam Research Corporation
+    industry: Electrical & Electronic Manufacturing
+    Gender: 0
+    ranking: 491
+    careerOpportunitiesRating: 3.7
+    ceoApprovalRating: 4.65
+    compensationAndBenefitsRating: 4
+    cultureAndValuesRating: 3.9
+    seniorLeadershipRating: 3.6
+    workLifeBalanceRating: 3.3
+    overallRating: 4
+    ungendered: 3.855349149
+    predicted: 3.855330507
+-
+    ceo: Christopher J. Policinski
+    company: 'Land O''Lakes'
+    industry: Food & Beverage Manufacturing
+    Gender: 0
+    ranking: 215
+    careerOpportunitiesRating: 3.4
+    ceoApprovalRating: 4.7
+    compensationAndBenefitsRating: 3.9
+    cultureAndValuesRating: 3.9
+    seniorLeadershipRating: 3.5
+    workLifeBalanceRating: 3.6
+    overallRating: 3.8
+    ungendered: 3.798031118
+    predicted: 3.798010699
+-
+    ceo: William E. Krueger
+    company: Lansing Trade Group
+    industry: Food Production
+    Gender: 0
+    ranking: 463
+    careerOpportunitiesRating: 2.4
+    ceoApprovalRating: 2.75
+    compensationAndBenefitsRating: 3.3
+    cultureAndValuesRating: 2.2
     seniorLeadershipRating: 1.8
+    workLifeBalanceRating: 2.4
+    overallRating: 2.3
+    ungendered: 2.406438828
+    predicted: 2.406418966
+-
+    ceo: Matthew J. Simoncini
+    company: Lear Corporation
+    industry: Investment Banking & Asset Management
+    Gender: 0
+    ranking: 154
+    careerOpportunitiesRating: 4.5
+    ceoApprovalRating: 5
+    compensationAndBenefitsRating: 3.8
+    cultureAndValuesRating: 4.3
+    seniorLeadershipRating: 4.3
+    workLifeBalanceRating: 4.2
+    overallRating: 3.9
+    ungendered: 4.451076653
+    predicted: 4.451068041
+-
+    ceo: Stuart A. Miller
+    company: Lennar
+    industry: Real Estate
+    Gender: 0
+    ranking: 301
+    careerOpportunitiesRating: 4.6
+    ceoApprovalRating: 5
+    compensationAndBenefitsRating: 4.6
+    cultureAndValuesRating: 4.7
+    seniorLeadershipRating: 4.6
+    workLifeBalanceRating: 4.4
+    overallRating: 4.7
+    ungendered: 4.754196708
+    predicted: 4.75418822
+-
+    ceo: Richard B. Handler
+    company: Leucadia National
+    industry: Investment Banking & Asset Management
+    Gender: 0
+    ranking: 242
+    careerOpportunitiesRating: 3.7
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 4
+    cultureAndValuesRating: 4.4
+    seniorLeadershipRating: 4
+    workLifeBalanceRating: 4
+    overallRating: 4.3
+    ungendered: 4.165001039
+    predicted: 4.164975988
+-
+    ceo: Gregory B. Maffei
+    company: Liberty Interactive
+    industry: Computer Hardware & Software
+    Gender: 0
+    ranking: 284
+    careerOpportunitiesRating: 0
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 0
+    cultureAndValuesRating: 0
+    seniorLeadershipRating: 0
+    workLifeBalanceRating: 0
+    overallRating: 0
+    ungendered: 0.18353529
+    predicted: 0.183475634
+-
+    ceo: David H. Long
+    company: Liberty Mutual Insurance
+    industry: Insurance Carriers
+    Gender: 0
+    ranking: 73
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 3.95
+    compensationAndBenefitsRating: 3.8
+    cultureAndValuesRating: 3.4
+    seniorLeadershipRating: 3.1
+    workLifeBalanceRating: 3.5
+    overallRating: 3.4
+    ungendered: 3.49909242
+    predicted: 3.499076671
+-
+    ceo: Dennis R. Glass
+    company: Lincoln Financial Group
+    industry: Insurance Carriers
+    Gender: 0
+    ranking: 205
+    careerOpportunitiesRating: 3.1
+    ceoApprovalRating: 4.25
+    compensationAndBenefitsRating: 3.6
+    cultureAndValuesRating: 3.4
+    seniorLeadershipRating: 3
+    workLifeBalanceRating: 3.4
+    overallRating: 3.3
+    ungendered: 3.400878469
+    predicted: 3.400859051
+-
+    ceo: Bryan B. DeBoer
+    company: Lithia Motors
+    industry: Vehicle Dealers
+    Gender: 0
+    ranking: 346
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 3.9
+    compensationAndBenefitsRating: 3.4
+    cultureAndValuesRating: 2.9
+    seniorLeadershipRating: 2.7
+    workLifeBalanceRating: 2.8
+    overallRating: 3.3
+    ungendered: 3.057158
+    predicted: 3.057137832
+-
+    ceo: Michael Rapino
+    company: Live Nation Entertainment
+    industry: Music Production & Distribution
+    Gender: 0
+    ranking: 366
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 4.1
+    compensationAndBenefitsRating: 3.1
+    cultureAndValuesRating: 3.8
+    seniorLeadershipRating: 3.2
+    workLifeBalanceRating: 3.3
+    overallRating: 3.6
+    ungendered: 3.55415574
+    predicted: 3.55413149
+-
+    ceo: Robert L. Wagman
+    company: LKQ
+    industry: Automotive Parts & Accessories Stores
+    Gender: 0
+    ranking: 369
+    careerOpportunitiesRating: 2.4
+    ceoApprovalRating: 3.2
+    compensationAndBenefitsRating: 2.6
+    cultureAndValuesRating: 2.3
+    seniorLeadershipRating: 2.2
+    workLifeBalanceRating: 2.5
+    overallRating: 2.6
+    ungendered: 2.517517333
+    predicted: 2.517490811
+-
+    ceo: Marillyn A. Hewson
+    company: Lockheed Martin
+    industry: Health Care Services & Hospitals
+    Gender: 1
+    ranking: 60
+    careerOpportunitiesRating: 2.8
+    ceoApprovalRating: 4.2
+    compensationAndBenefitsRating: 3.2
+    cultureAndValuesRating: 3
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 3
+    overallRating: 3
+    ungendered: 3.116975746
+    predicted: 3.117386505
+-
+    ceo: James S. Tisch
+    company: Loews Corporation
+    industry: Consumer Products Manufacturing
+    Gender: 0
+    ranking: 210
+    careerOpportunitiesRating: 4
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 4
+    cultureAndValuesRating: 5
+    seniorLeadershipRating: 5
+    workLifeBalanceRating: 5
+    overallRating: 5
+    ungendered: 4.824183289
+    predicted: 4.824156223
+-
+    ceo: Terry J. Lundgren
+    company: 'Macy''s'
+    industry: Department, Clothing, & Shoe Stores
+    Gender: 0
+    ranking: 103
+    careerOpportunitiesRating: 2.9
+    ceoApprovalRating: 2.95
+    compensationAndBenefitsRating: 2.7
+    cultureAndValuesRating: 3.2
+    seniorLeadershipRating: 2.8
+    workLifeBalanceRating: 3.1
+    overallRating: 3.1
+    ungendered: 3.126434339
+    predicted: 3.126408047
+-
+    ceo: Jonas Prising
+    company: ManpowerGroup
+    industry: Staffing & Outsourcing
+    Gender: 0
+    ranking: 144
+    careerOpportunitiesRating: 3.1
+    ceoApprovalRating: 4.55
+    compensationAndBenefitsRating: 2.9
+    cultureAndValuesRating: 3.3
+    seniorLeadershipRating: 3.3
+    workLifeBalanceRating: 3.5
+    overallRating: 3.4
+    ungendered: 3.428559851
+    predicted: 3.42853629
+-
+    ceo: Lee M. Tillman
+    company: Marathon Oil
+    industry: Oil & Gas Exploration & Production
+    Gender: 0
+    ranking: 438
+    careerOpportunitiesRating: 2.5
+    ceoApprovalRating: 1.45
+    compensationAndBenefitsRating: 3.8
+    cultureAndValuesRating: 3
+    seniorLeadershipRating: 2.4
+    workLifeBalanceRating: 3.8
+    overallRating: 2.9
+    ungendered: 3.039535361
+    predicted: 3.039517171
+-
+    ceo: Gary R. Heminger
+    company: Marathon Petroleum
+    industry: Oil & Gas Exploration & Production
+    Gender: 0
+    ranking: 42
+    careerOpportunitiesRating: 3.8
+    ceoApprovalRating: 4.7
+    compensationAndBenefitsRating: 4.3
+    cultureAndValuesRating: 4
+    seniorLeadershipRating: 3.7
+    workLifeBalanceRating: 3.6
+    overallRating: 4
+    ungendered: 3.997443153
+    predicted: 3.997428117
+-
+    ceo: Arne M. Sorenson
+    company: Marriott International
+    industry: Hotels, Motels, & Resorts
+    Gender: 0
+    ranking: 195
+    careerOpportunitiesRating: 3.7
+    ceoApprovalRating: 4.45
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 3.9
+    seniorLeadershipRating: 3.3
+    workLifeBalanceRating: 3.3
+    overallRating: 3.8
+    ungendered: 3.726659626
+    predicted: 3.726642174
+-
+    ceo: Daniel S. Glaser
+    company: Marsh & McLennan Companies
+    industry: Insurance Agencies & Brokerages
+    Gender: 0
+    ranking: 222
+    careerOpportunitiesRating: 0
+    ceoApprovalRating: 4.9
+    compensationAndBenefitsRating: 0
+    cultureAndValuesRating: 0
+    seniorLeadershipRating: 0
+    workLifeBalanceRating: 0
+    overallRating: 0
+    ungendered: 0.224851467
+    predicted: 0.224796153
+-
+    ceo: Keith J. Allman
+    company: Masco
+    industry: Consumer Products Manufacturing
+    Gender: 0
+    ranking: 345
+    careerOpportunitiesRating: 2.5
+    ceoApprovalRating: 3
+    compensationAndBenefitsRating: 3
+    cultureAndValuesRating: 3.2
+    seniorLeadershipRating: 2.7
+    workLifeBalanceRating: 3.6
+    overallRating: 3.1
+    ungendered: 3.106363828
+    predicted: 3.106337325
+-
+    ceo: Christopher A. Sinclair
+    company: Mattel
+    industry: Consumer Products Manufacturing
+    Gender: 0
+    ranking: 450
+    careerOpportunitiesRating: 2.8
+    ceoApprovalRating: 2.65
+    compensationAndBenefitsRating: 3.4
+    cultureAndValuesRating: 3.1
+    seniorLeadershipRating: 2.6
+    workLifeBalanceRating: 3.5
+    overallRating: 3.1
+    ungendered: 3.125963821
+    predicted: 3.125944692
+-
+    ceo: Stephen J. Easterbrook
+    company: 'McDonald''s'
+    industry: Fast-Food & Quick-Service Restaurants
+    Gender: 0
+    ranking: 109
+    careerOpportunitiesRating: 3.2
+    ceoApprovalRating: 3.55
+    compensationAndBenefitsRating: 2.7
+    cultureAndValuesRating: 3
+    seniorLeadershipRating: 2.8
+    workLifeBalanceRating: 3.1
+    overallRating: 3.2
+    ungendered: 3.141932964
+    predicted: 3.141913856
+-
+    ceo: John H. Hammergren
+    company: McKesson
+    industry: Health Care Services & Hospitals
+    Gender: 0
+    ranking: 5
+    careerOpportunitiesRating: 1.9
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 2.7
+    cultureAndValuesRating: 2.3
+    seniorLeadershipRating: 1.9
     workLifeBalanceRating: 2.3
     overallRating: 2.3
-    ungendered: 2.166714281
-    predicted: 2.166690029
+    ungendered: 2.275710064
+    predicted: 2.275674187
+-
+    ceo: Kenneth C. Frazier
+    company: Merck
+    industry: Health Care Services & Hospitals
+    Gender: 0
+    ranking: 72
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 3.95
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 3.4
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 3.4
+    overallRating: 3.4
+    ungendered: 3.340100376
+    predicted: 3.340079705
+-
+    ceo: Steven A. Kandarian
+    company: MetLife
+    industry: Insurance Carriers
+    Gender: 0
+    ranking: 40
+    careerOpportunitiesRating: 2.9
+    ceoApprovalRating: 3.3
+    compensationAndBenefitsRating: 3.4
+    cultureAndValuesRating: 3.1
+    seniorLeadershipRating: 2.7
+    workLifeBalanceRating: 3.4
+    overallRating: 3.1
+    ungendered: 3.168102267
+    predicted: 3.168083456
+-
+    ceo: James J. Murren
+    company: MGM Resorts International
+    industry: Hotels, Motels, & Resorts
+    Gender: 0
+    ranking: 309
+    careerOpportunitiesRating: 3.4
+    ceoApprovalRating: 3.95
+    compensationAndBenefitsRating: 3.4
+    cultureAndValuesRating: 3.4
+    seniorLeadershipRating: 3
+    workLifeBalanceRating: 3.1
+    overallRating: 3.3
+    ungendered: 3.403774086
+    predicted: 3.403756161
+-
+    ceo: D. Mark Durcan
+    company: Micron Technology
+    industry: Electrical & Electronic Manufacturing
+    Gender: 0
+    ranking: 173
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 3.8
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 3.2
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 3.1
+    overallRating: 3.3
+    ungendered: 3.30695783
+    predicted: 3.30694111
+-
+    ceo: Satya Nadella
+    company: Microsoft
+    industry: Computer Hardware & Software
+    Gender: 0
+    ranking: 25
+    careerOpportunitiesRating: 3.7
+    ceoApprovalRating: 4.75
+    compensationAndBenefitsRating: 4
+    cultureAndValuesRating: 3.8
+    seniorLeadershipRating: 3.4
+    workLifeBalanceRating: 3.7
+    overallRating: 3.9
+    ungendered: 3.826760231
+    predicted: 3.826748084
+-
+    ceo: Jeffrey S. Lorberbaum
+    company: Mohawk Industries
+    industry: Industrial Manufacturing
+    Gender: 0
+    ranking: 338
+    careerOpportunitiesRating: 3.2
+    ceoApprovalRating: 4.2
+    compensationAndBenefitsRating: 3.3
+    cultureAndValuesRating: 3.1
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 3.1
+    overallRating: 3.2
+    ungendered: 3.248319787
+    predicted: 3.248301713
+-
+    ceo: Joseph M. Molina
+    company: Molina Healthcare
+    industry: Health Care Services & Hospitals
+    Gender: 0
+    ranking: 201
+    careerOpportunitiesRating: 3.1
+    ceoApprovalRating: 4.2
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 3.3
+    seniorLeadershipRating: 2.8
+    workLifeBalanceRating: 3.2
+    overallRating: 3.2
+    ungendered: 3.27890519
+    predicted: 3.278886607
+-
+    ceo: Irene B. Rosenfeld
+    company: Mondelez International
+    industry: Food & Beverage Manufacturing
+    Gender: 1
+    ranking: 94
+    careerOpportunitiesRating: 2.9
+    ceoApprovalRating: 2.7
+    compensationAndBenefitsRating: 3.4
+    cultureAndValuesRating: 3.1
+    seniorLeadershipRating: 2.8
+    workLifeBalanceRating: 3
+    overallRating: 3.1
+    ungendered: 3.136479425
+    predicted: 3.136891667
+-
+    ceo: Hugh Grant
+    company: Monsanto Company
+    industry: Food Production
+    Gender: 0
+    ranking: 189
+    careerOpportunitiesRating: 3.6
+    ceoApprovalRating: 4.75
+    compensationAndBenefitsRating: 4
+    cultureAndValuesRating: 3.9
+    seniorLeadershipRating: 3.4
+    workLifeBalanceRating: 3.8
+    overallRating: 3.8
+    ungendered: 3.846098325
+    predicted: 3.846084559
+-
+    ceo: James P. Gorman
+    company: Morgan Stanley
+    industry: Banks & Credit Unions
+    Gender: 0
+    ranking: 78
+    careerOpportunitiesRating: 2.6
+    ceoApprovalRating: 2.35
+    compensationAndBenefitsRating: 3
+    cultureAndValuesRating: 2.7
+    seniorLeadershipRating: 2.4
+    workLifeBalanceRating: 3.2
+    overallRating: 2.8
+    ungendered: 2.845103761
+    predicted: 2.845082138
+-
+    ceo: Gregory Q. Brown
+    company: Motorola Solutions
+    industry: Telecommunications Manufacturing
+    Gender: 0
+    ranking: 451
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 2.1
+    compensationAndBenefitsRating: 3.6
+    cultureAndValuesRating: 3.4
+    seniorLeadershipRating: 2.8
+    workLifeBalanceRating: 3.6
+    overallRating: 3.3
+    ungendered: 3.330338665
+    predicted: 3.33031956
+-
+    ceo: James T. Blackledge
+    company: Mutual of Omaha
+    industry: Insurance Carriers
+    Gender: 0
+    ranking: 367
+    careerOpportunitiesRating: 3.5
+    ceoApprovalRating: 4.9
+    compensationAndBenefitsRating: 3.4
+    cultureAndValuesRating: 3.6
+    seniorLeadershipRating: 3.3
+    workLifeBalanceRating: 3.8
+    overallRating: 3.6
+    ungendered: 3.673279784
+    predicted: 3.673265536
+-
+    ceo: Paul D. Donahue
+    company: NAPA Auto Parts
+    industry: Automotive Parts & Accessories Stores
+    Gender: 0
+    ranking: 183
+    careerOpportunitiesRating: 3.2
+    ceoApprovalRating: 4.1
+    compensationAndBenefitsRating: 3.2
+    cultureAndValuesRating: 3.3
+    seniorLeadershipRating: 3
+    workLifeBalanceRating: 3.2
+    overallRating: 3.5
+    ungendered: 3.33622965
+    predicted: 3.336209304
+-
+    ceo: Clay C. Williams
+    company: National Oilwell Varco
+    industry: Oil & Gas Services
+    Gender: 0
+    ranking: 192
+    careerOpportunitiesRating: 3.2
+    ceoApprovalRating: 4
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 3.4
+    seniorLeadershipRating: 3
+    workLifeBalanceRating: 3.5
+    overallRating: 3.5
+    ungendered: 3.426295389
+    predicted: 3.426277918
+-
+    ceo: Stephen S. Rasmussen
+    company: Nationwide
+    industry: Investment Banking & Asset Management
+    Gender: 0
+    ranking: 69
+    careerOpportunitiesRating: 2.5
+    ceoApprovalRating: 2.45
+    compensationAndBenefitsRating: 2.7
+    cultureAndValuesRating: 2.5
+    seniorLeadershipRating: 2.1
+    workLifeBalanceRating: 2.9
+    overallRating: 2.5
+    ungendered: 2.618419411
+    predicted: 2.618397297
+-
+    ceo: John F. Remondi
+    company: Navient
+    industry: Financial Transaction Processing
+    Gender: 0
+    ranking: 494
+    careerOpportunitiesRating: 3.1
+    ceoApprovalRating: 3.45
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 3
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 3.1
+    overallRating: 3.1
+    ungendered: 3.209925278
+    predicted: 3.209906389
+-
+    ceo: Troy A. Clarke
+    company: Navistar
+    industry: Transportation Equipment Manufacturing
+    Gender: 0
+    ranking: 281
+    careerOpportunitiesRating: 3.5
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 4
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 3.5
+    workLifeBalanceRating: 3.4
+    overallRating: 3
+    ungendered: 3.654032956
+    predicted: 3.654011843
+-
+    ceo: George Kurian
+    company: NetApp
+    industry: Enterprise Software & Network Solutions
+    Gender: 0
+    ranking: 422
+    careerOpportunitiesRating: 2.9
+    ceoApprovalRating: 3.6
+    compensationAndBenefitsRating: 3.7
+    cultureAndValuesRating: 3.7
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 3.9
+    overallRating: 3.4
+    ungendered: 3.480153469
+    predicted: 3.480133525
+-
+    ceo: Reed Hastings
+    company: Netflix, Inc.
+    industry: Internet
+    Gender: 0
+    ranking: 379
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 4.35
+    compensationAndBenefitsRating: 4.3
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 3.2
+    workLifeBalanceRating: 3.3
+    overallRating: 3.4
+    ungendered: 3.504962177
+    predicted: 3.504940034
+-
+    ceo: Theodore A. Mathas
+    company: New York Life
+    industry: Insurance Agencies & Brokerages
+    Gender: 0
+    ranking: 61
+    careerOpportunitiesRating: 3.5
+    ceoApprovalRating: 4.25
+    compensationAndBenefitsRating: 3.4
+    cultureAndValuesRating: 3.7
+    seniorLeadershipRating: 3.4
+    workLifeBalanceRating: 3.5
+    overallRating: 3.5
+    ungendered: 3.681477623
+    predicted: 3.681458354
+-
+    ceo: Michael B. Polk
+    company: Newell Brands
+    industry: Consumer Products Manufacturing
+    Gender: 0
+    ranking: 434
+    careerOpportunitiesRating: 3.2
+    ceoApprovalRating: 3
+    compensationAndBenefitsRating: 3.1
+    cultureAndValuesRating: 2.7
+    seniorLeadershipRating: 2.6
+    workLifeBalanceRating: 3.1
+    overallRating: 2.9
+    ungendered: 3.029107457
+    predicted: 3.029093946
+-
+    ceo: Gary J. Goldberg
+    company: Newmont Mining
+    industry: Mining
+    Gender: 0
+    ranking: 349
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 3.95
+    compensationAndBenefitsRating: 4.2
+    cultureAndValuesRating: 3.3
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 3.1
+    overallRating: 3.5
+    ungendered: 3.32404192
+    predicted: 3.324022179
+-
+    ceo: Robert J. Thomson
+    company: News Corp
+    industry: Publishing
+    Gender: 0
+    ranking: 327
+    careerOpportunitiesRating: 2.8
+    ceoApprovalRating: 3.75
+    compensationAndBenefitsRating: 2.7
+    cultureAndValuesRating: 2.5
+    seniorLeadershipRating: 2.5
+    workLifeBalanceRating: 3.1
+    overallRating: 2.8
+    ungendered: 2.839742113
+    predicted: 2.839723552
+-
+    ceo: James L. Robo
+    company: NextEra Energy, Inc.
+    industry: Utilities
+    Gender: 0
+    ranking: 163
+    careerOpportunitiesRating: 3.4
+    ceoApprovalRating: 4
+    compensationAndBenefitsRating: 3.6
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 3.3
+    workLifeBalanceRating: 2.9
+    overallRating: 3.6
+    ungendered: 3.506668694
+    predicted: 3.506645794
+-
+    ceo: H. Michael Krimbill
+    company: NGL Energy Partners
+    industry: Oil & Gas Services
+    Gender: 0
+    ranking: 167
+    careerOpportunitiesRating: 2.1
+    ceoApprovalRating: 1.15
+    compensationAndBenefitsRating: 2.7
+    cultureAndValuesRating: 2
+    seniorLeadershipRating: 2.1
+    workLifeBalanceRating: 2.4
+    overallRating: 2.2
+    ungendered: 2.322629885
+    predicted: 2.322599397
+-
+    ceo: Mark G. Parker
+    company: NIKE
+    industry: Sports & Recreation
+    Gender: 0
+    ranking: 91
+    careerOpportunitiesRating: 2.9
+    ceoApprovalRating: 5
+    compensationAndBenefitsRating: 3.1
+    cultureAndValuesRating: 4.1
+    seniorLeadershipRating: 3.9
+    workLifeBalanceRating: 4
+    overallRating: 4
+    ungendered: 3.864292682
+    predicted: 3.864258365
+-
+    ceo: Blake W. Nordstrom
+    company: Nordstrom, Inc.
+    industry: Accounting
+    Gender: 0
+    ranking: 197
+    careerOpportunitiesRating: 5
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 3.7
+    cultureAndValuesRating: 4.5
+    seniorLeadershipRating: 3.9
+    workLifeBalanceRating: 4
+    overallRating: 4.3
+    ungendered: 4.410577449
+    predicted: 4.410573686
+-
+    ceo: James A. Squires
+    company: Norfolk Southern
+    industry: Rail
+    Gender: 0
+    ranking: 270
+    careerOpportunitiesRating: 3.1
+    ceoApprovalRating: 2.8
+    compensationAndBenefitsRating: 3.7
+    cultureAndValuesRating: 2.5
+    seniorLeadershipRating: 2.4
+    workLifeBalanceRating: 2.1
+    overallRating: 2.8
+    ungendered: 2.798377984
+    predicted: 2.798360124
+-
+    ceo: W. Douglas Parker
+    company: North American Airlines
+    industry: Airlines
+    Gender: 0
+    ranking: 67
+    careerOpportunitiesRating: 2.8
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 2.8
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 2.4
+    workLifeBalanceRating: 3.2
+    overallRating: 2.9
+    ungendered: 3.061219276
+    predicted: 3.061192011
+-
+    ceo: Wesley G. Bush
+    company: Northrop Grumman
+    industry: Aerospace & Defense
+    Gender: 0
+    ranking: 118
+    careerOpportunitiesRating: 3.5
+    ceoApprovalRating: 4.35
+    compensationAndBenefitsRating: 3.6
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 3.1
+    workLifeBalanceRating: 3.7
+    overallRating: 3.6
+    ungendered: 3.583651465
+    predicted: 3.583639634
+-
+    ceo: John E. Schlifske
+    company: Northwestern Mutual Life Insurance Company, Inc.
+    industry: Brokerage Services
+    Gender: 0
+    ranking: 100
+    careerOpportunitiesRating: 3.9
+    ceoApprovalRating: 4.55
+    compensationAndBenefitsRating: 3.4
+    cultureAndValuesRating: 4.2
+    seniorLeadershipRating: 3.9
+    workLifeBalanceRating: 3.8
+    overallRating: 3.8
+    ungendered: 4.089920285
+    predicted: 4.089901272
+-
+    ceo: Mauricio Gutierrez
+    company: NRG Energy
+    industry: Energy
+    Gender: 0
+    ranking: 193
+    careerOpportunitiesRating: 2.9
+    ceoApprovalRating: 3.75
+    compensationAndBenefitsRating: 3.6
+    cultureAndValuesRating: 3
+    seniorLeadershipRating: 2.8
+    workLifeBalanceRating: 3.3
+    overallRating: 3.2
+    ungendered: 3.176483734
+    predicted: 3.176464913
+-
+    ceo: John J. Ferriola
+    company: Nucor
+    industry: Metal & Mineral Manufacturing
+    Gender: 0
+    ranking: 170
+    careerOpportunitiesRating: 3.7
+    ceoApprovalRating: 4.5
+    compensationAndBenefitsRating: 4.1
+    cultureAndValuesRating: 4.1
+    seniorLeadershipRating: 3.4
+    workLifeBalanceRating: 3.4
+    overallRating: 3.7
+    ungendered: 3.868229599
+    predicted: 3.868212733
+-
+    ceo: Gregory L. Henslee
+    company: 'O''Reilly Automotive, Inc.'
+    industry: Automotive Parts & Accessories Stores
+    Gender: 0
+    ranking: 342
+    careerOpportunitiesRating: 3.1
+    ceoApprovalRating: 3.8
+    compensationAndBenefitsRating: 2.6
+    cultureAndValuesRating: 3.4
+    seniorLeadershipRating: 2.8
+    workLifeBalanceRating: 2.9
+    overallRating: 3.1
+    ungendered: 3.19198627
+    predicted: 3.191960488
+-
+    ceo: Vicki A. Hollub
+    company: Occidental Petroleum
+    industry: Oil & Gas Exploration & Production
+    Gender: 1
+    ranking: 225
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 4.5
+    compensationAndBenefitsRating: 3.9
+    cultureAndValuesRating: 3.6
+    seniorLeadershipRating: 3.5
+    workLifeBalanceRating: 3.8
+    overallRating: 3.8
+    ungendered: 3.725242519
+    predicted: 3.725660363
+-
+    ceo: Roland C. Smith
+    company: Office Depot
+    industry: 
+    Gender: 0
+    ranking: 196
+    careerOpportunitiesRating: 3.9
+    ceoApprovalRating: 5
+    compensationAndBenefitsRating: 3
+    cultureAndValuesRating: 3.6
+    seniorLeadershipRating: 3.6
+    workLifeBalanceRating: 3.8
+    overallRating: 3.4
+    ungendered: 3.817377415
+    predicted: 3.817365193
+-
+    ceo: Aldo C. Zucaro
+    company: Old Republic
+    industry: Insurance Carriers
+    Gender: 0
+    ranking: 442
+    careerOpportunitiesRating: 2.1
+    ceoApprovalRating: 1.8
+    compensationAndBenefitsRating: 2.4
+    cultureAndValuesRating: 1.9
+    seniorLeadershipRating: 2
+    workLifeBalanceRating: 3.2
+    overallRating: 2.2
+    ungendered: 2.362505683
+    predicted: 2.362483327
+-
+    ceo: John D. Wren
+    company: Omnicom
+    industry: Advertising & Marketing
+    Gender: 0
+    ranking: 186
+    careerOpportunitiesRating: 3.2
+    ceoApprovalRating: 4.85
+    compensationAndBenefitsRating: 3
+    cultureAndValuesRating: 3.4
+    seniorLeadershipRating: 3.2
+    workLifeBalanceRating: 3.3
+    overallRating: 3.5
+    ungendered: 3.427544343
+    predicted: 3.427521758
+-
+    ceo: Terry K. Spencer
+    company: ONEOK
+    industry: Transportation Management
+    Gender: 0
+    ranking: 348
+    careerOpportunitiesRating: 2.9
+    ceoApprovalRating: 4.2
+    compensationAndBenefitsRating: 3.4
+    cultureAndValuesRating: 3.7
+    seniorLeadershipRating: 3.5
+    workLifeBalanceRating: 3.6
+    overallRating: 3.5
+    ungendered: 3.59959601
+    predicted: 3.599566237
+-
+    ceo: Safra A. Catz, Mark V. Hurd
+    company: Oracle
+    industry: Enterprise Software & Network Solutions
+    Gender: 1
+    ranking: 77
+    careerOpportunitiesRating: 3.2
+    ceoApprovalRating: 3.3
+    compensationAndBenefitsRating: 3.1
+    cultureAndValuesRating: 3.1
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 3.7
+    overallRating: 3.3
+    ungendered: 3.31039554
+    predicted: 3.310817139
+-
+    ceo: Wilson R. Jones
+    company: Oshkosh Corporation
+    industry: Transportation Equipment Manufacturing
+    Gender: 0
+    ranking: 424
+    careerOpportunitiesRating: 4
+    ceoApprovalRating: 4.85
+    compensationAndBenefitsRating: 4.2
+    cultureAndValuesRating: 4.1
+    seniorLeadershipRating: 3.9
+    workLifeBalanceRating: 3.9
+    overallRating: 4
+    ungendered: 4.16120364
+    predicted: 4.161191338
+-
+    ceo: P. Cody Phipps
+    company: Owens & Minor
+    industry: Wholesale
+    Gender: 0
+    ranking: 291
+    careerOpportunitiesRating: 2.7
+    ceoApprovalRating: 2.85
+    compensationAndBenefitsRating: 2.9
+    cultureAndValuesRating: 2.9
+    seniorLeadershipRating: 2.5
+    workLifeBalanceRating: 2.8
+    overallRating: 2.8
+    ungendered: 2.88844815
+    predicted: 2.888422208
+-
+    ceo: Andres A. Lopez
+    company: Owens-Illinois
+    industry: Industrial Manufacturing
+    Gender: 0
+    ranking: 418
+    careerOpportunitiesRating: 3.2
+    ceoApprovalRating: 3.45
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 3
+    seniorLeadershipRating: 2.7
+    workLifeBalanceRating: 2.9
+    overallRating: 3.3
+    ungendered: 3.142899338
+    predicted: 3.142882648
+-
+    ceo: Ronald E. Armstrong
+    company: PACCAR
+    industry: Commercial Equipment Rental
+    Gender: 0
+    ranking: 147
+    careerOpportunitiesRating: 0
+    ceoApprovalRating: 3
+    compensationAndBenefitsRating: 0
+    cultureAndValuesRating: 0
+    seniorLeadershipRating: 0
+    workLifeBalanceRating: 0
+    overallRating: 0
+    ungendered: 0.208830908
+    predicted: 0.208773911
+-
+    ceo: Anthony F. Earley Jr.
+    company: Pacific Gas and Electric
+    industry: Utilities
+    Gender: 0
+    ranking: 166
+    careerOpportunitiesRating: 3.6
+    ceoApprovalRating: 3.4
+    compensationAndBenefitsRating: 4.1
+    cultureAndValuesRating: 3.4
+    seniorLeadershipRating: 3
+    workLifeBalanceRating: 3.6
+    overallRating: 3.6
+    ungendered: 3.563869022
+    predicted: 3.563861019
+-
+    ceo: Thomas L. Williams
+    company: Parker Hannifin
+    industry: Industrial Manufacturing
+    Gender: 0
+    ranking: 224
+    careerOpportunitiesRating: 2.9
+    ceoApprovalRating: 3.45
+    compensationAndBenefitsRating: 3.3
+    cultureAndValuesRating: 3
+    seniorLeadershipRating: 2.5
+    workLifeBalanceRating: 3.1
+    overallRating: 3.1
+    ungendered: 3.033709607
+    predicted: 3.033690953
+-
+    ceo: Daniel H. Schulman
+    company: PayPal
+    industry: Internet
+    Gender: 0
+    ranking: 307
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 4.35
+    compensationAndBenefitsRating: 3.8
+    cultureAndValuesRating: 3.7
+    seniorLeadershipRating: 3
+    workLifeBalanceRating: 3.7
+    overallRating: 3.6
+    ungendered: 3.579226933
+    predicted: 3.579212035
+-
+    ceo: Thomas J. Nimbley
+    company: PBF Energy
+    industry: Asphalt Products Manufacturing
+    Gender: 0
+    ranking: 217
+    careerOpportunitiesRating: 3.4
+    ceoApprovalRating: 4.2
+    compensationAndBenefitsRating: 3.9
+    cultureAndValuesRating: 3.4
+    seniorLeadershipRating: 3.1
+    workLifeBalanceRating: 2.7
+    overallRating: 3.7
+    ungendered: 3.416743571
+    predicted: 3.416723286
+-
+    ceo: Mark W. Kowlzan
+    company: PCA
+    industry: Industrial Manufacturing
+    Gender: 0
+    ranking: 446
+    careerOpportunitiesRating: 2.7
+    ceoApprovalRating: 3.55
+    compensationAndBenefitsRating: 3.7
+    cultureAndValuesRating: 2.7
+    seniorLeadershipRating: 2.6
+    workLifeBalanceRating: 2.9
+    overallRating: 3
+    ungendered: 2.94592286
+    predicted: 2.945901951
+-
+    ceo: Glenn L. Kellow
+    company: Peabody Energy
+    industry: Mining
+    Gender: 0
+    ranking: 458
+    careerOpportunitiesRating: 2.9
+    ceoApprovalRating: 4.1
+    compensationAndBenefitsRating: 3.6
+    cultureAndValuesRating: 3
+    seniorLeadershipRating: 2.7
+    workLifeBalanceRating: 2.8
+    overallRating: 3.3
+    ungendered: 3.079046807
+    predicted: 3.079025121
+-
+    ceo: Indra K. Nooyi
+    company: PepsiCo
+    industry: Food & Beverage Manufacturing
+    Gender: 1
+    ranking: 44
+    careerOpportunitiesRating: 3.4
+    ceoApprovalRating: 3.7
+    compensationAndBenefitsRating: 3.7
+    cultureAndValuesRating: 3.4
+    seniorLeadershipRating: 3.1
+    workLifeBalanceRating: 2.8
+    overallRating: 3.4
+    ungendered: 3.411663296
+    predicted: 3.412078758
+-
+    ceo: George L. Holm
+    company: Performance Food Group Company
+    industry: Catering & Food Service Contractors
+    Gender: 0
+    ranking: 185
+    careerOpportunitiesRating: 2.7
+    ceoApprovalRating: 3.95
+    compensationAndBenefitsRating: 3.1
+    cultureAndValuesRating: 2.7
+    seniorLeadershipRating: 2.5
+    workLifeBalanceRating: 2.8
+    overallRating: 3
+    ungendered: 2.860420267
+    predicted: 2.860397625
+-
+    ceo: Ian C. Read
+    company: Pfizer
+    industry: Advertising & Marketing
+    Gender: 0
+    ranking: 55
+    careerOpportunitiesRating: 3.8
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 4.1
+    cultureAndValuesRating: 5
+    seniorLeadershipRating: 3.6
+    workLifeBalanceRating: 4.2
+    overallRating: 4.2
+    ungendered: 4.258983672
+    predicted: 4.258962203
 -
     ceo: Andre Calantzopoulos
     company: Philip Morris International Inc.
@@ -149,3 +4634,1968 @@
     overallRating: 3.6
     ungendered: 3.2812759
     predicted: 3.281253518
+-
+    ceo: Greg C. Garland
+    company: Phillips 66
+    industry: Energy
+    Gender: 0
+    ranking: 30
+    careerOpportunitiesRating: 3.4
+    ceoApprovalRating: 4.95
+    compensationAndBenefitsRating: 4.1
+    cultureAndValuesRating: 3.7
+    seniorLeadershipRating: 3.3
+    workLifeBalanceRating: 3.5
+    overallRating: 3.7
+    ungendered: 3.689011779
+    predicted: 3.688995258
+-
+    ceo: Greg L. Armstrong
+    company: Plains GP Holdings
+    industry: Oil & Gas Services
+    Gender: 0
+    ranking: 121
+    careerOpportunitiesRating: 0
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 0
+    cultureAndValuesRating: 0
+    seniorLeadershipRating: 0
+    workLifeBalanceRating: 0
+    overallRating: 0
+    ungendered: 0.18353529
+    predicted: 0.183475634
+-
+    ceo: William S. Demchak
+    company: PNC Financial Services Group
+    industry: Investment Banking & Asset Management
+    Gender: 0
+    ranking: 171
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 3.85
+    compensationAndBenefitsRating: 3
+    cultureAndValuesRating: 3.6
+    seniorLeadershipRating: 3
+    workLifeBalanceRating: 3.6
+    overallRating: 3.3
+    ungendered: 3.474888346
+    predicted: 3.474869807
+-
+    ceo: Michael H. McGarry
+    company: PPG
+    industry: Chemical Manufacturing
+    Gender: 0
+    ranking: 182
+    careerOpportunitiesRating: 5
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 5
+    cultureAndValuesRating: 5
+    seniorLeadershipRating: 4
+    workLifeBalanceRating: 2
+    overallRating: 5
+    ungendered: 4.386309848
+    predicted: 4.386289058
+-
+    ceo: William H. Spence
+    company: PPL
+    industry: Energy
+    Gender: 0
+    ranking: 350
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 3.35
+    compensationAndBenefitsRating: 3.6
+    cultureAndValuesRating: 3.3
+    seniorLeadershipRating: 3.2
+    workLifeBalanceRating: 3.1
+    overallRating: 3.3
+    ungendered: 3.426362966
+    predicted: 3.426342151
+-
+    ceo: Stephen F. Angel
+    company: Praxair
+    industry: Chemical Manufacturing
+    Gender: 0
+    ranking: 262
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 3.8
+    compensationAndBenefitsRating: 3.1
+    cultureAndValuesRating: 3.2
+    seniorLeadershipRating: 2.7
+    workLifeBalanceRating: 3.2
+    overallRating: 3.3
+    ungendered: 3.16869225
+    predicted: 3.168671931
+-
+    ceo: Mark Donegan
+    company: Precision Castparts
+    industry: Transportation Equipment Manufacturing
+    Gender: 0
+    ranking: 282
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 2.65
+    compensationAndBenefitsRating: 3.3
+    cultureAndValuesRating: 2.3
+    seniorLeadershipRating: 2.4
+    workLifeBalanceRating: 2.1
+    overallRating: 2.7
+    ungendered: 2.693995797
+    predicted: 2.693976092
+-
+    ceo: Glenn D. Fogel
+    company: Priceline.com
+    industry: Internet
+    Gender: 0
+    ranking: 308
+    careerOpportunitiesRating: 2.9
+    ceoApprovalRating: 3.8
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 3.4
+    seniorLeadershipRating: 3.1
+    workLifeBalanceRating: 4.1
+    overallRating: 3.4
+    ungendered: 3.476390312
+    predicted: 3.47637159
+-
+    ceo: Daniel J. Houston
+    company: Principal Financial Group
+    industry: Investment Banking & Asset Management
+    Gender: 0
+    ranking: 236
+    careerOpportunitiesRating: 3.2
+    ceoApprovalRating: 4.35
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 3.6
+    seniorLeadershipRating: 3.1
+    workLifeBalanceRating: 3.9
+    overallRating: 3.4
+    ungendered: 3.567801908
+    predicted: 3.567785521
+-
+    ceo: David S. Taylor
+    company: Procter & Gamble
+    industry: Consumer Products Manufacturing
+    Gender: 0
+    ranking: 34
+    careerOpportunitiesRating: 3.8
+    ceoApprovalRating: 4.75
+    compensationAndBenefitsRating: 4
+    cultureAndValuesRating: 4.2
+    seniorLeadershipRating: 3.5
+    workLifeBalanceRating: 3.6
+    overallRating: 4
+    ungendered: 3.967964034
+    predicted: 3.967948537
+-
+    ceo: Susan P. Griffith
+    company: Progressive Insurance
+    industry: Insurance Carriers
+    Gender: 0
+    ranking: 137
+    careerOpportunitiesRating: 3.5
+    ceoApprovalRating: 4.4
+    compensationAndBenefitsRating: 3.8
+    cultureAndValuesRating: 3.9
+    seniorLeadershipRating: 3.3
+    workLifeBalanceRating: 3.3
+    overallRating: 3.6
+    ungendered: 3.706884814
+    predicted: 3.706865082
+-
+    ceo: John R. Strangfeld Jr.
+    company: Prudential
+    industry: Insurance Carriers
+    Gender: 0
+    ranking: 50
+    careerOpportunitiesRating: 2.9
+    ceoApprovalRating: 3.4
+    compensationAndBenefitsRating: 3.3
+    cultureAndValuesRating: 2.8
+    seniorLeadershipRating: 2.8
+    workLifeBalanceRating: 3
+    overallRating: 2.6
+    ungendered: 3.056487133
+    predicted: 3.056465812
+-
+    ceo: Ralph Izzo
+    company: PSEG
+    industry: Utilities
+    Gender: 0
+    ranking: 272
+    careerOpportunitiesRating: 3.4
+    ceoApprovalRating: 4.5
+    compensationAndBenefitsRating: 4
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 3.2
+    workLifeBalanceRating: 3.6
+    overallRating: 3.4
+    ungendered: 3.609705803
+    predicted: 3.609692
+-
+    ceo: Todd Jones
+    company: Publix
+    industry: 
+    Gender: 0
+    ranking: 87
+    careerOpportunitiesRating: 1.4
+    ceoApprovalRating: 4
+    compensationAndBenefitsRating: 1.4
+    cultureAndValuesRating: 2.7
+    seniorLeadershipRating: 2.3
+    workLifeBalanceRating: 2.9
+    overallRating: 2.9
+    ungendered: 2.416228871
+    predicted: 2.416180594
+-
+    ceo: Ryan R. Marshall
+    company: Pulte Homes
+    industry: Construction
+    Gender: 0
+    ranking: 433
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 2.95
+    compensationAndBenefitsRating: 3.3
+    cultureAndValuesRating: 3.2
+    seniorLeadershipRating: 2.7
+    workLifeBalanceRating: 3
+    overallRating: 3.1
+    ungendered: 3.148283741
+    predicted: 3.148261735
+-
+    ceo: Emanuel Chirico
+    company: PVH Corp.
+    industry: Department, Clothing, & Shoe Stores
+    Gender: 0
+    ranking: 340
+    careerOpportunitiesRating: 2.9
+    ceoApprovalRating: 4.1
+    compensationAndBenefitsRating: 3.4
+    cultureAndValuesRating: 3.3
+    seniorLeadershipRating: 2.8
+    workLifeBalanceRating: 3.1
+    overallRating: 3.2
+    ungendered: 3.214662841
+    predicted: 3.21463952
+-
+    ceo: Steven M. Mollenkopf
+    company: Qualcomm
+    industry: Computer Hardware & Software
+    Gender: 0
+    ranking: 110
+    careerOpportunitiesRating: 3.4
+    ceoApprovalRating: 3.4
+    compensationAndBenefitsRating: 3.7
+    cultureAndValuesRating: 3.4
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 3.2
+    overallRating: 3.6
+    ungendered: 3.405838148
+    predicted: 3.405822864
+-
+    ceo: Earl C. Austin Jr.
+    company: Quanta Services
+    industry: Construction
+    Gender: 0
+    ranking: 352
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 4.1
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 3
+    seniorLeadershipRating: 3
+    workLifeBalanceRating: 2.8
+    overallRating: 2.9
+    ungendered: 3.182043853
+    predicted: 3.182020167
+-
+    ceo: Stephen H. Rusckowski
+    company: Quest Diagnostics
+    industry: Health Care Services & Hospitals
+    Gender: 0
+    ranking: 358
+    careerOpportunitiesRating: 2.9
+    ceoApprovalRating: 3.05
+    compensationAndBenefitsRating: 3.2
+    cultureAndValuesRating: 3
+    seniorLeadershipRating: 2.7
+    workLifeBalanceRating: 3
+    overallRating: 3.1
+    ungendered: 3.068464664
+    predicted: 3.068442202
+-
+    ceo: Ari Bousbib
+    company: Quintiles IMS Holdings
+    industry: Health Care Services & Hospitals
+    Gender: 0
+    ranking: 447
+    careerOpportunitiesRating: 3.2
+    ceoApprovalRating: 3.2
+    compensationAndBenefitsRating: 3.3
+    cultureAndValuesRating: 3.3
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 3.4
+    overallRating: 3.3
+    ungendered: 3.334478218
+    predicted: 3.33446028
+-
+    ceo: Daniel L. Knotts
+    company: R.R. Donnelley
+    industry: Consulting
+    Gender: 0
+    ranking: 255
+    careerOpportunitiesRating: 2
+    ceoApprovalRating: 3.5
+    compensationAndBenefitsRating: 2.4
+    cultureAndValuesRating: 2.3
+    seniorLeadershipRating: 2.4
+    workLifeBalanceRating: 2.6
+    overallRating: 2.5
+    ungendered: 2.495284446
+    predicted: 2.495249251
+-
+    ceo: Paul C. Reilly
+    company: Raymond James Financial
+    industry: Brokerage Services
+    Gender: 0
+    ranking: 482
+    careerOpportunitiesRating: 3.4
+    ceoApprovalRating: 4.4
+    compensationAndBenefitsRating: 3.2
+    cultureAndValuesRating: 3.9
+    seniorLeadershipRating: 3.4
+    workLifeBalanceRating: 3.7
+    overallRating: 3.7
+    ungendered: 3.727352679
+    predicted: 3.727331228
+-
+    ceo: Thomas A. Kennedy
+    company: Raytheon
+    industry: Aerospace & Defense
+    Gender: 0
+    ranking: 120
+    careerOpportunitiesRating: 3.5
+    ceoApprovalRating: 4.5
+    compensationAndBenefitsRating: 3.7
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 3.2
+    workLifeBalanceRating: 3.7
+    overallRating: 3.6
+    ungendered: 3.622260597
+    predicted: 3.622248184
+-
+    ceo: Richard A. Smith
+    company: Realogy
+    industry: Real Estate
+    Gender: 0
+    ranking: 449
+    careerOpportunitiesRating: 2.7
+    ceoApprovalRating: 4.05
+    compensationAndBenefitsRating: 2.8
+    cultureAndValuesRating: 3
+    seniorLeadershipRating: 2.7
+    workLifeBalanceRating: 3.3
+    overallRating: 3
+    ungendered: 3.047465256
+    predicted: 3.047441286
+-
+    ceo: Anna Manning
+    company: Reinsurance Group of America, Incorporated
+    industry: Insurance Carriers
+    Gender: 1
+    ranking: 271
+    careerOpportunitiesRating: 3.8
+    ceoApprovalRating: 5
+    compensationAndBenefitsRating: 4.1
+    cultureAndValuesRating: 4
+    seniorLeadershipRating: 3.8
+    workLifeBalanceRating: 4.1
+    overallRating: 4
+    ungendered: 4.085390702
+    predicted: 4.085814441
+-
+    ceo: Gregg J. Mollins
+    company: Reliance Steel
+    industry: Wholesale
+    Gender: 0
+    ranking: 303
+    careerOpportunitiesRating: 2.9
+    ceoApprovalRating: 4.6
+    compensationAndBenefitsRating: 3.7
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 3.2
+    workLifeBalanceRating: 3.5
+    overallRating: 3.6
+    ungendered: 3.469467195
+    predicted: 3.469442947
+-
+    ceo: Donald W. Slager
+    company: Republic Services
+    industry: Utilities
+    Gender: 0
+    ranking: 312
+    careerOpportunitiesRating: 3.8
+    ceoApprovalRating: 4.6
+    compensationAndBenefitsRating: 4
+    cultureAndValuesRating: 3.8
+    seniorLeadershipRating: 3.5
+    workLifeBalanceRating: 3.3
+    overallRating: 3.8
+    ungendered: 3.819835912
+    predicted: 3.819820805
+-
+    ceo: Debra A. Crew
+    company: Reynolds American
+    industry: Consumer Products Manufacturing
+    Gender: 1
+    ranking: 266
+    careerOpportunitiesRating: 3.7
+    ceoApprovalRating: 4.7
+    compensationAndBenefitsRating: 4.2
+    cultureAndValuesRating: 4.2
+    seniorLeadershipRating: 3.9
+    workLifeBalanceRating: 3.9
+    overallRating: 4.2
+    ungendered: 4.123362839
+    predicted: 4.123780637
+-
+    ceo: John T. Standley
+    company: Rite Aid
+    industry: Drug & Health Stores
+    Gender: 0
+    ranking: 107
+    careerOpportunitiesRating: 2.7
+    ceoApprovalRating: 2.6
+    compensationAndBenefitsRating: 2.6
+    cultureAndValuesRating: 2.9
+    seniorLeadershipRating: 2.6
+    workLifeBalanceRating: 2.9
+    overallRating: 2.9
+    ungendered: 2.907850101
+    predicted: 2.907822521
+-
+    ceo: Blake D. Moret
+    company: Rockwell Automation
+    industry: Industrial Manufacturing
+    Gender: 0
+    ranking: 412
+    careerOpportunitiesRating: 4
+    ceoApprovalRating: 4.25
+    compensationAndBenefitsRating: 3.4
+    cultureAndValuesRating: 4.3
+    seniorLeadershipRating: 3.8
+    workLifeBalanceRating: 4
+    overallRating: 3.9
+    ungendered: 4.132783629
+    predicted: 4.132768094
+-
+    ceo: Robert K. Ortberg
+    company: Rockwell Collins
+    industry: Aerospace & Defense
+    Gender: 0
+    ranking: 490
+    careerOpportunitiesRating: 3.4
+    ceoApprovalRating: 4.45
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 3.6
+    seniorLeadershipRating: 3.2
+    workLifeBalanceRating: 3.8
+    overallRating: 3.5
+    ungendered: 3.626207004
+    predicted: 3.626192149
+-
+    ceo: Barbara Rentler
+    company: Ross Stores
+    industry: Department, Clothing, & Shoe Stores
+    Gender: 1
+    ranking: 237
+    careerOpportunitiesRating: 3.1
+    ceoApprovalRating: 3.35
+    compensationAndBenefitsRating: 2.8
+    cultureAndValuesRating: 3
+    seniorLeadershipRating: 2.8
+    workLifeBalanceRating: 3
+    overallRating: 3
+    ungendered: 3.112721701
+    predicted: 3.113136359
+-
+    ceo: Paul C. Saville
+    company: Ryan Homes
+    industry: Construction
+    Gender: 0
+    ranking: 498
+    careerOpportunitiesRating: 3.5
+    ceoApprovalRating: 4.2
+    compensationAndBenefitsRating: 3.8
+    cultureAndValuesRating: 3.2
+    seniorLeadershipRating: 3.3
+    workLifeBalanceRating: 2.9
+    overallRating: 3.4
+    ungendered: 3.465819786
+    predicted: 3.465801863
+-
+    ceo: Robert E. Sanchez
+    company: Ryder System
+    industry: Transportation Management
+    Gender: 0
+    ranking: 395
+    careerOpportunitiesRating: 3.1
+    ceoApprovalRating: 4.1
+    compensationAndBenefitsRating: 3.2
+    cultureAndValuesRating: 3.1
+    seniorLeadershipRating: 2.8
+    workLifeBalanceRating: 2.9
+    overallRating: 3.3
+    ungendered: 3.161016557
+    predicted: 3.160995696
+-
+    ceo: Douglas L. Peterson
+    company: S&P Global
+    industry: Investment Banking & Asset Management
+    Gender: 0
+    ranking: 481
+    careerOpportunitiesRating: 2.9
+    ceoApprovalRating: 4.1
+    compensationAndBenefitsRating: 3.4
+    cultureAndValuesRating: 3.1
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 3.5
+    overallRating: 3.1
+    ungendered: 3.248672129
+    predicted: 3.248652675
+-
+    ceo: Marc R. Benioff
+    company: Salesforce
+    industry: Computer Hardware & Software
+    Gender: 0
+    ranking: 386
+    careerOpportunitiesRating: 4.1
+    ceoApprovalRating: 4.85
+    compensationAndBenefitsRating: 4.3
+    cultureAndValuesRating: 4.4
+    seniorLeadershipRating: 3.9
+    workLifeBalanceRating: 3.9
+    overallRating: 4.2
+    ungendered: 4.268002423
+    predicted: 4.267989893
+-
+    ceo: Stephen D. Milligan
+    company: SanDisk
+    industry: Consumer Products Manufacturing
+    Gender: 0
+    ranking: 464
+    careerOpportunitiesRating: 3.1
+    ceoApprovalRating: 3.5
+    compensationAndBenefitsRating: 3.6
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 3.2
+    overallRating: 3.3
+    ungendered: 3.362620268
+    predicted: 3.362598804
+-
+    ceo: Jure Sola
+    company: Sanmina
+    industry: Electrical & Electronic Manufacturing
+    Gender: 0
+    ranking: 408
+    careerOpportunitiesRating: 2.5
+    ceoApprovalRating: 1.85
+    compensationAndBenefitsRating: 2.2
+    cultureAndValuesRating: 2.4
+    seniorLeadershipRating: 2.3
+    workLifeBalanceRating: 2.7
+    overallRating: 2.5
+    ungendered: 2.581305631
+    predicted: 2.581277891
+-
+    ceo: Steven J. Bresky
+    company: Seaboard
+    industry: Transportation Management
+    Gender: 0
+    ranking: 460
+    careerOpportunitiesRating: 2.3
+    ceoApprovalRating: 1.9
+    compensationAndBenefitsRating: 3.2
+    cultureAndValuesRating: 2.3
+    seniorLeadershipRating: 2.4
+    workLifeBalanceRating: 2.5
+    overallRating: 2.7
+    ungendered: 2.590280609
+    predicted: 2.590251361
+-
+    ceo: Jerome A. Peribere
+    company: Sealed Air Corporation
+    industry: Industrial Manufacturing
+    Gender: 0
+    ranking: 375
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 3.1
+    compensationAndBenefitsRating: 3.3
+    cultureAndValuesRating: 3.1
+    seniorLeadershipRating: 2.6
+    workLifeBalanceRating: 3.2
+    overallRating: 3.1
+    ungendered: 3.12176421
+    predicted: 3.121745926
+-
+    ceo: Edward S. Lampert
+    company: Sears
+    industry: Department, Clothing, & Shoe Stores
+    Gender: 0
+    ranking: 111
+    careerOpportunitiesRating: 2.4
+    ceoApprovalRating: 0.85
+    compensationAndBenefitsRating: 2.3
+    cultureAndValuesRating: 2.6
+    seniorLeadershipRating: 2.2
+    workLifeBalanceRating: 2.8
+    overallRating: 2.5
+    ungendered: 2.595974114
+    predicted: 2.59594459
+-
+    ceo: Debra L. Reed
+    company: Sempra Energy
+    industry: 
+    Gender: 1
+    ranking: 279
+    careerOpportunitiesRating: 3.2
+    ceoApprovalRating: 5
+    compensationAndBenefitsRating: 3.9
+    cultureAndValuesRating: 3.2
+    seniorLeadershipRating: 3.4
+    workLifeBalanceRating: 2.5
+    overallRating: 3.6
+    ungendered: 3.390774074
+    predicted: 3.391183728
+-
+    ceo: John G. Morikis
+    company: Sherwin-Williams
+    industry: Chemical Manufacturing
+    Gender: 0
+    ranking: 253
+    careerOpportunitiesRating: 3.8
+    ceoApprovalRating: 4.25
+    compensationAndBenefitsRating: 3.7
+    cultureAndValuesRating: 3.6
+    seniorLeadershipRating: 3.2
+    workLifeBalanceRating: 3.2
+    overallRating: 3.6
+    ungendered: 3.638472909
+    predicted: 3.638460327
+-
+    ceo: David Simon
+    company: Simon Property Group, Inc.
+    industry: Real Estate
+    Gender: 0
+    ranking: 488
+    careerOpportunitiesRating: 2.8
+    ceoApprovalRating: 2.95
+    compensationAndBenefitsRating: 3
+    cultureAndValuesRating: 2.6
+    seniorLeadershipRating: 2.6
+    workLifeBalanceRating: 2.8
+    overallRating: 2.9
+    ungendered: 2.869130312
+    predicted: 2.869107765
+-
+    ceo: B. Scott Smith
+    company: Sonic Automotive
+    industry: Vehicle Dealers
+    Gender: 0
+    ranking: 297
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 3.15
+    compensationAndBenefitsRating: 3
+    cultureAndValuesRating: 3.1
+    seniorLeadershipRating: 2.7
+    workLifeBalanceRating: 2.5
+    overallRating: 2.9
+    ungendered: 3.030849678
+    predicted: 3.030823175
+-
+    ceo: Gary C. Kelly
+    company: Southwest Airlines
+    industry: Airlines
+    Gender: 0
+    ranking: 142
+    careerOpportunitiesRating: 1
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 2.8
+    cultureAndValuesRating: 4
+    seniorLeadershipRating: 4.1
+    workLifeBalanceRating: 2.9
+    overallRating: 3.5
+    ungendered: 3.280917539
+    predicted: 3.280834437
+-
+    ceo: Dennis Eidson
+    company: SpartanNash
+    industry: Grocery Stores & Supermarkets
+    Gender: 0
+    ranking: 351
+    careerOpportunitiesRating: 2.5
+    ceoApprovalRating: 3.5
+    compensationAndBenefitsRating: 2.9
+    cultureAndValuesRating: 2.7
+    seniorLeadershipRating: 2.4
+    workLifeBalanceRating: 2.7
+    overallRating: 2.8
+    ungendered: 2.755882411
+    predicted: 2.755855435
+-
+    ceo: Gregory L. Ebel
+    company: Spectra Energy Corp
+    industry: Oil & Gas Services
+    Gender: 0
+    ranking: 493
+    careerOpportunitiesRating: 4
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 3.4
+    cultureAndValuesRating: 3.4
+    seniorLeadershipRating: 4
+    workLifeBalanceRating: 3.6
+    overallRating: 4.5
+    ungendered: 3.865015086
+    predicted: 3.86499711
+-
+    ceo: Thomas Gentile Sr.
+    company: Spirit AeroSystems Holdings, Inc.
+    industry: Aerospace & Defense
+    Gender: 0
+    ranking: 389
+    careerOpportunitiesRating: 2.7
+    ceoApprovalRating: 3.8
+    compensationAndBenefitsRating: 3.7
+    cultureAndValuesRating: 2.5
+    seniorLeadershipRating: 2.3
+    workLifeBalanceRating: 2.6
+    overallRating: 2.8
+    ungendered: 2.763862611
+    predicted: 2.763844214
+-
+    ceo: Michael T. Rousseau
+    company: St. Jude Medical
+    industry: Health Care Services & Hospitals
+    Gender: 0
+    ranking: 465
+    careerOpportunitiesRating: 3.6
+    ceoApprovalRating: 4.35
+    compensationAndBenefitsRating: 4
+    cultureAndValuesRating: 4
+    seniorLeadershipRating: 3.5
+    workLifeBalanceRating: 3.5
+    overallRating: 4
+    ungendered: 3.856404133
+    predicted: 3.856385567
+-
+    ceo: James M. Loree
+    company: Stanley Black & Decker
+    industry: Industrial Manufacturing
+    Gender: 0
+    ranking: 256
+    careerOpportunitiesRating: 3.4
+    ceoApprovalRating: 3.9
+    compensationAndBenefitsRating: 3.3
+    cultureAndValuesRating: 3.4
+    seniorLeadershipRating: 3
+    workLifeBalanceRating: 3.1
+    overallRating: 3.4
+    ungendered: 3.395867445
+    predicted: 3.395849086
+-
+    ceo: Shira Goodman
+    company: Staples
+    industry: Office Supply Stores
+    Gender: 0
+    ranking: 132
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 3.55
+    compensationAndBenefitsRating: 2.9
+    cultureAndValuesRating: 3.2
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 3.3
+    overallRating: 3.1
+    ungendered: 3.225438552
+    predicted: 3.22541588
+-
+    ceo: Howard D. Schultz
+    company: Starbucks
+    industry: Fast-Food & Quick-Service Restaurants
+    Gender: 0
+    ranking: 146
+    careerOpportunitiesRating: 3.5
+    ceoApprovalRating: 4.6
+    compensationAndBenefitsRating: 3.8
+    cultureAndValuesRating: 4
+    seniorLeadershipRating: 3.2
+    workLifeBalanceRating: 3.5
+    overallRating: 3.8
+    ungendered: 3.733059914
+    predicted: 3.733042402
+-
+    ceo: Thomas B. Mangas
+    company: Starwood Hotels & Resorts
+    industry: Hotels, Motels, & Resorts
+    Gender: 0
+    ranking: 444
+    careerOpportunitiesRating: 2.4
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 3.4
+    cultureAndValuesRating: 2.8
+    seniorLeadershipRating: 2.8
+    workLifeBalanceRating: 2.4
+    overallRating: 2.4
+    ungendered: 2.84614838
+    predicted: 2.846110791
+-
+    ceo: Michael L. Tipsord
+    company: State Farm
+    industry: Insurance Agencies & Brokerages
+    Gender: 0
+    ranking: 35
+    careerOpportunitiesRating: 4
+    ceoApprovalRating: 5
+    compensationAndBenefitsRating: 4
+    cultureAndValuesRating: 4
+    seniorLeadershipRating: 4
+    workLifeBalanceRating: 4
+    overallRating: 5
+    ungendered: 4.165326868
+    predicted: 4.165314445
+-
+    ceo: Joseph L. Hooley
+    company: State Street
+    industry: Investment Banking & Asset Management
+    Gender: 0
+    ranking: 264
+    careerOpportunitiesRating: 3.1
+    ceoApprovalRating: 3.55
+    compensationAndBenefitsRating: 2.7
+    cultureAndValuesRating: 3.1
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 3.4
+    overallRating: 3
+    ungendered: 3.219341874
+    predicted: 3.219321754
+-
+    ceo: Mark D. Millett
+    company: Steel Dynamics
+    industry: Metal & Mineral Manufacturing
+    Gender: 0
+    ranking: 356
+    careerOpportunitiesRating: 0
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 0
+    cultureAndValuesRating: 0
+    seniorLeadershipRating: 0
+    workLifeBalanceRating: 0
+    overallRating: 0
+    ungendered: 0.18353529
+    predicted: 0.183475634
+-
+    ceo: Kevin A. Lobo
+    company: Stryker
+    industry: Colleges & Universities
+    Gender: 0
+    ranking: 287
+    careerOpportunitiesRating: 3.6
+    ceoApprovalRating: 4.8
+    compensationAndBenefitsRating: 3.2
+    cultureAndValuesRating: 4.2
+    seniorLeadershipRating: 3.7
+    workLifeBalanceRating: 4
+    overallRating: 4
+    ungendered: 3.982838523
+    predicted: 3.982817767
+-
+    ceo: William H. Rogers Jr.
+    company: SunTrust
+    industry: Banks & Credit Unions
+    Gender: 0
+    ranking: 329
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 3.65
+    compensationAndBenefitsRating: 3.1
+    cultureAndValuesRating: 3.1
+    seniorLeadershipRating: 2.6
+    workLifeBalanceRating: 3.1
+    overallRating: 3
+    ungendered: 3.09732589
+    predicted: 3.09730646
+-
+    ceo: Mark Gross
+    company: SUPERVALU
+    industry: 
+    Gender: 0
+    ranking: 160
+    careerOpportunitiesRating: 2.7
+    ceoApprovalRating: 2.65
+    compensationAndBenefitsRating: 2.4
+    cultureAndValuesRating: 3.6
+    seniorLeadershipRating: 3
+    workLifeBalanceRating: 3.5
+    overallRating: 3.5
+    ungendered: 3.280328982
+    predicted: 3.280295976
+-
+    ceo: Gregory S. Clark
+    company: Symantec
+    industry: Consulting
+    Gender: 0
+    ranking: 400
+    careerOpportunitiesRating: 3.7
+    ceoApprovalRating: 4.75
+    compensationAndBenefitsRating: 3.6
+    cultureAndValuesRating: 4
+    seniorLeadershipRating: 3.9
+    workLifeBalanceRating: 4.1
+    overallRating: 4.2
+    ungendered: 4.054812624
+    predicted: 4.054795276
+-
+    ceo: Kevin M. Murai
+    company: SYNNEX
+    industry: Enterprise Software & Network Solutions
+    Gender: 0
+    ranking: 212
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 5
+    compensationAndBenefitsRating: 3.1
+    cultureAndValuesRating: 2.7
+    seniorLeadershipRating: 3
+    workLifeBalanceRating: 2.8
+    overallRating: 3.1
+    ungendered: 3.143995333
+    predicted: 3.143978312
+-
+    ceo: William J. DeLaney III
+    company: Sysco
+    industry: Wholesale
+    Gender: 0
+    ranking: 57
+    careerOpportunitiesRating: 3.4
+    ceoApprovalRating: 5
+    compensationAndBenefitsRating: 3.6
+    cultureAndValuesRating: 2.9
+    seniorLeadershipRating: 2.6
+    workLifeBalanceRating: 2.7
+    overallRating: 3.5
+    ungendered: 3.121054813
+    predicted: 3.121043455
+-
+    ceo: Joe Bob Perkins
+    company: Targa
+    industry: Investment Banking & Asset Management
+    Gender: 0
+    ranking: 387
+    careerOpportunitiesRating: 4
+    ceoApprovalRating: 4.5
+    compensationAndBenefitsRating: 4
+    cultureAndValuesRating: 5
+    seniorLeadershipRating: 5
+    workLifeBalanceRating: 5
+    overallRating: 5
+    ungendered: 4.862126717
+    predicted: 4.862103639
+-
+    ceo: Brian C. Cornell
+    company: Target
+    industry: 
+    Gender: 0
+    ranking: 38
+    careerOpportunitiesRating: 2.1
+    ceoApprovalRating: 2.05
+    compensationAndBenefitsRating: 2.5
+    cultureAndValuesRating: 2.8
+    seniorLeadershipRating: 2.5
+    workLifeBalanceRating: 3.6
+    overallRating: 3.1
+    ungendered: 2.813046911
+    predicted: 2.813016112
+-
+    ceo: LeRoy T. Carlson Jr.
+    company: TDS
+    industry: Telecommunications Services
+    Gender: 0
+    ranking: 496
+    careerOpportunitiesRating: 3.6
+    ceoApprovalRating: 4.85
+    compensationAndBenefitsRating: 4
+    cultureAndValuesRating: 3.9
+    seniorLeadershipRating: 3.8
+    workLifeBalanceRating: 4
+    overallRating: 3.6
+    ungendered: 3.994590241
+    predicted: 3.994573858
+-
+    ceo: Robert M. Dutkowsky
+    company: Tech Data
+    industry: 
+    Gender: 0
+    ranking: 108
+    careerOpportunitiesRating: 3.4
+    ceoApprovalRating: 4.5
+    compensationAndBenefitsRating: 3.7
+    cultureAndValuesRating: 3.4
+    seniorLeadershipRating: 3.7
+    workLifeBalanceRating: 3.7
+    overallRating: 3.9
+    ungendered: 3.72451642
+    predicted: 3.724497557
+-
+    ceo: Trevor Fetter
+    company: Tenet Healthcare
+    industry: Health Care Services & Hospitals
+    Gender: 0
+    ranking: 140
+    careerOpportunitiesRating: 2.8
+    ceoApprovalRating: 3.2
+    compensationAndBenefitsRating: 3.1
+    cultureAndValuesRating: 2.7
+    seniorLeadershipRating: 2.5
+    workLifeBalanceRating: 2.9
+    overallRating: 2.8
+    ungendered: 2.889106298
+    predicted: 2.889085548
+-
+    ceo: John L. Garrison Jr.
+    company: Terex
+    industry: Industrial Manufacturing
+    Gender: 0
+    ranking: 396
+    careerOpportunitiesRating: 2.9
+    ceoApprovalRating: 0.15
+    compensationAndBenefitsRating: 3.3
+    cultureAndValuesRating: 3.2
+    seniorLeadershipRating: 2.7
+    workLifeBalanceRating: 3.1
+    overallRating: 3.1
+    ungendered: 3.117876072
+    predicted: 3.11785074
+-
+    ceo: Gregory J. Goff
+    company: Tesoro Corporation
+    industry: Oil & Gas Exploration & Production
+    Gender: 0
+    ranking: 98
+    careerOpportunitiesRating: 3.8
+    ceoApprovalRating: 4.95
+    compensationAndBenefitsRating: 4.4
+    cultureAndValuesRating: 3.9
+    seniorLeadershipRating: 3.7
+    workLifeBalanceRating: 3.6
+    overallRating: 3.9
+    ungendered: 3.980899649
+    predicted: 3.980885997
+-
+    ceo: Richard K. Templeton
+    company: Texas Instruments
+    industry: Electrical & Electronic Manufacturing
+    Gender: 0
+    ranking: 219
+    careerOpportunitiesRating: 3.7
+    ceoApprovalRating: 4.6
+    compensationAndBenefitsRating: 3.9
+    cultureAndValuesRating: 4
+    seniorLeadershipRating: 3.5
+    workLifeBalanceRating: 3.7
+    overallRating: 3.9
+    ungendered: 3.900142745
+    predicted: 3.900127425
+-
+    ceo: Scott C. Donnelly
+    company: Textron
+    industry: Industrial Manufacturing
+    Gender: 0
+    ranking: 209
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 0
+    seniorLeadershipRating: 4
+    workLifeBalanceRating: 4
+    overallRating: 4
+    ungendered: 2.831239719
+    predicted: 2.831234819
+-
+    ceo: Walter W. Bettinger II
+    company: The Charles Schwab Corporation
+    industry: Grantmaking Foundations
+    Gender: 0
+    ranking: 401
+    careerOpportunitiesRating: 3.9
+    ceoApprovalRating: 5
+    compensationAndBenefitsRating: 4
+    cultureAndValuesRating: 5
+    seniorLeadershipRating: 4.5
+    workLifeBalanceRating: 4.5
+    overallRating: 3.9
+    ungendered: 4.625613175
+    predicted: 4.625590079
+-
+    ceo: Benno O. Dorer
+    company: The Clorox Company
+    industry: Consumer Products Manufacturing
+    Gender: 0
+    ranking: 455
+    careerOpportunitiesRating: 3.9
+    ceoApprovalRating: 4.95
+    compensationAndBenefitsRating: 3.8
+    cultureAndValuesRating: 4.4
+    seniorLeadershipRating: 4.1
+    workLifeBalanceRating: 4.5
+    overallRating: 4.2
+    ungendered: 4.333965157
+    predicted: 4.333950293
+-
+    ceo: Christopher J. Swift
+    company: The Hartford
+    industry: Publishing
+    Gender: 0
+    ranking: 152
+    careerOpportunitiesRating: 2.3
+    ceoApprovalRating: 2.75
+    compensationAndBenefitsRating: 2.5
+    cultureAndValuesRating: 2.3
+    seniorLeadershipRating: 2.4
+    workLifeBalanceRating: 3
+    overallRating: 2.2
+    ungendered: 2.61558115
+    predicted: 2.615554209
+-
+    ceo: John P. Bilbrey
+    company: The Hershey Company
+    industry: Food & Beverage Manufacturing
+    Gender: 0
+    ranking: 362
+    careerOpportunitiesRating: 3.1
+    ceoApprovalRating: 3.55
+    compensationAndBenefitsRating: 3.8
+    cultureAndValuesRating: 3.7
+    seniorLeadershipRating: 3
+    workLifeBalanceRating: 3.4
+    overallRating: 3.5
+    ungendered: 3.488355808
+    predicted: 3.48833423
+-
+    ceo: Craig A. Menear
+    company: The Home Depot, Inc.
+    industry: Home Centers & Hardware Stores
+    Gender: 0
+    ranking: 28
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 4
+    compensationAndBenefitsRating: 3.3
+    cultureAndValuesRating: 3.7
+    seniorLeadershipRating: 3.1
+    workLifeBalanceRating: 3.1
+    overallRating: 3.5
+    ungendered: 3.484075313
+    predicted: 3.484051918
+-
+    ceo: Mark T. Smucker
+    company: The J. M. Smucker Company
+    industry: Food & Beverage Manufacturing
+    Gender: 0
+    ranking: 452
+    careerOpportunitiesRating: 3.5
+    ceoApprovalRating: 4.55
+    compensationAndBenefitsRating: 3.8
+    cultureAndValuesRating: 4
+    seniorLeadershipRating: 3.6
+    workLifeBalanceRating: 3.9
+    overallRating: 3.8
+    ungendered: 3.90849856
+    predicted: 3.90848001
+-
+    ceo: 'James C. O''Rourke'
+    company: The Mosaic Company
+    industry: Chemical Manufacturing
+    Gender: 0
+    ranking: 316
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 2.65
+    compensationAndBenefitsRating: 3.6
+    cultureAndValuesRating: 3.9
+    seniorLeadershipRating: 3.2
+    workLifeBalanceRating: 3.3
+    overallRating: 3.5
+    ungendered: 3.605491279
+    predicted: 3.605466917
+-
+    ceo: Alan D. Schnitzer
+    company: The Travelers Companies, Inc.
+    industry: Advertising & Marketing
+    Gender: 0
+    ranking: 105
+    careerOpportunitiesRating: 3.4
+    ceoApprovalRating: 5
+    compensationAndBenefitsRating: 3.7
+    cultureAndValuesRating: 4.4
+    seniorLeadershipRating: 3.9
+    workLifeBalanceRating: 4.6
+    overallRating: 3.9
+    ungendered: 4.176767952
+    predicted: 4.176747298
+-
+    ceo: Hikmet Ersek
+    company: The Western Union Company
+    industry: Financial Transaction Processing
+    Gender: 0
+    ranking: 468
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 5
+    compensationAndBenefitsRating: 3.2
+    cultureAndValuesRating: 2.9
+    seniorLeadershipRating: 2.3
+    workLifeBalanceRating: 3.3
+    overallRating: 3.2
+    ungendered: 3.065267066
+    predicted: 3.065260897
+-
+    ceo: Marc N. Casper
+    company: Thermo Fisher Scientific
+    industry: Biotech & Pharmaceuticals
+    Gender: 0
+    ranking: 164
+    careerOpportunitiesRating: 3.1
+    ceoApprovalRating: 3.8
+    compensationAndBenefitsRating: 3.2
+    cultureAndValuesRating: 3.2
+    seniorLeadershipRating: 2.8
+    workLifeBalanceRating: 3.1
+    overallRating: 3.2
+    ungendered: 3.212835025
+    predicted: 3.212814837
+-
+    ceo: Bradford L. Hewitt
+    company: Thrivent Financial for Lutherans
+    industry: Insurance Carriers
+    Gender: 0
+    ranking: 318
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 4.6
+    compensationAndBenefitsRating: 3.6
+    cultureAndValuesRating: 4.2
+    seniorLeadershipRating: 3.5
+    workLifeBalanceRating: 4.1
+    overallRating: 3.7
+    ungendered: 3.902766944
+    predicted: 3.902745527
+-
+    ceo: Roger W. Ferguson Jr.
+    company: TIAA
+    industry: Investment Banking & Asset Management
+    Gender: 0
+    ranking: 82
+    careerOpportunitiesRating: 3.2
+    ceoApprovalRating: 4.5
+    compensationAndBenefitsRating: 3.9
+    cultureAndValuesRating: 3.6
+    seniorLeadershipRating: 3
+    workLifeBalanceRating: 3.5
+    overallRating: 3.5
+    ungendered: 3.512724551
+    predicted: 3.512707534
+-
+    ceo: Robert D. Marcus
+    company: Time Warner Cable
+    industry: TV Broadcast & Cable Networks
+    Gender: 0
+    ranking: 116
+    careerOpportunitiesRating: 3.1
+    ceoApprovalRating: 4.45
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 3.7
+    seniorLeadershipRating: 3.4
+    workLifeBalanceRating: 3.9
+    overallRating: 3.6
+    ungendered: 3.663455347
+    predicted: 3.663433261
+-
+    ceo: Ernie L. Herrman
+    company: TJ Maxx
+    industry: Department, Clothing, & Shoe Stores
+    Gender: 0
+    ranking: 89
+    careerOpportunitiesRating: 3.2
+    ceoApprovalRating: 4.15
+    compensationAndBenefitsRating: 2.9
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 3
+    workLifeBalanceRating: 3.4
+    overallRating: 3.4
+    ungendered: 3.394680651
+    predicted: 3.394659348
+-
+    ceo: David A. Brandon
+    company: Toys "R" Us
+    industry: Toy & Hobby Stores
+    Gender: 0
+    ranking: 240
+    careerOpportunitiesRating: 2.7
+    ceoApprovalRating: 2.9
+    compensationAndBenefitsRating: 2.5
+    cultureAndValuesRating: 2.9
+    seniorLeadershipRating: 2.5
+    workLifeBalanceRating: 2.9
+    overallRating: 2.9
+    ungendered: 2.873035311
+    predicted: 2.873008712
+-
+    ceo: Gregory A. Sandfort
+    company: Tractor Supply
+    industry: Home Centers & Hardware Stores
+    Gender: 0
+    ranking: 415
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 3.65
+    compensationAndBenefitsRating: 2.9
+    cultureAndValuesRating: 3.4
+    seniorLeadershipRating: 2.6
+    workLifeBalanceRating: 2.7
+    overallRating: 3.1
+    ungendered: 3.104342331
+    predicted: 3.104316378
+-
+    ceo: 'Thomas M. O''Brien'
+    company: TravelCenters of America
+    industry: Convenience Stores & Truck Stops
+    Gender: 0
+    ranking: 439
+    careerOpportunitiesRating: 2.8
+    ceoApprovalRating: 3.05
+    compensationAndBenefitsRating: 2.5
+    cultureAndValuesRating: 2.7
+    seniorLeadershipRating: 2.5
+    workLifeBalanceRating: 2.5
+    overallRating: 2.8
+    ungendered: 2.786508212
+    predicted: 2.78648157
+-
+    ceo: Timothy R. Wallace
+    company: Trinity Industries
+    industry: Transportation Equipment Manufacturing
+    Gender: 0
+    ranking: 407
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 4.25
+    compensationAndBenefitsRating: 3.6
+    cultureAndValuesRating: 3.2
+    seniorLeadershipRating: 3
+    workLifeBalanceRating: 3
+    overallRating: 3.4
+    ungendered: 3.333990769
+    predicted: 3.333972876
+-
+    ceo: Thomas P. Hayes
+    company: Tyson Foods
+    industry: Food & Beverage Manufacturing
+    Gender: 0
+    ranking: 66
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 4.3
+    compensationAndBenefitsRating: 3.7
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 3.1
+    workLifeBalanceRating: 3
+    overallRating: 3.3
+    ungendered: 3.45016627
+    predicted: 3.450145388
+-
+    ceo: Richard K. Davis
+    company: U.S. Bank
+    industry: Banks & Credit Unions
+    Gender: 0
+    ranking: 131
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 4.6
+    compensationAndBenefitsRating: 3
+    cultureAndValuesRating: 3.6
+    seniorLeadershipRating: 3.2
+    workLifeBalanceRating: 3.4
+    overallRating: 3.4
+    ungendered: 3.512719348
+    predicted: 3.512697553
+-
+    ceo: Lance M. Fritz
+    company: Union Pacific
+    industry: Transportation Management
+    Gender: 0
+    ranking: 129
+    careerOpportunitiesRating: 3.2
+    ceoApprovalRating: 2.75
+    compensationAndBenefitsRating: 3.9
+    cultureAndValuesRating: 2.7
+    seniorLeadershipRating: 2.4
+    workLifeBalanceRating: 2.3
+    overallRating: 3
+    ungendered: 2.914315213
+    predicted: 2.914299955
+-
+    ceo: Steven L. Spinner
+    company: United Natural Foods
+    industry: Logistics & Supply Chain
+    Gender: 0
+    ranking: 335
+    careerOpportunitiesRating: 2.6
+    ceoApprovalRating: 3.4
+    compensationAndBenefitsRating: 3.2
+    cultureAndValuesRating: 3.1
+    seniorLeadershipRating: 2.6
+    workLifeBalanceRating: 2.6
+    overallRating: 2.9
+    ungendered: 2.948557472
+    predicted: 2.948527122
+-
+    ceo: Michael J. Kneeland
+    company: United Rentals
+    industry: Commercial Equipment Rental
+    Gender: 0
+    ranking: 440
+    careerOpportunitiesRating: 3.7
+    ceoApprovalRating: 4.6
+    compensationAndBenefitsRating: 3.9
+    cultureAndValuesRating: 3.4
+    seniorLeadershipRating: 3.2
+    workLifeBalanceRating: 3.4
+    overallRating: 3.7
+    ungendered: 3.611428453
+    predicted: 3.611418515
+-
+    ceo: Gregory J. Hayes
+    company: United Technologies
+    industry: Cable, Internet & Telephone Providers
+    Gender: 0
+    ranking: 45
+    careerOpportunitiesRating: 3.8
+    ceoApprovalRating: 5
+    compensationAndBenefitsRating: 4.4
+    cultureAndValuesRating: 4.7
+    seniorLeadershipRating: 4.5
+    workLifeBalanceRating: 4.7
+    overallRating: 4.3
+    ungendered: 4.584451138
+    predicted: 4.584431928
+-
+    ceo: Stephen J. Hemsley
+    company: UnitedHealth Group
+    industry: Insurance Carriers
+    Gender: 0
+    ranking: 6
+    careerOpportunitiesRating: 2.8
+    ceoApprovalRating: 3.8
+    compensationAndBenefitsRating: 3
+    cultureAndValuesRating: 2.8
+    seniorLeadershipRating: 2.5
+    workLifeBalanceRating: 3.1
+    overallRating: 2.9
+    ungendered: 2.941028404
+    predicted: 2.941008736
+-
+    ceo: Stephen D. Newlin
+    company: Univar
+    industry: Wholesale
+    Gender: 0
+    ranking: 315
+    careerOpportunitiesRating: 2.3
+    ceoApprovalRating: 1.05
+    compensationAndBenefitsRating: 3
+    cultureAndValuesRating: 2.1
+    seniorLeadershipRating: 1.9
+    workLifeBalanceRating: 2.7
+    overallRating: 2.3
+    ungendered: 2.394785376
+    predicted: 2.394763374
+-
+    ceo: Alan B. Miller
+    company: Universal Health Services
+    industry: Health Care Services & Hospitals
+    Gender: 0
+    ranking: 290
+    careerOpportunitiesRating: 2.5
+    ceoApprovalRating: 1.85
+    compensationAndBenefitsRating: 2.8
+    cultureAndValuesRating: 2.8
+    seniorLeadershipRating: 2
+    workLifeBalanceRating: 2.5
+    overallRating: 2.5
+    ungendered: 2.612972564
+    predicted: 2.612945669
+-
+    ceo: Richard P. McKenney
+    company: Unum
+    industry: Insurance Carriers
+    Gender: 0
+    ranking: 265
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 4.45
+    compensationAndBenefitsRating: 3.8
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 3.3
+    workLifeBalanceRating: 3.5
+    overallRating: 3.5
+    ungendered: 3.589163484
+    predicted: 3.589145196
+-
+    ceo: David P. Abney
+    company: UPS
+    industry: Logistics & Supply Chain
+    Gender: 0
+    ranking: 48
+    careerOpportunitiesRating: 3.5
+    ceoApprovalRating: 4.05
+    compensationAndBenefitsRating: 3.8
+    cultureAndValuesRating: 3.3
+    seniorLeadershipRating: 3
+    workLifeBalanceRating: 3.2
+    overallRating: 3.5
+    ungendered: 3.443430878
+    predicted: 3.443417929
+-
+    ceo: Stuart Parker
+    company: USAA
+    industry: Real Estate
+    Gender: 0
+    ranking: 114
+    careerOpportunitiesRating: 3.4
+    ceoApprovalRating: 5
+    compensationAndBenefitsRating: 3.6
+    cultureAndValuesRating: 3.8
+    seniorLeadershipRating: 3
+    workLifeBalanceRating: 3.9
+    overallRating: 3.5
+    ungendered: 3.644989766
+    predicted: 3.644977306
+-
+    ceo: Joseph Gorder
+    company: Valero Energy
+    industry: Energy
+    Gender: 0
+    ranking: 32
+    careerOpportunitiesRating: 3.7
+    ceoApprovalRating: 4.55
+    compensationAndBenefitsRating: 4.2
+    cultureAndValuesRating: 3.9
+    seniorLeadershipRating: 3.8
+    workLifeBalanceRating: 3.7
+    overallRating: 4
+    ungendered: 3.985617686
+    predicted: 3.985600951
+-
+    ceo: Mary A. Laschinger
+    company: Veritiv
+    industry: Logistics & Supply Chain
+    Gender: 1
+    ranking: 323
+    careerOpportunitiesRating: 2.5
+    ceoApprovalRating: 1.95
+    compensationAndBenefitsRating: 2.8
+    cultureAndValuesRating: 2.8
+    seniorLeadershipRating: 2.5
+    workLifeBalanceRating: 3.3
+    overallRating: 2.7
+    ungendered: 2.875958317
+    predicted: 2.87636895
+-
+    ceo: Lowell C. McAdam
+    company: Verizon Communications Inc.
+    industry: Enterprise Software & Network Solutions
+    Gender: 0
+    ranking: 13
+    careerOpportunitiesRating: 3.2
+    ceoApprovalRating: 3.45
+    compensationAndBenefitsRating: 4
+    cultureAndValuesRating: 3.3
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 3.1
+    overallRating: 3.5
+    ungendered: 3.346664249
+    predicted: 3.34664669
+-
+    ceo: Steven E. Rendle
+    company: VF
+    industry: Staffing & Outsourcing
+    Gender: 0
+    ranking: 231
+    careerOpportunitiesRating: 2.7
+    ceoApprovalRating: 3.7
+    compensationAndBenefitsRating: 2.4
+    cultureAndValuesRating: 2.9
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 2.7
+    overallRating: 3
+    ungendered: 2.963521469
+    predicted: 2.96348906
+-
+    ceo: Robert Bakish
+    company: Viacom
+    industry: Motion Picture Production & Distribution
+    Gender: 0
+    ranking: 213
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 4.65
+    compensationAndBenefitsRating: 3.3
+    cultureAndValuesRating: 3.7
+    seniorLeadershipRating: 3.2
+    workLifeBalanceRating: 3.8
+    overallRating: 3.5
+    ungendered: 3.618155623
+    predicted: 3.618137692
+-
+    ceo: Sachin S. Lawande
+    company: Visteon
+    industry: Miscellaneous Manufacturing
+    Gender: 0
+    ranking: 470
+    careerOpportunitiesRating: 3.2
+    ceoApprovalRating: 3.3
+    compensationAndBenefitsRating: 3.3
+    cultureAndValuesRating: 3.9
+    seniorLeadershipRating: 3.5
+    workLifeBalanceRating: 3.8
+    overallRating: 3.8
+    ungendered: 3.727719366
+    predicted: 3.727693677
+-
+    ceo: Rodney O. Martin Jr.
+    company: Voya Financial
+    industry: Investment Banking & Asset Management
+    Gender: 0
+    ranking: 252
+    careerOpportunitiesRating: 2.8
+    ceoApprovalRating: 2.8
+    compensationAndBenefitsRating: 3.3
+    cultureAndValuesRating: 3.1
+    seniorLeadershipRating: 2.8
+    workLifeBalanceRating: 3.4
+    overallRating: 3.1
+    ungendered: 3.165356408
+    predicted: 3.165333959
+-
+    ceo: W. Robert Berkley Jr.
+    company: W. R. Berkley
+    industry: Insurance Carriers
+    Gender: 0
+    ranking: 368
+    careerOpportunitiesRating: 2.9
+    ceoApprovalRating: 4.5
+    compensationAndBenefitsRating: 3.4
+    cultureAndValuesRating: 3.3
+    seniorLeadershipRating: 3.3
+    workLifeBalanceRating: 3.5
+    overallRating: 3.4
+    ungendered: 3.423755133
+    predicted: 3.42373007
+-
+    ceo: Donald G. MacPherson
+    company: W.W. Grainger
+    industry: Wholesale
+    Gender: 0
+    ranking: 285
+    careerOpportunitiesRating: 3.1
+    ceoApprovalRating: 3.25
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 3.4
+    seniorLeadershipRating: 2.8
+    workLifeBalanceRating: 3.4
+    overallRating: 3.3
+    ungendered: 3.32524294
+    predicted: 3.325224455
+-
+    ceo: Stefano Pessina
+    company: Walgreens
+    industry: Health Care Services & Hospitals
+    Gender: 0
+    ranking: 19
+    careerOpportunitiesRating: 3.1
+    ceoApprovalRating: 3.65
+    compensationAndBenefitsRating: 3.9
+    cultureAndValuesRating: 3.1
+    seniorLeadershipRating: 2.6
+    workLifeBalanceRating: 3.5
+    overallRating: 3.2
+    ungendered: 3.234533468
+    predicted: 3.234522278
+-
+    ceo: C. Douglas McMillon
+    company: Walmart
+    industry: General Merchandise & Superstores
+    Gender: 0
+    ranking: 1
+    careerOpportunitiesRating: 2.9
+    ceoApprovalRating: 3.05
+    compensationAndBenefitsRating: 3
+    cultureAndValuesRating: 3.2
+    seniorLeadershipRating: 2.6
+    workLifeBalanceRating: 3
+    overallRating: 3.1
+    ungendered: 3.075908303
+    predicted: 3.07588462
+-
+    ceo: Robert A. Iger
+    company: Walt Disney Company
+    industry: Education Training Services
+    Gender: 0
+    ranking: 53
+    careerOpportunitiesRating: 3.2
+    ceoApprovalRating: 3.6
+    compensationAndBenefitsRating: 3.6
+    cultureAndValuesRating: 4.4
+    seniorLeadershipRating: 3.3
+    workLifeBalanceRating: 3.8
+    overallRating: 3.6
+    ungendered: 3.823668054
+    predicted: 3.823642143
+-
+    ceo: James C. Fish Jr.
+    company: Waste Management
+    industry: Federal Agencies
+    Gender: 0
+    ranking: 221
+    careerOpportunitiesRating: 1.4
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 1.8
+    cultureAndValuesRating: 2.6
+    seniorLeadershipRating: 1.4
+    workLifeBalanceRating: 2.2
+    overallRating: 1.8
+    ungendered: 2.018831022
+    predicted: 2.018785477
+-
+    ceo: Allen L. Leverett
+    company: WEC Energy Group
+    industry: 
+    Gender: 0
+    ranking: 437
+    careerOpportunitiesRating: 2.2
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 2.9
+    cultureAndValuesRating: 1.7
+    seniorLeadershipRating: 1.8
+    workLifeBalanceRating: 2.3
+    overallRating: 2.3
+    ungendered: 2.166714281
+    predicted: 2.166690029
+-
+    ceo: Kenneth A. Burdick
+    company: WellCare
+    industry: 
+    Gender: 0
+    ranking: 202
+    careerOpportunitiesRating: 5
+    ceoApprovalRating: 4.3
+    compensationAndBenefitsRating: 5
+    cultureAndValuesRating: 5
+    seniorLeadershipRating: 5
+    workLifeBalanceRating: 5
+    overallRating: 5
+    ungendered: 5.14433261
+    predicted: 5.144330267
+-
+    ceo: Timothy J. Sloan
+    company: Wells Fargo
+    industry: Banks & Credit Unions
+    Gender: 0
+    ranking: 27
+    careerOpportunitiesRating: 3.6
+    ceoApprovalRating: 4.15
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 3
+    workLifeBalanceRating: 3.4
+    overallRating: 3.4
+    ungendered: 3.523207652
+    predicted: 3.523195492
+-
+    ceo: John J. Engel
+    company: WESCO International
+    industry: Utilities
+    Gender: 0
+    ranking: 357
+    careerOpportunitiesRating: 0
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 0
+    cultureAndValuesRating: 0
+    seniorLeadershipRating: 0
+    workLifeBalanceRating: 0
+    overallRating: 0
+    ungendered: 0.18353529
+    predicted: 0.183475634
+-
+    ceo: Thomas A. Fanning
+    company: Western & Southern Life
+    industry: Insurance Carriers
+    Gender: 0
+    ranking: 162
+    careerOpportunitiesRating: 3
+    ceoApprovalRating: 4.25
+    compensationAndBenefitsRating: 3.4
+    cultureAndValuesRating: 3.3
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 3.2
+    overallRating: 3.1
+    ungendered: 3.280796861
+    predicted: 3.280775127
+-
+    ceo: Jeff A. Stevens
+    company: Western Refining
+    industry: Oil & Gas Exploration & Production
+    Gender: 0
+    ranking: 289
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 5
+    compensationAndBenefitsRating: 4.4
+    cultureAndValuesRating: 3.4
+    seniorLeadershipRating: 3.1
+    workLifeBalanceRating: 3.2
+    overallRating: 3.8
+    ungendered: 3.510538902
+    predicted: 3.510523851
+-
+    ceo: Steven C. Voorhees
+    company: WestRock Company
+    industry: Investment Banking & Asset Management
+    Gender: 0
+    ranking: 251
+    careerOpportunitiesRating: 5
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 5
+    cultureAndValuesRating: 5
+    seniorLeadershipRating: 5
+    workLifeBalanceRating: 5
+    overallRating: 5
+    ungendered: 5.108075556
+    predicted: 5.108069403
+-
+    ceo: Doyle R. Simons
+    company: Weyerhaeuser
+    industry: Construction
+    Gender: 0
+    ranking: 373
+    careerOpportunitiesRating: 2.5
+    ceoApprovalRating: 0
+    compensationAndBenefitsRating: 3
+    cultureAndValuesRating: 0
+    seniorLeadershipRating: 3.5
+    workLifeBalanceRating: 3.8
+    overallRating: 3.5
+    ungendered: 2.511785553
+    predicted: 2.511774006
+-
+    ceo: Jeff M. Fettig
+    company: Whirlpool Corporation
+    industry: Consumer Products Manufacturing
+    Gender: 0
+    ranking: 134
+    careerOpportunitiesRating: 3.6
+    ceoApprovalRating: 3.5
+    compensationAndBenefitsRating: 3.8
+    cultureAndValuesRating: 3.8
+    seniorLeadershipRating: 3
+    workLifeBalanceRating: 3.1
+    overallRating: 4.2
+    ungendered: 3.576274366
+    predicted: 3.576257911
+-
+    ceo: John P. Mackey, Walter E. Robb IV
+    company: Whole Foods Market
+    industry: Grocery Stores & Supermarkets
+    Gender: 0
+    ranking: 181
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 3.45
+    compensationAndBenefitsRating: 3.5
+    cultureAndValuesRating: 3.6
+    seniorLeadershipRating: 2.9
+    workLifeBalanceRating: 3.2
+    overallRating: 3.4
+    ungendered: 3.422658505
+    predicted: 3.422639239
+-
+    ceo: Anthony W. Thomas
+    company: Windstream
+    industry: Telecommunications Services
+    Gender: 0
+    ranking: 443
+    careerOpportunitiesRating: 2.8
+    ceoApprovalRating: 3.2
+    compensationAndBenefitsRating: 2.7
+    cultureAndValuesRating: 2.9
+    seniorLeadershipRating: 2.6
+    workLifeBalanceRating: 3.1
+    overallRating: 2.9
+    ungendered: 2.969509962
+    predicted: 2.969486718
+-
+    ceo: Michael J. Kasbar
+    company: World Fuel Services
+    industry: Wholesale
+    Gender: 0
+    ranking: 92
+    careerOpportunitiesRating: 2.6
+    ceoApprovalRating: 3.25
+    compensationAndBenefitsRating: 3.4
+    cultureAndValuesRating: 2.8
+    seniorLeadershipRating: 2.7
+    workLifeBalanceRating: 2.9
+    overallRating: 3
+    ungendered: 2.9560298
+    predicted: 2.956003878
+-
+    ceo: Stephen P. Holmes
+    company: Wyndham Worldwide
+    industry: Hotels, Motels, & Resorts
+    Gender: 0
+    ranking: 466
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 4.45
+    compensationAndBenefitsRating: 3.4
+    cultureAndValuesRating: 3.5
+    seniorLeadershipRating: 3.1
+    workLifeBalanceRating: 3.3
+    overallRating: 3.4
+    ungendered: 3.471293176
+    predicted: 3.471273827
+-
+    ceo: Ursula M. Burns
+    company: Xerox Corporation
+    industry: Publishing
+    Gender: 1
+    ranking: 150
+    careerOpportunitiesRating: 2.4
+    ceoApprovalRating: 2.55
+    compensationAndBenefitsRating: 2.5
+    cultureAndValuesRating: 2.5
+    seniorLeadershipRating: 2.2
+    workLifeBalanceRating: 2.8
+    overallRating: 2.6
+    ungendered: 2.599141873
+    predicted: 2.599551519
+-
+    ceo: Bradley S. Jacobs
+    company: XPO Logistics
+    industry: Transportation Management
+    Gender: 0
+    ranking: 353
+    careerOpportunitiesRating: 3.3
+    ceoApprovalRating: 3.6
+    compensationAndBenefitsRating: 3.3
+    cultureAndValuesRating: 3.2
+    seniorLeadershipRating: 3.1
+    workLifeBalanceRating: 3
+    overallRating: 3.3
+    ungendered: 3.335914215
+    predicted: 3.335893474
+-
+    ceo: David C. Dvorak
+    company: Zimmer Biomet
+    industry: Health Care Products Manufacturing
+    Gender: 0
+    ranking: 431
+    careerOpportunitiesRating: 3.1
+    ceoApprovalRating: 2.5
+    compensationAndBenefitsRating: 3.4
+    cultureAndValuesRating: 2.8
+    seniorLeadershipRating: 2.7
+    workLifeBalanceRating: 3.2
+    overallRating: 3.1
+    ungendered: 3.096544061
+    predicted: 3.096528552

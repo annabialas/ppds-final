@@ -7,105 +7,8 @@
     <title>{{ title }}</title>
     <!-- CSS -->
 	<link rel="stylesheet" href="/static/css/foundation.min.css" />
-<!--   <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}"> -->
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/stylesheet.css') }}">
   </head>
-  <style> 
-  html { height: 100%; margin: 0; }
-  body {
-    font-size: 16px;
-    font-family: "Roboto", sans-serif;
-    line-height: 1.62;
-    font-weight: 400;
-    color: #333;
-    padding: 0;
-    margin: 0;
-    -webkit-font-smoothing: antialiased; 
-    background-color: #E5E5E5;
-    height: 100%;
-    margin: 0;
-  }
-
-  .wrapper { min-height: 100%; }
-
-  .top-nav {
-    height: 40px;
-    margin: 0px;
-    background-color: #004F6F;
-  }
-
-  .top-nav__item {
-    line-height: 40px;
-    vertical-align: middle;
-    text-align: right;
-    font-size: 14px;
-  }
-
-  .top-nav__item a { color: #FFF;  }
-
-  .footer {
-    bottom: 0;
-    width: 100%;
-    height:40px;
-    background-color: #004F6F;
-    color: #fff;
-    margin-top: -40px;
-  }
-
-  .footer__content { 
-    margin: 0; 
-    line-height: 40px; 
-    font-size: 10px;
-    text-align: right;  
-  }
-
-  .top-section { 
-    height: 170px;
-    margin: 0px;
-    background-color: #004F6F;
-    text-align:center;
-  }
-
-  .title { 
-    color: #fff; 
-    padding: 0px 0px 30px 0px; 
-    font-weight: 200;
-    font-family: "Roboto", sans-serif;
-  }
-
-  .subtitle {
-    padding: 0px 60px 20px 60px; 
-    font-weight: 200;
-    font-family: "Roboto", sans-serif;
-    display: inline;
-  }
-
-  .subtitle a { color: #fff; }
-
-  .divider { background-color: #333; text-align: center; color: #fff; margin: 0px 0px 20px 0px;}
-  .divider h5 { padding: 20px 0px 20px 0px; margin: 0px; font-weight: 200;}
-
-  select { margin-bottom: 40px; }
-  select:hover { cursor: pointer; } 
-
-  .result {display: none; padding-bottom: 40px;}
-
-  .pair { margin-left: 20px; }
-
-  .key, .value { display: inline-block; }
-
-  .key-key { display: inline-block; width: 230px; font-weight: 600; }
-
-  .key { width: 90px; font-weight: 600;}
-
-  .all-ratings { margin-top: 30px; font-size: 12px; text-align: center;}
-
-  .all-ratings span { margin-right: 6px; }
-
-  option:selected { color: red; }
-
-  #select { color: rgba(0,0,0,.5); }
-
-  </style>
   <body>   
   <div class="wrapper"> 
     <nav class="top-nav">
@@ -148,9 +51,13 @@
           {% for item in items %}
           <div class="result" id="{{ item.company | slugify }}">
           <div class="row">
-            <div class="column small-6">
+            <div class="column small-7">
             <div class="pair">
-              <p class="key">Industry</p>
+              <p class="key">Ranking:</p>
+              <p class="value industry">{{ item.ranking }}</p>
+            </div>
+            <div class="pair">
+              <p class="key">Industry:</p>
               {% if item.industry %}
               <p class="value industry">{{ item.industry }}</p>
               {% else %}
@@ -158,11 +65,11 @@
               {% endif %}
             </div>
             <div class="pair">
-              <p class="key">CEO</p>
+              <p class="key">CEO:</p>
               <p class="value ceo">{{ item.ceo }}</p>
             </div>
             <div class="pair">
-              <p class="key">Gender</p>
+              <p class="key">Gender:</p>
               {% if item.Gender == 0 %}
               <p class="value gender">Male</p>
               {% else %}
@@ -170,22 +77,24 @@
               {% endif %}
             </div>
             </div>
-            <div class="column small-6">
+            <div class="column small-5">
               <div class="pair">
-                <p class="key-key">Overall Glassdoor Rating:</p>
+                <p class="key-key">Overall Glassdoor Rating*:</p>
                 <p class="overall value">{{ item.overallRating | round(4, 'floor')}}</p>
               </div>
               <div class="pair">
-                <p class="key-key">Predicted Rating (w/ gender):</p>
+                <p class="key-key">Predicted Rating** (w/ gender):</p>
                 <p class="predicted value">{{ item.predicted | round(4, 'floor') }}</p>
               </div>
               <div class="pair">
-                <p class="key-key">Predicted Rating (w/o gender):</p>
+                <p class="key-key">Predicted Rating** (w/o gender):</p>
                 <p class="ungendered value">{{ item.ungendered | round(4, 'floor') }}</p>
               </div>
             </div>
             <div class="column small-12">
               <p class="all-ratings">
+              <span>* Based on individual respondents' ratings</span><br>
+              <span>** Calculated using the following ratings and CEO's gender if applicable (male=0; female=1):</span><br>
               <span>Career Opportunities: {{ item.careerOpportunitiesRating | round(2, 'floor')}},</span> 
               <span>CEO Approval: {{ item.ceoApprovalRating | round(2, 'floor') }},</span>
               <span>Compensation and Benefits: {{ item.compensationAndBenefitsRating | round(2, 'floor') }},</span>
