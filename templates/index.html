@@ -10,7 +10,7 @@
 <!--   <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}"> -->
   </head>
   <style> 
-
+  html { height: 100%; margin: 0; }
   body {
     font-size: 16px;
     font-family: "Roboto", sans-serif;
@@ -21,7 +21,11 @@
     margin: 0;
     -webkit-font-smoothing: antialiased; 
     background-color: #E5E5E5;
+    height: 100%;
+    margin: 0;
   }
+
+  .wrapper { min-height: 100%; }
 
   .top-nav {
     height: 40px;
@@ -40,11 +44,11 @@
 
   .footer {
     bottom: 0;
-    position:absolute;
     width: 100%;
     height:40px;
     background-color: #004F6F;
     color: #fff;
+    margin-top: -40px;
   }
 
   .footer__content { 
@@ -55,7 +59,7 @@
   }
 
   .top-section { 
-    height: 200px;
+    height: 170px;
     margin: 0px;
     background-color: #004F6F;
     text-align:center;
@@ -63,27 +67,34 @@
 
   .title { 
     color: #fff; 
-    padding: 40px 0px 20px 0px; 
+    padding: 0px 0px 30px 0px; 
     font-weight: 200;
     font-family: "Roboto", sans-serif;
   }
 
   .subtitle {
-    color: #fff; 
-    padding: 0px 0px 20px 0px; 
+    padding: 0px 60px 20px 60px; 
     font-weight: 200;
     font-family: "Roboto", sans-serif;
+    display: inline;
   }
 
-  .divider { background-color: #333; text-align: center; color: #fff; margin: 0px 0px 40px 0px;}
-  .divider h5 { padding: 20px 0px 20px 0px; margin: 0px;}
+  .subtitle a { color: #fff; }
 
-  select:hover { cursor: pointer; }
+  .divider { background-color: #333; text-align: center; color: #fff; margin: 0px 0px 20px 0px;}
+  .divider h5 { padding: 20px 0px 20px 0px; margin: 0px; font-weight: 200;}
 
-  .result { display: none; } 
+  select { margin-bottom: 40px; }
+  select:hover { cursor: pointer; } 
+
+  .result {display: none; padding-bottom: 40px;}
+
+  .overall, .predicted, .ungendered { text-align: center; }
+  .ceo, .industry, .gender { padding-left: 30px; }
 
   </style>
-  <body>    
+  <body>   
+  <div class="wrapper"> 
     <nav class="top-nav">
       <div class="row expanded align-right">
         <div class="small-12 medium-4 large-4 columns">
@@ -95,36 +106,61 @@
       <div class="row expanded align-center">
         <div class="small-12 medium-8 large-8 columns">
           <h2 class="title">Our Project</h2>
-          <p class="subtitle">Lorem impsum dolor sit</p>
+          <p class="subtitle"><a href="">methodology</a></p>
+          <p class="subtitle"><a href="">see the notebook</a></p>
         </div>
       </div>
     </div>
     <div class="divider">
       <div class="row expanded align-center">
         <div class="small-12 medium-8 large-8 columns">
-          <h5>Choose two companies to compare</h2>
+          <h5>Choose a company to see its ratings</h5>
         </div>
       </div>
     </div>
     <div class="row align-center">
-  		<div class="column small-8">
+  		<div class="column small-10">
         <div class="select">
           <select name="" id="select">
-              <option value="default" disabled selected="selected">Choose a company</option>
+              <option value="default" disabled selected="selected">All Companies</option>
               {% for item in items %}
-              <option value="{{ item.Company | slugify }}">{{ item.Company }}</option>
+              <option value="{{ item.company | slugify }}">{{ item.company }}</option>
               {% endfor %}
           </select>
         </div>  
       </div>
     </div>
     <div class="row align-center">
-  		<div class="column small-8">
+  		<div class="column small-10">
           {% for item in items %}
-              <p class="result" id="{{ item.Company | slugify }}">{{ item.Company }}</p>
+          <div class="result" id="{{ item.company | slugify }}">
+          <div class="row">
+            <div class="column small-4">
+              <p class="ceo">{{ item.ceo }}</p>
+              {% if item.industry %}
+              <p class="industry">{{ item.industry }}</p>
+              {% else %}
+              <p class="industry">N/A</p>
+              {% endif %}
+              {% if item.Gender == 0 %}
+              <p class="gender">Male</p>
+              {% else %}
+              <p class="gender">Female</p>
+              {% endif %}
+            </div>
+            <div class="column small-4">
+              <p class="overall">{{ item.overallRating | round(4, 'floor')}}</p>
+            </div>
+            <div class="column small-4">
+              <p class="predicted">{{ item.predicted | round(4, 'floor') }}</p>
+              <p class="ungendered">{{ item.ungendered | round(4, 'floor') }}</p>
+            </div>
+          </div>
+          </div>
           {% endfor %}
       </div>
     </div>
+  </div>
   <footer class="footer">
     <div class="row expanded align-right">
       <div class="small-12 medium-6 columns">
@@ -147,6 +183,7 @@
       var company = $( "#select option:selected" ).val();
       $('.result').hide();
       $("#"+company).show();
+
     });
 
   });
