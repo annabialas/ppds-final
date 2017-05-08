@@ -26,6 +26,6 @@ def index():
 if __name__ == "__main__":
 	app.jinja_env.filters['slugify'] = slugify_string
 	if os.environ.get('APP_LOCATION') == 'heroku':
-		app.run(host="0.0.0.0", port=int(os.environ.get("PORT",8080)))
+		app.run(host="0.0.0.0", port=int(os.environ.get("PORT",5000)))
 	else:
 		app.run(host='localhost', port=5000, debug=True)
