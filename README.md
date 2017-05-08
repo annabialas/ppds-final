@@ -4,6 +4,7 @@ This is the final interface for Projects in Programming and Data Science with Pr
 
 ##### To install:
 
+clone the repository<br>
 cd into the project folder<br>
 
 `virtualenv venv`<br>
