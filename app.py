@@ -22,10 +22,6 @@ app.config.update(
 def index():
     return render_template('index.html', title = 'index', items = data)
 
-@app.route('/about')
-def about():
-    return render_template('about.html', title = 'about')
-
 if __name__ == "__main__":
 	app.jinja_env.filters['slugify'] = slugify_string
 	app.run()
