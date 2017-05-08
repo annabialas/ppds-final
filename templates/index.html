@@ -89,8 +89,21 @@
 
   .result {display: none; padding-bottom: 40px;}
 
-  .overall, .predicted, .ungendered { text-align: center; }
-  .ceo, .industry, .gender { padding-left: 10%; }
+  .pair { margin-left: 20px; }
+
+  .key, .value { display: inline-block; }
+
+  .key-key { display: inline-block; width: 230px; font-weight: 600; }
+
+  .key { width: 90px; font-weight: 600;}
+
+  .all-ratings { margin-top: 30px; font-size: 12px; text-align: center;}
+
+  .all-ratings span { margin-right: 6px; }
+
+  option:selected { color: red; }
+
+  #select { color: rgba(0,0,0,.5); }
 
   </style>
   <body>   
@@ -105,7 +118,7 @@
     <div class="top-section">
       <div class="row expanded align-center">
         <div class="small-12 medium-8 large-8 columns">
-          <h2 class="title">Our Project</h2>
+          <h2 class="title">F500 Company Ratings</h2>
           <p class="subtitle"><a href="">methodology</a></p>
           <p class="subtitle"><a href="">see the notebook</a></p>
         </div>
@@ -114,7 +127,7 @@
     <div class="divider">
       <div class="row expanded align-center">
         <div class="small-12 medium-8 large-8 columns">
-          <h5>Choose a company to see its ratings</h5>
+          <h5>Choose a company to see its real and predicted ratings</h5>
         </div>
       </div>
     </div>
@@ -122,7 +135,7 @@
   		<div class="column small-10">
         <div class="select">
           <select name="" id="select">
-              <option value="default" disabled selected="selected">All Companies</option>
+              <option value="default" disabled selected>All Companies</option>
               {% for item in items %}
               <option value="{{ item.company | slugify }}">{{ item.company }}</option>
               {% endfor %}
@@ -135,25 +148,51 @@
           {% for item in items %}
           <div class="result" id="{{ item.company | slugify }}">
           <div class="row">
-            <div class="column small-4">
-              <p class="ceo">{{ item.ceo }}</p>
+            <div class="column small-6">
+            <div class="pair">
+              <p class="key">Industry</p>
               {% if item.industry %}
-              <p class="industry">{{ item.industry }}</p>
+              <p class="value industry">{{ item.industry }}</p>
               {% else %}
-              <p class="industry">N/A</p>
+              <p class="value industry">N/A</p>
               {% endif %}
+            </div>
+            <div class="pair">
+              <p class="key">CEO</p>
+              <p class="value ceo">{{ item.ceo }}</p>
+            </div>
+            <div class="pair">
+              <p class="key">Gender</p>
               {% if item.Gender == 0 %}
-              <p class="gender">Male</p>
+              <p class="value gender">Male</p>
               {% else %}
-              <p class="gender">Female</p>
+              <p class="value gender">Female</p>
               {% endif %}
             </div>
-            <div class="column small-4">
-              <p class="overall">{{ item.overallRating | round(4, 'floor')}}</p>
             </div>
-            <div class="column small-4">
-              <p class="predicted">{{ item.predicted | round(4, 'floor') }}</p>
-              <p class="ungendered">{{ item.ungendered | round(4, 'floor') }}</p>
+            <div class="column small-6">
+              <div class="pair">
+                <p class="key-key">Overall Glassdoor Rating:</p>
+                <p class="overall value">{{ item.overallRating | round(4, 'floor')}}</p>
+              </div>
+              <div class="pair">
+                <p class="key-key">Predicted Rating (w/ gender):</p>
+                <p class="predicted value">{{ item.predicted | round(4, 'floor') }}</p>
+              </div>
+              <div class="pair">
+                <p class="key-key">Predicted Rating (w/o gender):</p>
+                <p class="ungendered value">{{ item.ungendered | round(4, 'floor') }}</p>
+              </div>
+            </div>
+            <div class="column small-12">
+              <p class="all-ratings">
+              <span>Career Opportunities: {{ item.careerOpportunitiesRating | round(2, 'floor')}},</span> 
+              <span>CEO Approval: {{ item.ceoApprovalRating | round(2, 'floor') }},</span>
+              <span>Compensation and Benefits: {{ item.compensationAndBenefitsRating | round(2, 'floor') }},</span>
+              <span>Culture and Values: {{ item.cultureAndValuesRating | round(2, 'floor') }},</span> 
+              <span>Leadership: {{ item.seniorLeadershipRating | round(2, 'floor')}},</span>
+              <span>Work-Life Balance: {{ item.workLifeBalanceRating | round(2, 'floor')}}</span>
+              </p>
             </div>
           </div>
           </div>
@@ -181,6 +220,7 @@
 
     $('select').on('change', function (e) {
       var company = $( "#select option:selected" ).val();
+      $( "#select" ).css('color', '#000');
       $('.result').hide();
       $("#"+company).show();
 
